@@ -1,5 +1,4 @@
 # Uhorsko po moháči
-
 - 1526 - bitka pri moháči - koniec uhorského kráľovstva
   - posledný pokus uhorského panovníka ľudovíta druhého zastaviť turkov
 
@@ -9,7 +8,6 @@
   25000 mužov  |  60000 chlapov
 
 ## Príčiny porážky
-
 1. neúčasť šľachty
 2. slabé vojsko
 3. zlá výzbroj
@@ -17,14 +15,11 @@
 5. šľachtická jazda ušla - vlastne as ani neunúvali tam prísť
 
 ## Dôsledky porážky
-
  - koniec stredovekého Uhorska
    - koniec stredoveku v strednej Európe
  - osmani obsadujú balkán
  - spory o uhorský trón
  - vznik **Habsburgskej ríše**
-
-\pagebreak
 
 ## Spor o trón
 
@@ -32,21 +27,21 @@
 ---------------------------------------------------|--------------
  Nie je šľachtic zo šľachtickej rodiny             | Vysoký Šľachtic zo šlachtickej rodiny
  Nastupuje na trón na základe Bratislavskej zmluvy | Nastupuje lebo to celkom dáva zmysel
- ![](2c75.png)                                     | ![](c119.png)
 
 Ján Zápoľský chce pomoc osmanov (wtf).
 
 Nakoniec sa rozhodli, že si ríšu rozdelia. Ale spísali zmluvu, že ak jeden zomrie, tak druhý berie celú ríšu. Ale Janči má armádu a malého syna a nechce dopustiť, aby sa Ferdo stal kráľom.
 
-## Rozdelenie ríše
+## Rozdelenie ríš
 
 Ríša sa teda rozpadla.
 
- časť              |
--------------------| -------------------------------------
- Kráľovské uhorsko | aj slovensko
- Budínsky pašaik   | yes
- Sedmohradsko      | celkom autonómne - patrí pod osmanov
+
+časť                         |
+--------------------| -------------------------------------
+Kráľovské uhorsko | aj slovensko
+Budínsky pašaik     | yes
+Sedmohradsko       | celkom autonómne - patrí pod osmanov
 
 Slovensko sa stáva súčasťou Habsgurgskej monarchie.
 
@@ -59,11 +54,9 @@ Habsburgská monrachia pozostávala z:
  - rakúzskych dedičných krajín
 
 cieľ Habsburgovcov:
-
 > Vytvoriť silnú absolutistickú centralizovanú katolícku monarchiu
 
 Centrum uhorska sa presunulo do **Bratislavy**. sídli tam:
-
  - Uhorská komora
  - miestodržiteľká rada
  - Súdna rada
@@ -71,11 +64,9 @@ Centrum uhorska sa presunulo do **Bratislavy**. sídli tam:
 
 
 # Stavovské povstania v uhorsku
-
-šľachtické povstania proti Hapsbrugovcom
+šľachtické povstania proti Habsbrugovcom
 
 ## Príčina
-
  - šľachtici chceli moc
  - habsburgovci **nútili** katolíctvo
    - Zákon proti náboženským novotám

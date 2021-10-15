@@ -3,6 +3,8 @@
   "foldIndent": true,
   "defaultViewMode": "preview",
   "showLineNumber": false,
-  "alwaysUpdateLinks": false,
-  "readableLineLength": false
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }

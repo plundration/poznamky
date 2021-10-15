@@ -21,17 +21,13 @@ Základný slohový útvar je **opis**, ďalšími žánrami sú **charakteristi
 **posudok**.
 
 ## Druhy opisu
-
 Opis môže byť:
-
 - podľa výberu jazykových prostriedkov
   - statický
   - dynamický
-
 - podľa postoja autora
   - objektívny
   - subjektívny
-
 - podľa komunikačnej sféry
   - jednoduchý
   - odborný
@@ -55,6 +51,7 @@ Tretím syntaktickým znakom je **Výpustka** - **elipsa**: Z výpovede je
 vypustené, vynechané sloveso - najčastejšie sloveso, ktoré sa tam dá doplniť.
 
 > Aká <je> matka, taká <je> katka.
+
 
 ### Dynamický
 

@@ -1,0 +1,36 @@
+# Umelecký štýl
+Umelecký štýl patrí do sféry komunikácie **slovesného** (slovného) **umenia**.
+### komunikačné sféry 
+ - *literatúra*
+ - *divadlo*
+ - *kino*
+ - *škola* (hodiny literatúry lmao)
+ - *ulica* (pouličné divadlo)
+ - *rozhlasové hry*...
+
+### komunikanti
+ - autor -> spisovateľ, rečník, iný umelec
+ - čitatelia, poslucháči, diváci
+
+### funkcie
+ - *estetická* - um sich zu amusieren
+ - *výchovnú* - my sme vojska alahova za islam se borimo
+ - *poznávacia* - cestopisy, opis prírody
+ - *dorozumievaciu* - štúrovci atď...
+autor tieto druhotné funkcie **zakryje** za tú estetickú
+
+### znaky
+**písomnosť / ústnosť** - Text je určený neznámemu príjemcovi.
+**subjektívnosť** - Umelecký text nemusí byť presný, autor má vlastný štýl, postavy majú názory.
+**variabilnosť** - Keby všetko umenie bolo rovnaké, nemalo by zmysel
+ výber jazykových prostriedkov - iní autori majú iný štýl, inú slovnú zásobu
+ bohatstvo formy  - pestrosť štýlu, tvaru verša, rýmov
+ hybridizácia literárnych žánrov, literárnych druhov, foriem a jazykových prostriedkov - v dnešnej dobe sa často miešjú žánre, prostredia, ...
+**obsahová viacznačnosť** - používajú rôznych umeleckých prostriedkov, ktoré majú skrytý význam
+
+### literárne druhy
+Umelecký text sa realizuje v troch formách - literárnych druhoch - **lyrika, epika, dráma.**
+Vrámci každého dyhu exisuteje viacero žánrov / foriem.
+
+### slohové postupy
+Rozprávací a opisný, ale môže byť ešte výkladový - napríklad úvahový, no aj informačný - denníky, biografie, ....

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a11d82d6ba54d8df",
+        "id": "2ea78b76c6c140a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "geo/mapy.md",
+            "file": "dej/uhorsko.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geo/mapy.md",
+                "file": "dej/uhorsko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a11d82d6ba54d8df",
+  "active": "2ea78b76c6c140a4",
   "lastOpenFiles": [
-    "geo/mapy.md"
+    "dej/uhorsko.md",
+    "geo/mapy.md",
+    "geo/zem.md",
+    "dej/objavenie nového sveta.md",
+    "dej/choroby nového sveta.md",
+    "sjl/opis.md",
+    "rozprávací slohový postup.md",
+    "umelecký štýl.md",
+    "opis.md",
+    "dej/reformácia cirkvi.md"
   ]
 }
