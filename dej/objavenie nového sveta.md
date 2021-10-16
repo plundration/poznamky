@@ -1,4 +1,4 @@
-[]()# Objavenie nového sveta
+# Objavenie nového sveta
 
 #### Príčiny:
  - Turci obsadili Istanbul -> zastavili **obchodné cesty do Indie** (dane a nebezpečenstvo pre kupcov)

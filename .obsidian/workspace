@@ -6,11 +6,11 @@
       {
         "id": "df141fd6d71e055c",
         "type": "leaf",
-        "dimension": 47.97047970479705,
+        "dimension": 64.41750131787032,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dej/objavenie nového sveta.md",
+            "file": "sjl/rozprávací slohový postup.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "b7a10b2076aa6ff2",
         "type": "leaf",
-        "dimension": 52.02952029520295,
+        "dimension": 35.582498682129675,
         "state": {
           "type": "markdown",
           "state": {
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dej/objavenie nového sveta.md",
+                "file": "sjl/rozprávací slohový postup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dej/objavenie nového sveta.md",
+                "file": "sjl/rozprávací slohový postup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dej/objavenie nového sveta.md"
+                "file": "sjl/rozprávací slohový postup.md"
               }
             }
           },
@@ -151,15 +150,15 @@
   },
   "active": "df141fd6d71e055c",
   "lastOpenFiles": [
-    "dej/objavenie nového sveta.md",
+    "sjl/rozprávací slohový postup.md",
+    "sjl/umelecký štýl.md",
+    "sjl/opisný slohový postup.md",
+    "sjl/opis.md",
     "geo/zem.md",
     "geo/mapy.md",
-    "test.md",
     "fyz/teplomery.md",
-    "Untitled.md",
-    "dej/choroby nového sveta.md",
-    "dej/reformácia cirkvi.md",
     "dej/uhorsko.md",
-    "sjl/opisný slohový postup.md"
+    "dej/reformácia cirkvi.md",
+    "dej/choroby nového sveta.md"
   ]
 }
