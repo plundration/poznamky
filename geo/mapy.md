@@ -1,5 +1,5 @@
 # Mapa
-` = Zjednodušený zmenšený rovinný (premietnutý z 3D do 2D) obraz Zeme`
+`= Zjednodušený zmenšený rovinný (premietnutý z 3D do 2D) obraz Zeme`
 Poskytuje názorný prehľadný a skreslený obraz
 Jdnotlivé tvary a javy na Zemi, kt. znázorňuje, sú zobrazené vo forme mapových značiek a symbolov
 základné kartografické dielo a spolu s glóbusom zobrazuje svet okolo nás
@@ -10,7 +10,6 @@ základné kartografické dielo a spolu s glóbusom zobrazuje svet okolo nás
 Polohu každého bodu vieme určiť pomocou **zemepisných súradníc** 
 
 -------------------------------
-
 ## Zemepisné súradnice
 
 #### Poludník
@@ -66,7 +65,8 @@ Podľa obsahu rozlišujeme mapy:
 
 **Kartodiagram** - graf | tabuľka | diagram, ktorý vyjadruje nejakú kvantitu kvalít na mieste - **kvalitatívne** 
 
-#### Mierka - udáva pomer zmenšenia mapy voči realite, existuje grafická a číselná
+#### Mierka
+`udáva pomer zmenšenia mapy voči realite, existuje grafická a číselná`
 Vyjadruje sa pomerom -> 1 : m , kde *m* je **mierkové číslo**
 1 : 200 -> 1cm na mape == 200 cm irl
 mapy sa delia na:
@@ -86,9 +86,9 @@ Spajájajú body s rovnakou hodnotou nejakej veličny
 izobary, izotermy, izochory
 
 ### Krajinná sféra
-**Vrchná hranica** - ozónová sféra
-
-**Spodná hranica**
+**Vrchná hranica** 
+ozónová sféra
+**Spodná hranica** 
 Na rozhraní plášťa a zem. kory = Mohorovičičová plocha diskontinuity
 hĺbka = ???
 
@@ -119,3 +119,7 @@ použivateľ: vy
 využitie: letecká doprava, záchanné systémy (112), lodná doprava, turistika
 
 ---
+
+$$
+\frac {d}{dx}f(x) = f'(x)
+$$

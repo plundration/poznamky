@@ -865,7 +865,7 @@ COLORS
   --dusk: #474e5e;
   --ash: #232630;
   --cornflower-blue: #a1c4fd;
-  --light-cornflower-blue: #adccff;
+  --light-cornflower-blue: #e66460; /* inline code color */
   --duskblue: #a2acc3;
   --darkbrown: #34343d;
   --pureblack: #080808;
@@ -998,6 +998,7 @@ PASTEL COLORS
     calc(var(--base-d) + 58%),
     1
   );
+  --text-inline-code: #ee8181;
   --text-faint: hsla(
     var(--base-h),
     calc(var(--base-s) - 4%),
@@ -1031,7 +1032,7 @@ PASTEL COLORS
     calc(var(--base-s) - 4%),
     calc(var(--base-d) + 6%)
   );
-  --inline-code: var(--light-cornflower-blue);
+  --inline-code: var(--light-cornflower-blue); /*code color perhaps*/
   --code-block: var(--paleblue);
   --code-block-border: var(--light0);
   --vim-cursor: var(--interactive-accent);
@@ -1462,8 +1463,8 @@ p .tag,
 .cm-s-obsidian .hmd-fold-code-stub,
 .cm-s-obsidian.CodeMirror .HyperMD-hover > .HyperMD-hover-content code,
 .cm-s-obsidian .cm-formatting-hashtag,
-.cm-s-obsidian .cm-inline-code,
 .cm-s-obsidian .HyperMD-codeblock,
+.cm-s-obsidian .cm-inline-code,
 .cm-s-obsidian .HyperMD-hr,
 .cm-s-obsidian .cm-hmd-frontmatter,
 .cm-s-obsidian .cm-hmd-orgmode-markup,
@@ -2294,7 +2295,6 @@ span.cm-hmd-internal-link,
 .cm-s-obsidian .cm-header span.cm-hmd-internal-link {
   transition-duration: ease 500ms;
   color: var(--text-accent);
-  text-decoration: none;
 }
 
 .cm-s-obsidian span.cm-url:hover {
@@ -2309,12 +2309,13 @@ a:hover,
 .external-link:hover,
 .cm-hmd-internal-link:hover {
   color: var(--text-accent);
+  opacity: 50%;
 }
 
 /* LINKS IN PREVIEW*/
 
 .markdown-preview-view .internal-link {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .markdown-preview-view .internal-link.is-unresolved {
@@ -2421,6 +2422,8 @@ em,
 .cm-s-obsidian .cm-em {
   font-style: italic;
   color: var(--em-color);
+  /* text-decoration: underline;
+  text-decoration-style: dashed; */
 }
 
 /* BOLD */
@@ -2610,6 +2613,13 @@ EDITOR SECTION
   --background-primary-alt: var(--pre-code);
 }
 
+/* link here */
+.markdown-preview-view p code
+{
+  color: var(--text-inline-code) !important ;
+  font-size: 100%;
+}
+
 .theme-dark code[class*="language-"],
 .theme-light code[class*="language-"] {
   text-shadow: none;
@@ -2617,7 +2627,7 @@ EDITOR SECTION
 
 .cm-inline-code,
 .cm-s-obsidian span.cm-inline-code {
-  color: var(--text-muted);
+  color: var(--text-inline-code) !important ;
   font-size: var(--code-font-size);
   font-family: var(--font-monospace);
   padding: 1px;

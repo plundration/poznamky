@@ -9,5 +9,8 @@
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
   "tabSize": 4,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": false,
+  "spellcheck": false,
+  "showFrontmatter": false
 }

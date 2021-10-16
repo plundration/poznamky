@@ -6,24 +6,24 @@
       {
         "id": "df141fd6d71e055c",
         "type": "leaf",
-        "dimension": 38.95624670532419,
+        "dimension": 47.97047970479705,
         "state": {
           "type": "markdown",
           "state": {
             "file": "dej/objavenie nového sveta.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
         "id": "b7a10b2076aa6ff2",
         "type": "leaf",
-        "dimension": 61.04375329467581,
+        "dimension": 52.02952029520295,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "geo/mapy.md",
-            "mode": "source"
+            "file": "geo/zem.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,9 +52,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#slovencina",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geo/mapy.md",
+                "file": "dej/objavenie nového sveta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geo/mapy.md",
+                "file": "dej/objavenie nového sveta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geo/mapy.md"
+                "file": "dej/objavenie nového sveta.md"
               }
             }
           },
@@ -148,17 +149,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "b7a10b2076aa6ff2",
+  "active": "df141fd6d71e055c",
   "lastOpenFiles": [
-    "geo/mapy.md",
     "dej/objavenie nového sveta.md",
+    "geo/zem.md",
+    "geo/mapy.md",
+    "test.md",
+    "fyz/teplomery.md",
+    "Untitled.md",
     "dej/choroby nového sveta.md",
     "dej/reformácia cirkvi.md",
-    "fyz/teplomery.md",
     "dej/uhorsko.md",
-    "geo/zem.md",
-    "sjl/opisný slohový postup.md",
-    "sjl/rozprávací slohový postup.md",
-    "sjl/opis.md"
+    "sjl/opisný slohový postup.md"
   ]
 }

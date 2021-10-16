@@ -1,4 +1,4 @@
-# Objavenie nového sveta
+[]()# Objavenie nového sveta
 
 #### Príčiny:
  - Turci obsadili Istanbul -> zastavili **obchodné cesty do Indie** (dane a nebezpečenstvo pre kupcov)
@@ -37,10 +37,10 @@ Po skončení *rekonvisty* - zbavili sa arabov
  - koloniálne veľmoci -> spory
  - Europanizmus
  - nové plodiny: zemiak, kukurica, káva, čokoláda, ...
- - [[reformácia cirkvi|reformácia cirkvi]]
+ - [reformácia cirkvi](reformácia%20cirkvi.md)
 
 **neg**:
  - rozpad ríší domorodcov (Inkovia, Aztéci,...)
- - [[choroby nového sveta|šírenie chorob nového sveta]]
+ - [šírenie chorôb nového sveta](choroby%20nového%20sveta.md)
  - obchod s otrokmi
  - inflácia
