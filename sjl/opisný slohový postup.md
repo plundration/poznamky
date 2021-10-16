@@ -1,24 +1,16 @@
 # Opisný slohový postup
 
-Cieľom opisného slohového posupu je opísať niečo alebo niekoho tak, aby si to
-iný človek vedel predstaviť.
+Cieľom opisného slohového posupu je opísať niečo alebo niekoho tak, aby si to iný človek vedel predstaviť.
 
-Využíva *vymenovanie vlastností a znakov* - **enumeráciu**. Takisto využíva
-**logický postup** - od podstatných po menej podstatné znaky, alebo podľa
-fyzických vlastností. No a tretí typický znak je **následnosť činnosti**.
-Využíva a vyskytuje vo viacerých jazykových štýloch:
+Využíva *vymenovanie vlastností a znakov* - **enumeráciu**. Takisto využíva **logický postup** - od podstatných po menej podstatné znaky, alebo podľa fyzických vlastností. No a tretí typický znak je **následnosť činnosti**. Využíva a vyskytuje vo viacerých jazykových štýloch:
 
  - hovorovom
- - administratívnom
-   - posudok, životopis, administratícny referát/správa
- - náučnom
-   - obdorný výklad, opis pracovného postupu
+ - administratívnom -> posudok, životopis, administratícny referát/správa
+ - náučnom -> obdorný výklad, opis pracovného postupu
  - publicistickom - reportáž
- - umeleckom
-   - lyrika, epika
+ - umeleckom - lyrika, epika
 
-Základný slohový útvar je **opis**, ďalšími žánrami sú **charakteristika** a
-**posudok**.
+Základný slohový útvar je **opis**, ďalšími žánrami sú **charakteristika** a **posudok**.
 
 ## Druhy opisu
 Opis môže byť:
@@ -41,7 +33,7 @@ odborného opisu v bežnej komunikácii, ale môže sa vyskytovať aj v umelecke
 sfére ako opis prostredia.
 
 Jednotlivé časti opisu sú pevne zomknuté. Každá veta prináša novú informáciu,
-text je *hutný*. Väčšinou je tento opis objektívny. Najčastejšie sa tam
+text je *hutný*. Väčšinou je tento opis objektívny. Najčastejšie sa tam 
 vysktyujú podstatné a prídavné mená. Slovesá sú najčastejšie iba pomocné a
 neurčité. Nie sú tam činnostné slovesá. Nachádza sa tam **menné vyjadrovanie**.
 Nachádzajú sa oznamovacie vety a často sa tam objavujú viacnásobné vetné členy.

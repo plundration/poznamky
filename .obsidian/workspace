@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2ea78b76c6c140a4",
+        "id": "df141fd6d71e055c",
         "type": "leaf",
+        "dimension": 38.95624670532419,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dej/uhorsko.md",
+            "file": "dej/objavenie nového sveta.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "b7a10b2076aa6ff2",
+        "type": "leaf",
+        "dimension": 61.04375329467581,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "geo/mapy.md",
             "mode": "source"
           }
         }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#slovencina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,12 +60,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4b6c0e199405d4f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292
   },
   "right": {
     "id": "ed7db4eb7772d080",
@@ -68,35 +89,76 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dej/uhorsko.md",
+                "file": "geo/mapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "15ba966de2006711",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "geo/mapy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "21abf381ce5ef49b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7053f51c615ee4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "geo/mapy.md"
+              }
+            }
+          },
+          {
+            "id": "5b62cb13f7f34348",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 301
   },
-  "active": "2ea78b76c6c140a4",
+  "active": "b7a10b2076aa6ff2",
   "lastOpenFiles": [
-    "dej/uhorsko.md",
     "geo/mapy.md",
-    "geo/zem.md",
     "dej/objavenie nového sveta.md",
     "dej/choroby nového sveta.md",
-    "sjl/opis.md",
-    "rozprávací slohový postup.md",
-    "umelecký štýl.md",
-    "opis.md",
-    "dej/reformácia cirkvi.md"
+    "dej/reformácia cirkvi.md",
+    "fyz/teplomery.md",
+    "dej/uhorsko.md",
+    "geo/zem.md",
+    "sjl/opisný slohový postup.md",
+    "sjl/rozprávací slohový postup.md",
+    "sjl/opis.md"
   ]
 }

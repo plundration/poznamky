@@ -4,7 +4,7 @@ Poskytuje názorný prehľadný a skreslený obraz
 Jdnotlivé tvary a javy na Zemi, kt. znázorňuje, sú zobrazené vo forme mapových značiek a symbolov
 základné kartografické dielo a spolu s glóbusom zobrazuje svet okolo nás
 
-[**Zem**](zem.md) - nie je rovná perfektná guľa -> postupné approximácie:
+[Zem](zem.md) - nie je rovná perfektná guľa -> postupné approximácie:
  Geoid -> Elipsoid -> Guľa
 
 Polohu každého bodu vieme určiť pomocou **zemepisných súradníc** 
@@ -14,15 +14,15 @@ Polohu každého bodu vieme určiť pomocou **zemepisných súradníc**
 ## Zemepisné súradnice
 
 #### Poludník
- čiara na povrchu zeme spájajúca sev. a juž. pól
- volá sa tak, lebo je v každom bode rovnaký čas
- všeky sú rovnako dlhé - 20 004km 
- hlavné poludníky: nultý a 180tý
+čiara na povrchu zeme spájajúca sev. a juž. pól
+volá sa tak, lebo je v každom bode rovnaký čas
+všeky sú rovnako dlhé - 20 004km 
+hlavné poludníky: nultý a 180tý
  
 #### Rovnobežka
- priesečník povrchu zeme s rovinou, ktorá je kolmá na zemskú os
- má tvar kružnice
- nultá rovnobežka - 40 075km - smerom k pólu sa zmenšuje
+priesečník povrchu zeme s rovinou, ktorá je kolmá na zemskú os
+má tvar kružnice
+nultá rovnobežka - 40 075km - smerom k pólu sa zmenšuje
 
 zemepisná šírka - uhol ktorý zviera rovina nultej rovnobežky s polpriamkou SP, kde S je stred zeme a P je bod na povrchu zeme
 zemepisná dĺžka - uhol ktorý zviera rovina nultého poludníka, s poludníkom ktorý prechádza bodom P
@@ -50,9 +50,10 @@ všetky značky na mape ktoré označujú istú vec na istom mieste
   - líniové - hranice, rieky, ...
   - plošné - more, oceán, jazero, ...
   
-#### Popis mapy - ako sa ktorý objekt na mape volá 
-  rozlišujú sa veľkosťou, sklonom, fontom, farbou, ...
-  popisujú štáty, sídla, vodstvo, pohoria, ...
+#### Popis mapy 
+`ako sa ktorý objekt na mape volá`
+rozlišujú sa veľkosťou, sklonom, fontom, farbou, ...
+popisujú štáty, sídla, vodstvo, pohoria, ...
   
 Podľa obsahu rozlišujeme mapy:
   1. **Katastrálne** - vlastníctvo pozemkov, mierka napr. 1:2000

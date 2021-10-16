@@ -1,4 +1,5 @@
 # Uhorsko po moháči
+
 - 1526 - bitka pri moháči - koniec uhorského kráľovstva
   - posledný pokus uhorského panovníka ľudovíta druhého zastaviť turkov
 
@@ -29,7 +30,6 @@
  Nastupuje na trón na základe Bratislavskej zmluvy | Nastupuje lebo to celkom dáva zmysel
 
 Ján Zápoľský chce pomoc osmanov (wtf).
-
 Nakoniec sa rozhodli, že si ríšu rozdelia. Ale spísali zmluvu, že ak jeden zomrie, tak druhý berie celú ríšu. Ale Janči má armádu a malého syna a nechce dopustiť, aby sa Ferdo stal kráľom.
 
 ## Rozdelenie ríš
@@ -37,11 +37,11 @@ Nakoniec sa rozhodli, že si ríšu rozdelia. Ale spísali zmluvu, že ak jeden 
 Ríša sa teda rozpadla.
 
 
-časť                         |
+časť                          |
 --------------------| -------------------------------------
-Kráľovské uhorsko | aj slovensko
-Budínsky pašaik     | yes
-Sedmohradsko       | celkom autonómne - patrí pod osmanov
+Kráľovské uhorsko  | aj slovensko
+Budínsky pašaik      | yes
+Sedmohradsko        | celkom autonómne - patrí pod osmanov
 
 Slovensko sa stáva súčasťou Habsgurgskej monarchie.
 
@@ -75,20 +75,13 @@ Centrum uhorska sa presunulo do **Bratislavy**. sídli tam:
  - ľudia nechceli všetko sústredené vo viedni
 
 ## Spoločné znaky
-
 1. postavenie v spoločenskej hierarchii
-  - do čela sa postavia **šľachtici**
-    - váčšinou zo sedmohradska
-    - peniaze sú - vojsko je
-      - bojuje najnižšia vrstva
-2. náboženstvo
-  - väčšina vodcov sú protestanti
+  - do čela sa postavia **šľachtici**, váčšinou zo sedmohradska
+  - peniaze sú, vojsko je - bojuje najnižšia vrstva
+2. náboženstvo - väčšina vodcov sú protestanti
 3. spojectvo s turkami
-  - lmao
-4. Hospodársky a politický osoh
-  - každému jednému vodcovi tohoto povstania išlo - nebudeme si klamať, mládež - o peniaze
-5. ~100 rokov (1604 - 1711)
-  - 30-ročná vojna - habsburgovci vs. skoro celá európa (protestanti)
+4. Hospodársky a politický osoh - každému jednému vodcovi tohoto povstania išlo o peniaze a moc
+5. ~100 rokov (1604 - 1711) - 30-ročná vojna - habsburgovci vs. skoro celá európa (protestanti)
 6. Územie slovenska
 7. Skončili mierom (až na Tököliho)
 8. Kuruci(povstalci) - Labanci(španielski a nemeckí žoldnieri)
@@ -98,8 +91,7 @@ Centrum uhorska sa presunulo do **Bratislavy**. sídli tam:
 - Štefana Bočkaja
 - Bariela Betlena
   - Obsadil chrám sv. alžbety
-  - umučili troch košicckých kňazov
-    - **traja mučeníci**
+  - umučili troch košicckých kňazov -> **traja mučeníci**
 - Juraja I. Rákociho
 - Imricha Tököliho
   - jediné neúspešné RIP

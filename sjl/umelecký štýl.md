@@ -34,3 +34,4 @@ Vrámci každého dyhu exisuteje viacero žánrov / foriem.
 
 ### slohové postupy
 Rozprávací a opisný, ale môže byť ešte výkladový - napríklad úvahový, no aj informačný - denníky, biografie, ....
+

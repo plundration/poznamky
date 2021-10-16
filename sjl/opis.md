@@ -8,4 +8,3 @@
 - v masmediálnej a vedeckej sfére
 - je objektívny, statický a dynamický
 - použitie odborných názvov a výrazov, bez hodnotenia, obsahuje schémy a diagramy
-

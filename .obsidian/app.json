@@ -1,10 +1,13 @@
 {
   "foldHeading": true,
   "foldIndent": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "fileSortOrder": "byCreatedTimeReverse",
+  "tabSize": 4,
+  "showUnsupportedFiles": true
 }
