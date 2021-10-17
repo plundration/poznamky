@@ -6,23 +6,23 @@
       {
         "id": "df141fd6d71e055c",
         "type": "leaf",
-        "dimension": 64.41750131787032,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sjl/rozprávací slohový postup.md",
+            "file": "sutaze/mo/A.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b7a10b2076aa6ff2",
+        "id": "ad2dc29e8b6bf02b",
         "type": "leaf",
-        "dimension": 35.582498682129675,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "geo/zem.md",
+            "file": "sutaze/mo/A.md",
             "mode": "preview"
           }
         }
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 216
   },
   "right": {
     "id": "ed7db4eb7772d080",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sjl/rozprávací slohový postup.md",
+                "file": "sutaze/mo/A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sjl/rozprávací slohový postup.md",
+                "file": "sutaze/mo/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sjl/rozprávací slohový postup.md"
+                "file": "sutaze/mo/A.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "df141fd6d71e055c",
   "lastOpenFiles": [
+    "sutaze/mo/A.md",
+    "sutaze/mo/Untitled.md",
+    "sutaze/mo/a/Untitled.md",
     "sjl/rozprávací slohový postup.md",
+    "geo/zem.md",
     "sjl/umelecký štýl.md",
     "sjl/opisný slohový postup.md",
     "sjl/opis.md",
-    "geo/zem.md",
     "geo/mapy.md",
-    "fyz/teplomery.md",
-    "dej/uhorsko.md",
-    "dej/reformácia cirkvi.md",
-    "dej/choroby nového sveta.md"
+    "fyz/teplomery.md"
   ]
 }
