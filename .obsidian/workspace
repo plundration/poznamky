@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sutaze/mo/A.md",
+            "file": "sjl/opisný slohový postup.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sutaze/mo/A.md",
+                "file": "sjl/opisný slohový postup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sutaze/mo/A.md",
+                "file": "sjl/opisný slohový postup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sutaze/mo/A.md"
+                "file": "sjl/opisný slohový postup.md"
               }
             }
           },
@@ -150,13 +150,13 @@
   },
   "active": "df141fd6d71e055c",
   "lastOpenFiles": [
+    "sjl/opisný slohový postup.md",
+    "sjl/rozprávací slohový postup.md",
     "sutaze/mo/A.md",
     "sutaze/mo/Untitled.md",
     "sutaze/mo/a/Untitled.md",
-    "sjl/rozprávací slohový postup.md",
     "geo/zem.md",
     "sjl/umelecký štýl.md",
-    "sjl/opisný slohový postup.md",
     "sjl/opis.md",
     "geo/mapy.md",
     "fyz/teplomery.md"
