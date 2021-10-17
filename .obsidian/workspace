@@ -6,11 +6,11 @@
       {
         "id": "df141fd6d71e055c",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 53.15398886827458,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sjl/opisný slohový postup.md",
+            "file": "sutaze/mo/A.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "ad2dc29e8b6bf02b",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 46.84601113172542,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sjl/opisný slohový postup.md",
+                "file": "sutaze/mo/A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sjl/opisný slohový postup.md",
+                "file": "sutaze/mo/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sjl/opisný slohový postup.md"
+                "file": "sutaze/mo/A.md"
               }
             }
           },
@@ -146,13 +146,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 118
   },
   "active": "df141fd6d71e055c",
   "lastOpenFiles": [
+    "sutaze/mo/A.md",
     "sjl/opisný slohový postup.md",
     "sjl/rozprávací slohový postup.md",
-    "sutaze/mo/A.md",
     "sutaze/mo/Untitled.md",
     "sutaze/mo/a/Untitled.md",
     "geo/zem.md",
