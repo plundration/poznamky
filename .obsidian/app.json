@@ -12,5 +12,6 @@
   "showUnsupportedFiles": true,
   "strictLineBreaks": false,
   "spellcheck": false,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "vimMode": false
 }

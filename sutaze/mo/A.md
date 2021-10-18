@@ -30,7 +30,6 @@ $$ \exists \ k \in (4;inf) : 2^k > k^2 $$
 $$ (\star)\quad 2*2^k > 2k^2 \rightarrow 2^{k+1} > 2k^2 $$
 
 Keďže k > 4 tak:
-
 $$ (k-1)^2\geq4^2>2 $$
 $$ \begin{align}
 k^2-2k+1>&\,2\\
