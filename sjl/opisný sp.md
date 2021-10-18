@@ -1,52 +1,58 @@
 # Opisný slohový postup
 
-Cieľom opisného slohového posupu je opísať niečo alebo niekoho tak, aby si to iný človek vedel predstaviť.
+**Cieľom** opisného slohového posupu je *opísať niečo* alebo niekoho tak, aby si to iný človek vedel predstaviť.
 
-Využíva *vymenovanie vlastností a znakov* - **enumeráciu**. Takisto využíva **logický postup** - od podstatných po menej podstatné znaky, alebo podľa fyzických vlastností. No a tretí typický znak je **následnosť činnosti**. Využíva a vyskytuje vo viacerých jazykových štýloch:
-
- - hovorovom
- - administratívnom -> posudok, životopis, administratícny referát/správa
+## Znaky
+- **vymenovanie vlastností a znakov** - *enumeráciu*
+- **logický postup** - od podstatných po menej podstatné znaky, alebo podľa fyzických vlastností. 
+- **následnosť činnosti**
+ 
+Využíva a vyskytuje vo viacerých jazykových štýloch:
+ - hovorovom - reč
+ - administratívnom -> posudok, životopis, administratívny referát/správa
  - náučnom -> obdorný výklad, opis pracovného postupu
- - publicistickom - reportáž
- - umeleckom - lyrika, epika
+ - publicistickom -> reportáž
+ - umeleckom -> lyrika, epika
 
-Základný slohový útvar je **opis**, ďalšími žánrami sú **charakteristika** a **posudok**.
+*žánre:* **opis**, **charakteristika** a **posudok**.
 
 ## Druhy opisu
 Opis môže byť:
-- podľa výberu jazykových prostriedkov
+- podľa výberu *jazykových prostriedkov*
   - statický
   - dynamický
-- podľa postoja autora
+- podľa *postoja autora*
   - objektívny
   - subjektívny
-- podľa komunikačnej sféry
+- podľa *komunikačnej sféry*
   - jednoduchý
   - odborný
   - umelecký
 
 ### Statický
+Opis neživých vecí, osôb, zvierat, prostredia
+Treba dbať na využitie jazykových prostriedkov
 
-Popisuje vlastnosti a znaky daného predmetu, osoby, no nie činnosti. Môže to
-byť aj opis prostredia, zvierat, osôb.... Môže mať formu praktického alebo
-odborného opisu v bežnej komunikácii, ale môže sa vyskytovať aj v umeleckej
-sfére ako opis prostredia.
+*Bežná* komunikácia - prakticḱy a odborný
+*Umelecká* komunikácia - opis prostredia
 
-Jednotlivé časti opisu sú pevne zomknuté. Každá veta prináša novú informáciu,
-text je *hutný*. Väčšinou je tento opis objektívny. Najčastejšie sa tam 
-vysktyujú podstatné a prídavné mená. Slovesá sú najčastejšie iba pomocné a
-neurčité. Nie sú tam činnostné slovesá. Nachádza sa tam **menné vyjadrovanie**.
-Nachádzajú sa oznamovacie vety a často sa tam objavujú viacnásobné vetné členy.
-Často sa tam nachádzajú podraďovacie súvetia.
+Jednotlivé časti opisu sú *pevne zomknuté*. Každá veta prináša novú informáciu. 
+Väčšinou je tento opis *objektívny*. 
 
-Tretím syntaktickým znakom je **Výpustka** - **elipsa**: Z výpovede je
-vypustené, vynechané sloveso - najčastejšie sloveso, ktoré sa tam dá doplniť.
+**Lexika**: ==menné vyjadrovanie==
+Hlavne *podstatné a prídavné mená*
+*pomocné a neurčité slovesá* (nie činnostné)
 
-> Aká <je> matka, taká <je> katka.
+**Syntax**:
+Oznamovacie vety
+podraďovacie súvetia.
+viacnásobné vetné členy (prívlastky)
+
+*Výpustka* = elipsa: Z výpovede je vypustené, vynechané sloveso - najčastejšie ľahko domysliteľné sloveso.
+`Aká <je> matka, taká </je> katka.`
 
 
 ### Dynamický
-
 Opis pracovného postupu, činnosti, alebo objektu v pohybe. Využíva
 plnovýznamové činnostné slovesá. Využíva ho náučný štýl, umelecký a
 publicistický štýl.
