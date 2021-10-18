@@ -4,26 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df141fd6d71e055c",
+        "id": "7728e181759acebd",
         "type": "leaf",
-        "dimension": 53.15398886827458,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "sutaze/mo/A.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
-        "id": "ad2dc29e8b6bf02b",
+        "id": "d12e6ada228e817e",
         "type": "leaf",
-        "dimension": 46.84601113172542,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sutaze/mo/A.md",
-            "mode": "preview"
+            "file": "fyz/teplo.md",
+            "mode": "source"
           }
         }
       }
@@ -73,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 187
   },
   "right": {
     "id": "ed7db4eb7772d080",
@@ -89,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sutaze/mo/A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sutaze/mo/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sutaze/mo/A.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,19 +137,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 118
+    "width": 152,
+    "collapsed": true
   },
-  "active": "df141fd6d71e055c",
+  "active": "7728e181759acebd",
   "lastOpenFiles": [
-    "sutaze/mo/A.md",
-    "sjl/opisný slohový postup.md",
-    "sjl/rozprávací slohový postup.md",
-    "sutaze/mo/Untitled.md",
-    "sutaze/mo/a/Untitled.md",
-    "geo/zem.md",
-    "sjl/umelecký štýl.md",
-    "sjl/opis.md",
-    "geo/mapy.md",
-    "fyz/teplomery.md"
+    "fyz/teplo.md",
+    "fyz/vnútorná energia.md",
+    "fyz/Untitled.md",
+    "fyz/práca.md",
+    "fyz/teplomery.md",
+    "fyz/Rovnováha sústavy.md",
+    "fyz/GetImage.png",
+    "fyz/GetImage (1).png",
+    "fyz/skúmanie tepelných vlastností látok.md",
+    "sutaze/mo/A.md"
   ]
 }

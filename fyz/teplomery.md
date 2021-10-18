@@ -17,9 +17,10 @@ veľkosť stupňa je rovná celziusovej stupnici
 0 = absolútna nula
 
 Porovnanie:
--17,7* C = 0* F
-0* C = 32* F = 273,15 K
+-17,7 C = 0 F
+0 C = 32 F = 273,15 K
 100* C = * F = 373,15 K 
+0 K = -273,15 K
 
 t(C) = (t(F)-32) * 5/9
 t(C) = t(K) - 273,15
