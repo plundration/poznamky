@@ -1,14 +1,16 @@
+# Tepelné vlastnosti látok
 Fyzika skúma tepelné vlastnosti dvoma navzájom odlišnými metódami, ktoré sa navzájom dopĺňajú.
 
-Kinetická teória stavby látok vychádza z troch experimentálne overených poznatkov: 
-![Metoódy skúmania](GetImage.png)
+## Kinetická teória stavby látok 
+vychádza z troch experimentálne overených poznatkov: 
+![Metoódy skúmania](metódy-skúmania.png)
 
 1.  Látka akéhokoľvek skupenstva sa skladá z častíc - molekúl, atómov a iónov ( 
-	- látka má nespojitú (diskrétnu ) štruktúru, medzi časticami je voľný priestor 
+	- látka má nespojitú (diskrétnu) štruktúru, medzi časticami je voľný priestor 
 	- Experimentálne dôkazy - zobrazovanie elektrónovým mikroskopom a inými zobrazovacími technikami
 
 2.  Častice sa v látke pohybujú ustavične (neustále) a chaoticky ( neusporiadane)  
-    - tento pohyb nazývame tepelný pohyb
+    - tento pohyb nazývame [tepelný pohyb](teplota.md)
 	-   Experimentálne dôkazy neustáleho, neusporiadaného pohybu látky 
     	-   Tlak plynu 
     	-   Difúzia - samovoľné prenikanie častíc jednej látky medzi častice druhej látky rovnakého skupenstva, ak sú telesá y týchto látok uvedené do vzájomného styku 
@@ -22,4 +24,4 @@ Kinetická teória stavby látok vychádza z troch experimentálne overených po
     	- Sily potrebné pri zmene objemu telies
 	- Väzbová energia sa rovná práci, ktorú by bolo potrebné vykonať pôsobením vonkajších síl, aby došlo k zrušeniu väzby medzi časticami.
 
-![Interatómové sily](GetImage%20(1).png)
+![Medzičasticové sily](medzičasticové-sily.png)

@@ -2614,10 +2614,10 @@ EDITOR SECTION
 }
 
 /* link here */
-.markdown-preview-view p code
+:not(pre) > code
 {
   color: var(--text-inline-code) !important ;
-  font-size: 100%;
+  font-size: 110%;
 }
 
 .theme-dark code[class*="language-"],

@@ -1,5 +1,7 @@
-### Teplotné stupnice
+# Teplota *T*
+Typ kinetickej energie -> rýchlosť pohybu častíc 
 
+### Teplotné stupnice
 ##### Celziová
 kalibrované na:
  - 0* C == ľad+voda v rovnováhe
