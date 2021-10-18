@@ -12,7 +12,7 @@ Využíva a vyskytuje vo viacerých jazykových štýloch:
  - administratívnom -> posudok, životopis, administratívny referát/správa
  - náučnom -> obdorný výklad, opis pracovného postupu
  - publicistickom -> reportáž
- - umeleckom -> lyrika, epika
+ - [umeleckom](umelecký%20štýl.md) -> lyrika, epika
 
 *žánre:* **opis**, **charakteristika** a **posudok**.
 
@@ -29,7 +29,8 @@ Opis môže byť:
   - odborný
   - umelecký
 
-### Statický
+### Jazykové prost.
+#### Statický
 Opis neživých vecí, osôb, zvierat, prostredia
 Treba dbať na využitie jazykových prostriedkov
 
@@ -52,30 +53,30 @@ viacnásobné vetné členy (prívlastky)
 `Aká <je> matka, taká </je> katka.`
 
 
-### Dynamický
-Opis pracovného postupu, činnosti, alebo objektu v pohybe. Využíva
-plnovýznamové činnostné slovesá. Využíva ho náučný štýl, umelecký a
-publicistický štýl.
+#### Dynamický
+Opis pracovného postupu, činnosti, alebo objektu v pohybe. 
+Náučný, umelecký a publicistický štýl.
+plnovýznamové činnostné slovesá; logickosť a príčinná súvislosť.
 
-Jedným zo žánrov je opis pracovného postupu. Prvá časť je vymenovanie nástrojov
-a materiálov a druhým krokom je samotný postup. Používa autorský plurál.
-Využíva sa logickosť a príčinná súvislosť.
+**Žánre**: 
+opis pracovného postupu -> 1. vymenovanie nástrojov a materiálov ; 2. postup ; autorský plurál (1.os.pl, 2.os.pl *rozkazovacia veta*)
 
-Sú tri spôsoby ako urobiť zo statického opisu dynamický:
+*statický -> dynamický:*
+ 1. posilnenie slovies -> plnovýznamové
+ 2. súvetia -> jednočlenné vety
+ 3. subjektivizácia; z pohľadu autora
 
- - byť + meno -> sloveso
- - súvetia sa skracujú na malé vety
-   - pridávajú dynamiku bez slovies
- - subjektívny opis z pohľadu autora
+---
+### Postoj autora - ==todoprepisat==
 
-### Objektívny
+#### Objektívny
 
 Čo najvernejšie, najpresnejšie zachytáva znaky opisovaného javu. Autor
 nevyslovuje žiadne svoje honotenie alebo stanovisko, len vymenúva vlastnosti.
 Používa neutrálne / bezpríznakové slová a nocionalizmy - pojmové slová a
 jednoznačné slová. Nachádza sa v náuňom štýle, či v administratívnom štýle.
 
-### Subjektívny
+#### Subjektívny
 
 Autor vyjadruje svoje hodnotiace stanovisko, svoj postoj, svoj názor
 opisovaného javu. Nachádzajú sa tam aj umelecké slová a podobne. Stretneme sa s
@@ -84,3 +85,17 @@ komunikácie. Špecifickým žánrom je *Karikatúra*, ktorá môže mať aj vý
 formu, ale aj slovnú. Slovná karikatúra má za cieľ zosmiežniť, kritizovať,
 alebo poukázať na nejaký jav. Využíva hlavne hyperbolu (zveličnenie), ale aj
 frazeologizmy a metaforu.
+
+---
+
+### Kom. sféra
+#### Jednodnoduchý
+- zachytáva/vymenúva čo najviac znakov opisovaného objektu
+- vyskytuje sa v bežnej komunikácii v **hovorovom** JŠ, v spontánnej a nepripravenej forme
+- je objektívny a statický
+
+#### Odborný
+- zložitejší, výskyt v **náučnom** JŠ (súčasť výkladu), **publicistickom** JŠ (recenzia, reporáž) a administratívnom JŠ (posudok)
+- v masmediálnej a vedeckej sfére
+- je objektívny, statický a dynamický
+- použitie odborných názvov a výrazov, bez hodnotenia, obsahuje schémy a diagramy
