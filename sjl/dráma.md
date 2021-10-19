@@ -21,6 +21,10 @@ stredovek - pouličné kočovné divadlá; herci = igrici -> najímaný pánom
 18.st. - pódium a kamenné divadlá
 20.sts. - veľký vývin - *4 zložky* dramatického umenia - `rozhlas, film, divadlo, televízia`
 
+## Žánre 
+- [tragédia](tragédia.md)
+- komédia
+
 ## Kompozícia
 ### Vonkajšia komp.
 To, čo divák vidí: herci, pódium, rekvizity, dialógy
@@ -42,3 +46,18 @@ tvorí ju:
 **peripetia** = rozuzlenie
 **katastrofa** = záver (nie vždy zlý/katastrofálny)
 
+
+Na realizácii divadelnej hry sa zúčastňuje viacero ľudí:
+ - režisér - dozerá na priebeh celej hry, môže ju pomeniť podľa seba
+ - scénarista - píše scenáre (buď originálne alebo prevedenia z epiky)
+ - dramaturg - zostavuje dramaturgický plán, vyberá hry, ktoré sa hrajú
+ - inšpicient - dohliada na to, aby bolo všetko na scéne - pomocná sila
+ - kostymér
+ - osvetľovači
+ - zvukári
+ - herci
+ - kulisári
+ - šepkár (búdka pod javiskom)
+
+**Inscenácia** - realizácia divadelnej hry na javisku
+**dramatická postava** - postava stvárnená na javisku hercom
