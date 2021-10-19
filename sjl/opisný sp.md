@@ -67,35 +67,35 @@ opis pracovného postupu -> 1. vymenovanie nástrojov a materiálov ; 2. postup 
  3. subjektivizácia; z pohľadu autora
 
 ---
-### Postoj autora - ==todoprepisat==
+### Postoj autora
 
 #### Objektívny
-
-Čo najvernejšie, najpresnejšie zachytáva znaky opisovaného javu. Autor
-nevyslovuje žiadne svoje honotenie alebo stanovisko, len vymenúva vlastnosti.
-Používa neutrálne / bezpríznakové slová a nocionalizmy - pojmové slová a
-jednoznačné slová. Nachádza sa v náuňom štýle, či v administratívnom štýle.
+Čo najvernejšie, najpresnejšie zachytáva znaky opisovaného javu
+Autor nevyslovuje **žiadne hodnotenie** alebo stanovisko, vymenúva vlastnosti
+neutrálne / bezpríznakové slová a *nocionalizmy* - pojmové slová a *jednoznačné* slová
+náuný, administratívny štýl
 
 #### Subjektívny
+Autor vyjadruje svoje hodnotiace stanovisko, svoj postoj, svoj názor opisovaného javu. 
+Nachádzajú sa tam aj umelecké slová a podobne. 
+umelecký, publicistický štýl
+masmediálna sféra komunikácie
 
-Autor vyjadruje svoje hodnotiace stanovisko, svoj postoj, svoj názor
-opisovaného javu. Nachádzajú sa tam aj umelecké slová a podobne. Stretneme sa s
-ním v umeleckom štýle, publicistockom štýle a vo sfére masmediálnej
-komunikácie. Špecifickým žánrom je *Karikatúra*, ktorá môže mať aj výtvarnú
-formu, ale aj slovnú. Slovná karikatúra má za cieľ zosmiežniť, kritizovať,
-alebo poukázať na nejaký jav. Využíva hlavne hyperbolu (zveličnenie), ale aj
-frazeologizmy a metaforu.
+*Karikatúra:* 
+môže mať aj výtvarnú formu, ale aj slovnú
+Slovná karikatúra má za cieľ zosmiežniť, kritizovať, alebo poukázať na nejaký jav. 
+Využíva hlavne hyperbolu (zveličnenie), ale aj frazeologizmy a metaforu.
 
 ---
 
 ### Kom. sféra
 #### Jednodnoduchý
 - zachytáva/vymenúva čo najviac znakov opisovaného objektu
-- vyskytuje sa v bežnej komunikácii v **hovorovom** JŠ, v spontánnej a nepripravenej forme
+- vyskytuje sa v bežnej komunikácii v *hovorovom* JŠ, v spontánnej a nepripravenej forme
 - je objektívny a statický
 
 #### Odborný
-- zložitejší, výskyt v **náučnom** JŠ (súčasť výkladu), **publicistickom** JŠ (recenzia, reporáž) a administratívnom JŠ (posudok)
+- zložitejší, výskyt v *náučnom* JŠ (súčasť výkladu), *publicistickom* JŠ (recenzia, reporáž) a *administratívnom* JŠ (posudok)
 - v masmediálnej a vedeckej sfére
 - je objektívny, statický a dynamický
 - použitie odborných názvov a výrazov, bez hodnotenia, obsahuje schémy a diagramy

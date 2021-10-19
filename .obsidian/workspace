@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sjl/sonet.md",
+            "file": "sjl/óda.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,32 @@
             {
               "leaf": "91d7d40a3f0d2288",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/óda.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "91d7d40a3f0d2288",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/umelecký štýl.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":20.379310344827587}"
+            },
+            {
+              "leaf": "91d7d40a3f0d2288",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":76.92481203007519}"
+            },
+            {
+              "leaf": "91d7d40a3f0d2288",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "91d7d40a3f0d2288",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/sonet.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "91d7d40a3f0d2288",
@@ -111,30 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/povinné čítanie.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/umelecký štýl.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":46.07518796992481}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opis.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":3},\"to\":{\"line\":88,\"ch\":3}},\"scroll\":64.62068965517241}"
             }
           ]
         }
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "ed7db4eb7772d080",
@@ -201,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sjl/sonet.md",
+                "file": "sjl/óda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sjl/sonet.md",
+                "file": "sjl/óda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sjl/sonet.md"
+                "file": "sjl/óda.md"
               }
             }
           },
@@ -253,22 +254,21 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 348,
     "collapsed": true
   },
   "active": "91d7d40a3f0d2288",
   "lastOpenFiles": [
-    "sjl/sonet.md",
+    "sjl/óda.md",
     "sjl/umelecký štýl.md",
     "sjl/opisný sp.md",
+    "sjl/sonet.md",
     "sjl/rozprávací sp.md",
     "sjl/dráma.md",
-    "sjl/óda.md",
     "sjl/epiteton.md",
     "sjl/trópy.md",
     "sjl/symbol.md",
