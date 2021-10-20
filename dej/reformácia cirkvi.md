@@ -1,11 +1,14 @@
+# Reformácia cirkvi
+==16. st.==
+
 ### Dovody:
 - Obchod s cirkevnými sviatosťami a odpustkami
-- Majetky a moc cirkvi -> mešťanom, šľachte a panovníkom vadili
-- Nový svetonázor a morálny úpadok cirkvi -> vodu kážu víno pijú
-- Korupcia, branie úplatkov
+- *Majetky a moc* cirkvi -> mešťanom, šľachte a panovníkom vadili
+- Nový svetonázor a *morálny úpadok cirkvi* -> vodu kážu víno pijú
+- **Korupcia**, branie úplatkov
 - Pápežská schizma
 
-Všetky vrstvy spoločnosti boli proti cirkvi.
+==!!!== - Všetky vrstvy spoločnosti boli proti cirkvi.
 Problém! -> všetci chceli niečo iné, roľníci sa búria, revolúcie
 
 #### Ciele:
@@ -18,11 +21,11 @@ Začiatok reformácie -> **31. Okt 1517**
 Martin Luther vybil na kláštor svojich 95 téz.
 
 **Tézy**
-  - zrušiť predaj odpustkov
+  - zrušiť *predaj odpustkov*
   - návrat cirkvi k jednoduchosti a čistote
-  - odňatie majetkov cirkvi
-  - zavedenie prijímania pod obidvoma sposobmi (tela a krvi kristovej)
+  - **odňatie majetkov cirkvi**
   - dovoliť kňazom ženiť sa
+  - zavedenie prijímania pod obidvoma sposobmi (tela a krvi kristovej)
   - zrušenie ušnej spovede a zjednodušenie obradov
 
 Reakcia cirkvi:

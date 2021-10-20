@@ -10,4 +10,3 @@ Vzniká tak, že k *pôvodnemu významu* sa *pridáva ďalší **zastretejší**
 Literárny smer, ktorého hlavným prvkom bol symbol.
 Vyvinutý vo *Francúzsku* -> revolučné
 Na Slovensku tvoril `Ivan Krasko`
-

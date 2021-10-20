@@ -1,9 +1,9 @@
 # Dráma
 ==literárny druh== (ly, ep, dr) - najkomlexnejší
 
-Blízky k *epike*:
+Blízky k *[epike](epika.md)*:
 Má dej a časovú postupnosť, ale epika sa už odohrala, pričom dráma je v reálnom čase (herci)
-Spoločnú z *lyrikou* má reflexiu -> "Byť či nebyť?"
+Spoločnú z *[lyrikou](lyrika.md)* má reflexiu -> "Byť či nebyť?"
 
 Použitie aj verbálnych aj neverbálnych prostriedkov
 Hovorový a umelecký štýl využíva hlavne dialógy

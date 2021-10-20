@@ -12,7 +12,7 @@ Využíva a vyskytuje vo viacerých jazykových štýloch:
  - administratívnom -> posudok, životopis, administratívny referát/správa
  - náučnom -> obdorný výklad, opis pracovného postupu
  - publicistickom -> reportáž
- - [umeleckom](umelecký%20štýl.md) -> lyrika, epika
+ - [umeleckom](umelecký%20štýl.md) -> [lyrika](lyrika.md), [epika](epika.md)
 
 *žánre:* **opis**, **charakteristika** a **posudok**.
 

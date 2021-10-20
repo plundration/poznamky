@@ -8,7 +8,7 @@ Predpísané ==14 veršov==:
 3 - pointa = zakončenie / prekvapenie
 -> niekedy posledné *dva spolu* do 6 veršov
 
-Literárny útvar (žáner) *lyrickej poézie*
+Literárny útvar (žáner) *[lyrickej](lyrika.md) poézie*
 Inak znelka -> 15 sonetov za sebou = **znelkový veniec**
 Vznikol v *Taliansku*
 Využíva rozličné veršové systémy.
