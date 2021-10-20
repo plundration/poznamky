@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "sjl/opisný sp.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,14 +19,74 @@
             {
               "leaf": "8c9a980da13c3c37",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sutaze/mo/B-MO-2021.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sutaze/mo/A-MO-2021.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":39.58620689655172}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sutaze/cho/A-CHO-2021.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":95.51724137931035}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "8c9a980da13c3c37",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":96.47826086956522}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/epika.md\",\"mode\":\"source\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/lyrika.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":87.06896551724138}"
             },
             {
               "leaf": "8c9a980da13c3c37",
@@ -39,142 +99,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/tragédia.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "91d7d40a3f0d2288",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dej/uhorsko.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"dej/uhorsko.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":66.24137931034483}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/tragédia.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/dráma.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/óda.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/umelecký štýl.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":20.379310344827587}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":76.92481203007519}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/sonet.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/umelecký štýl.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":32},\"to\":{\"line\":32,\"ch\":32}}}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/umelecký štýl.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/umelecký štýl.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/rozprávací sp.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/dráma.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.93103448275862}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/óda.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "91d7d40a3f0d2288",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/sonet.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -237,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 198
   },
   "right": {
     "id": "ed7db4eb7772d080",
@@ -253,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "sjl/opisný sp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "sjl/opisný sp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -305,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "sjl/opisný sp.md"
               }
             },
             "pane-relief:history-v1": {
@@ -322,8 +246,9 @@
   },
   "active": "8c9a980da13c3c37",
   "lastOpenFiles": [
-    "Untitled.md",
     "sjl/opisný sp.md",
+    "Untitled.md",
+    "sjl/Untitled.md",
     "dej/uhorsko.md",
     "sjl/tragédia.md",
     "sjl/dráma.md",
@@ -331,6 +256,7 @@
     "sjl/óda.md",
     "sjl/umelecký štýl.md",
     "sjl/sonet.md",
-    "sjl/rozprávací sp.md"
+    "sjl/rozprávací sp.md",
+    "sjl/epiteton.md"
   ]
 }

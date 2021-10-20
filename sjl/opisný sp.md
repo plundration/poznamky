@@ -90,12 +90,20 @@ Využíva hlavne hyperbolu (zveličnenie), ale aj frazeologizmy a metaforu.
 
 ### Kom. sféra
 #### Jednodnoduchý
-- zachytáva/vymenúva čo najviac znakov opisovaného objektu
-- vyskytuje sa v bežnej komunikácii v *hovorovom* JŠ, v spontánnej a nepripravenej forme
-- je objektívny a statický
+zachytáva/vymenúva čo najviac znakov opisovaného objektu
+vyskytuje sa v bežnej komunikácii v *hovorovom* JŠ, v spontánnej a nepripravenej forme
+je objektívny a statický
 
 #### Odborný
-- zložitejší, výskyt v *náučnom* JŠ (súčasť výkladu), *publicistickom* JŠ (recenzia, reporáž) a *administratívnom* JŠ (posudok)
-- v masmediálnej a vedeckej sfére
-- je objektívny, statický a dynamický
-- použitie odborných názvov a výrazov, bez hodnotenia, obsahuje schémy a diagramy
+zložitejší, výskyt v *náučnom* JŠ (súčasť výkladu), *publicistickom* JŠ (recenzia, reporáž) a *administratívnom* JŠ (posudok)
+v masmediálnej a vedeckej sfére
+je objektívny, statický a dynamický
+použitie odborných názvov a výrazov, bez hodnotenia, obsahuje schémy a diagramy
+
+#### Umelecký
+inak **citovo zafarbený** alebo náladový opis
+v [umeleckej literatúre](umelecký%20štýl.md)
+využíva veľa umeleckých prostriedkov - privovnania a [epitetá](epiteton.md) ([trópy](trópy.md)) a citovo zafarbené slová
+je *subjektívny*, má vyvolať náladu -> autor ju tam ukrýva
+hlavne vlastnosti viditeľné očami
+hlavne v epike a lyrike; v starých románoch boli aj opisy (neúspešné)
