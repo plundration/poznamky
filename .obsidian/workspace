@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sjl/opisný sp.md",
-            "mode": "preview"
+            "file": "Untitled.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,14 @@
             {
               "leaf": "8c9a980da13c3c37",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c9a980da13c3c37",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/opisný sp.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{}"
             },
             {
               "leaf": "8c9a980da13c3c37",
@@ -247,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sjl/opisný sp.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sjl/opisný sp.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -299,20 +305,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sjl/opisný sp.md"
+                "file": "Untitled.md"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "5b62cb13f7f34348",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -328,6 +322,7 @@
   },
   "active": "8c9a980da13c3c37",
   "lastOpenFiles": [
+    "Untitled.md",
     "sjl/opisný sp.md",
     "dej/uhorsko.md",
     "sjl/tragédia.md",
@@ -336,7 +331,6 @@
     "sjl/óda.md",
     "sjl/umelecký štýl.md",
     "sjl/sonet.md",
-    "sjl/rozprávací sp.md",
-    "sjl/epiteton.md"
+    "sjl/rozprávací sp.md"
   ]
 }
