@@ -11,7 +11,7 @@
 ==!!!== - Všetky vrstvy spoločnosti boli proti cirkvi.
 Problém! -> všetci chceli niečo iné, roľníci sa búria, revolúcie
 
-#### Ciele:
+### Ciele:
  - reformácia = náprava cirkvi
  - návrat k povodnému výkladu svatého písma
  - odstránenie svetského pannovania cirkvi
