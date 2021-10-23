@@ -38,6 +38,6 @@ Skočný príliv -> mesiac a slnko sú na čiare so Zemou
 Hluchý príliv -> mesiac a slnko sú od seba o 90* 
 Prílivové elektrárne
 
-Nov  | dorastá | Spln | cúvanie|
------|---------|------|--------|
-.    | D       | O    | C      |
+ nov | dorastá | spln | cúvanie |
+-----|---------|------|---------|
+.    | D       | O    | C       |

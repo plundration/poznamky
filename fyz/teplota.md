@@ -1,6 +1,10 @@
 # Teplota *T*
 Typ kinetickej energie -> rýchlosť pohybu častíc 
 
+**Nultý termodynamický zákon**
+Ak sú systémy A a B v rovnováhe so systémom T (teplomerom), tak budú v rovnováhe navzájom a priradzujeme im rovnakú teplotu.
+![](teplota-rovnováha.png)
+
 ### Teplotné stupnice
 ##### Celziová
 kalibrované na:

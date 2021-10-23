@@ -18,7 +18,7 @@ Problém! -> všetci chceli niečo iné, roľníci sa búria, revolúcie
  - návrat cirkvi do chudoby -> Kristová chudoba
 
 Začiatok reformácie -> **31. Okt 1517**
-Martin Luther vybil na kláštor svojich 95 téz.
+Martin Luther vybil na kláštor vo Wittenbergu svojich 95 téz.
 
 **Tézy**
   - zrušiť *predaj odpustkov*
@@ -30,3 +30,18 @@ Martin Luther vybil na kláštor svojich 95 téz.
 
 Reakcia cirkvi:
 exkomunikácia Luthera pápežom Levom X (potvrdenie cisárom Karolom V)
+
+Luther bol šľachtic - odsudzoval sedliacku revolúciu
+**Luther bol aj antisemita** a napísal knihu "O židoch a ich klamstvách":
+- vypáliť domy a synagógy židov
+- odobrať im náboženské knihy
+- zakázať im učiť pod hrozbou straty života
+- zrušiť ich nároky bezpečnosti na cestách
+- zakázať im úžerníctvo a skonfiškovať majetok
+
+### Dosledky:
+- šírenie myšlienok reformácie -> Švajčiarsko (kalvíni), Francúzsko (hugenoti), Anglicko (anglikáni)
+- rozdelenie na dva tábory: *katolíci a protestanti* - náboženské vojny
+- reformácia viedla k *protireformácii a rekatolizácii*, ktorú viedol Rím
+
+#### Sedliacka vojna
