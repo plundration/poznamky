@@ -5,7 +5,7 @@
 **Isaac Newton** - gravitačné zákony F = G * m * M / R^2
 
 #### Magnetické pole
-Za magnetické pole Zeme je zodpovedné jadro a plášť - tretie tekutej a tuhej časti vytvára elektrický náboj + konvekcia v špriálovitom tvare
+Za magnetické pole Zeme je zodpovedné jadro a plášť - tretie tekutej a tuhej časti vytwvára elektrický náboj + konvekcia v špriálovitom tvare
 Magnetické pole chráni zem pred slnečným vetrom a kozmickým žiarením -> polárna žiara
 
 #### Pohyby Zeme

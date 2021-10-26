@@ -61,3 +61,5 @@ Na realizácii divadelnej hry sa zúčastňuje viacero ľudí:
 
 **Inscenácia** - realizácia divadelnej hry na javisku
 **dramatická postava** - postava stvárnená na javisku hercom
+
+
