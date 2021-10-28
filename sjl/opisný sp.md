@@ -107,3 +107,29 @@ využíva veľa umeleckých prostriedkov - privovnania a [epitetá](epiteton.md)
 je *subjektívny*, má vyvolať náladu -> autor ju tam ukrýva
 hlavne vlastnosti viditeľné očami
 hlavne v epike a lyrike; v starých románoch boli aj opisy (neúspešné)
+
+
+## Žánre
+
+### Charakteristika
+Zachytáva vnútorné vlastnosti osoby, veci alebo javu.
+Súčasťou býva niekedy aj opis vonk. znakov, ale ak je súčasťou, tak musí mať menší rozsah.
+
+**Delíme poďľa:**
+postoja autora: *objektívna a subjektívna*
+pouzitia jaz. prost. (slov): *priama a nepriama*
+počtu charakterizovaných objektov: *individuálna, skupinová a porovnávacia*
+
+**Kompozícia**
+Voľnejšia, ale treba dodržať logickú postupnosť.
+Neskáčeme z témy k téme.
+
+
+
+
+Gymnázium Poštová 9 je verejné gymnázium v meste Košice.
+Je umiestnené v strede mesta, tak, že vačšina študentov nemusí prejsť dlhú vzdialenosť, keď denne dochádzajú a odchádzajú.
+Hovoriť, že Poštová sa prezentuje je klam. Nepotrebuje. Výsledky žiakov hovoria sami za seba.
+Študenti školu reprezentujú na všemožných súťažiach a olympiádach. Aj v prírodných, aj humánitných vedách.
+Poštová je ako taký švajčiarský nožík. Možeš si pridať navyše matematiku, angličtinu alebo sa na nič nezamerať.
+Ale možeš si byť istý, že aj keď ešte nie si rozhodnutý, tak vedomosti, ktoré získaš vďaka učiteľom, ťa vytiahnu nad znalosti bežného žiaka.
