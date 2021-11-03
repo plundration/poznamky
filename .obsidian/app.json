@@ -13,7 +13,7 @@
   "strictLineBreaks": false,
   "spellcheck": false,
   "showFrontmatter": false,
-  "vimMode": false,
+  "vimMode": true,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,

@@ -124,6 +124,10 @@ počtu charakterizovaných objektov: *individuálna, skupinová a porovnávacia*
 Voľnejšia, ale treba dodržať logickú postupnosť.
 Neskáčeme z témy k téme.
 
+##### Individuálna charakteristika
+Vyskytuje sa v hlavne v umeleckom štýle, ale aj administratívnom (posudok, autocharakteristika)
+*Autocharakteristika* - nie je žáner, je súčasťou iných útvarov (beletrizovaný životopis, motivačný list)
+*Posudok* - útvar - vymenúva vlastnosti človeka, posudzuje jeho schopnosti a vlastnosti, uplatňuje sa v pracovnej a oficiálnej komunikácii. Má formu úradného listu. 
 
 
 
@@ -133,3 +137,5 @@ Hovoriť, že Poštová sa prezentuje je klam. Nepotrebuje. Výsledky žiakov ho
 Študenti školu reprezentujú na všemožných súťažiach a olympiádach. Aj v prírodných, aj humánitných vedách.
 Poštová je ako taký švajčiarský nožík. Možeš si pridať navyše matematiku, angličtinu alebo sa na nič nezamerať.
 Ale možeš si byť istý, že aj keď ešte nie si rozhodnutý, tak vedomosti, ktoré získaš vďaka učiteľom, ťa vytiahnu nad znalosti bežného žiaka.
+
+Zamenstnanec nastúpil do zamestnania v armáde na pozíciu seržanta 21. 5. 1623 po ukončení domáceho vzdelávania. Po roku posobenia na tejto pozícii bol povýšený na generála generalisimusa. V tejto pozícii mal na starosti celú armádu Dánska a aj jeho osud. Jeho úloha bola nesmierne doležitá. Mesiac po povýšení už Holandský žoldnieri klopali na brány Kopenhagenského hradu a o pár dní Dánsko padlo. Posobenie zamestnanca v tejto pozícii je poznačené amatérizmom a ponížením. Schopnosti zamestnanca nezodpovedajú potrebným vlastnostiam pozície generála. 
