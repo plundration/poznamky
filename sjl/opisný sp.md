@@ -120,22 +120,38 @@ postoja autora: *objektívna a subjektívna*
 pouzitia jaz. prost. (slov): *priama a nepriama*
 počtu charakterizovaných objektov: *individuálna, skupinová a porovnávacia*
 
-**Kompozícia**
+*Kompozícia*
 Voľnejšia, ale treba dodržať logickú postupnosť.
 Neskáčeme z témy k téme.
 
-##### Individuálna charakteristika
-Vyskytuje sa v hlavne v umeleckom štýle, ale aj administratívnom (posudok, autocharakteristika)
+**Typy:**
+#### Odborná charakteristika
+vyskytuje sa v odbornej a pracovnej komunikácii,
+najčastejšie ako charakterisitka páchateľa trestného činu alebo nejakého posudku na súde.
+Na základe objektívnej charakteristiky sa často vyvádza nejaký záver.
+
+#### Subjektívna charakteristika
+vyskytuje sa v bežnj komunikácii - hovorovom alebo umeleckom štýle. Autor ju využíva aj na hodnotenie istého javu.
+
+#### Priama charakteristika
+využíva vymenovanie vlastností osoby abstraktnými
+podstatnými menami alebo akostnými prídavnými menami. 
+
+#### Nepriama charakteristika
+vystihuje vlastnosti postavy na základe jej konania.
+
+#### Individuálna charakteristika
+práve jeden prvok, hlavne [umelecký št.](umelecký%20štýl.md) ale aj admin (posudok, autocharakteristika)
 *Autocharakteristika* - nie je žáner, je súčasťou iných útvarov (beletrizovaný životopis, motivačný list)
-*Posudok* - útvar - vymenúva vlastnosti človeka, posudzuje jeho schopnosti a vlastnosti, uplatňuje sa v pracovnej a oficiálnej komunikácii. Má formu úradného listu. 
 
+**Posudok** - útvar - vymenúva vlastnosti človeka, posudzuje jeho schopnosti a vlastnosti.
+Uplatňuje sa v pracovnej a oficiálnej komunikácii. 
+Má formu úradného listu.
+Posudok by mal obsahovať:
+1. pracovnú pozíciu
+2. kariérny postup
+3. hodnotenie výsledkov
+4. posúdenie a odporúčanie
 
-
-Gymnázium Poštová 9 je verejné gymnázium v meste Košice.
-Je umiestnené v strede mesta, tak, že vačšina študentov nemusí prejsť dlhú vzdialenosť, keď denne dochádzajú a odchádzajú.
-Hovoriť, že Poštová sa prezentuje je klam. Nepotrebuje. Výsledky žiakov hovoria sami za seba.
-Študenti školu reprezentujú na všemožných súťažiach a olympiádach. Aj v prírodných, aj humánitných vedách.
-Poštová je ako taký švajčiarský nožík. Možeš si pridať navyše matematiku, angličtinu alebo sa na nič nezamerať.
-Ale možeš si byť istý, že aj keď ešte nie si rozhodnutý, tak vedomosti, ktoré získaš vďaka učiteľom, ťa vytiahnu nad znalosti bežného žiaka.
-
-Zamenstnanec nastúpil do zamestnania v armáde na pozíciu seržanta 21. 5. 1623 po ukončení domáceho vzdelávania. Po roku posobenia na tejto pozícii bol povýšený na generála generalisimusa. V tejto pozícii mal na starosti celú armádu Dánska a aj jeho osud. Jeho úloha bola nesmierne doležitá. Mesiac po povýšení už Holandský žoldnieri klopali na brány Kopenhagenského hradu a o pár dní Dánsko padlo. Posobenie zamestnanca v tejto pozícii je poznačené amatérizmom a ponížením. Schopnosti zamestnanca nezodpovedajú potrebným vlastnostiam pozície generála. 
+#### Skupinová charakteristika
+zachytáva spoločné vlastnosti skupiny, nie zvláštnosti jednotlivcov

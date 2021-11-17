@@ -44,4 +44,39 @@ Luther bol šľachtic - odsudzoval sedliacku revolúciu
 - rozdelenie na dva tábory: *katolíci a protestanti* - náboženské vojny
 - reformácia viedla k *protireformácii a rekatolizácii*, ktorú viedol Rím
 
+### Nemecko
 #### Sedliacka vojna
+ - poddaní proti útlaku feudálov
+ - zrušenie poddanstva
+ - Tomáš Muntzer
+ - poddaní boli porazení a prenasledovaní
+
+#### Šmalkadská vojna
+ - reformácia nemeckých kinežat
+ - protestanti vs karol V. a Ferdinand 1.
+ - **Augsburgský mier** - zrovnoprávnenie náboženstiev, uznanie protestantov
+
+### Francúzko - Hugenotské vojny
+ - hugenoti = protestanti
+ - nantský edikt - Henry IV. dal protestantom slobodu a náboženskú rovnosť
+
+### Nizozemsko - vojna o nezávislosť
+ - nizozemsko sa chcelo oddeliť od španielov
+ - čoskoro sa pripojilo protikatolícke hnutie
+
+### 30-ročná vojna
+skoro celá európa proti hasburgovcom
+ - česká vojna
+ - falcká vojna
+ - dánska vojna
+ - švédska vojna
+ - švédsko-francúzka vojna
+
+vestfálsky mier
+
+## Protireformácia
+= rekatolizácia - katolíci chceli naspäť svojich veriacich
+1. tridentský koncil - snem rímskokatolickej cirkvi - 18 rokov sa dohadovali
+2. zoznam zakázaných kníh - 6000 zakázaných kníh
+3. inkvizícia
+4. jezuiti
