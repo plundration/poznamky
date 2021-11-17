@@ -24,3 +24,18 @@ Zakladateľ **novodobej realistickej drámy**:
 	- Viacdejstvové hry: ženský zákon, nový život, statky-zmatky
 	- Po 1918: smrť ďurka langsfelda, bláznivci, hrdina
 Očistil drámu od dekoratívnosti a všeľudských právd a sústredil sa na zachytenie realistického obrazu slovenskej dediny.
+
+#### Statky Zmätky
+Najlepšie Tajovského dielo. Napísal ho ešte počas pobytu v Nadlaku. Žáner diela je *dráma* - divadelná hra s vážnym obsahom. Odohráva sa v štyroch dejstvách. Témou hry je uzatváranie manželstva, bez lásky, kvôli majetku. Zachytáva obdobie od Vianoc do ďalších Vianoc - sviatkov pokoja, rodiny a tradícií. Odohráva sa medzi tromi rodinami:
+
+ Ľavkovci | Palčíkovci           | Kamenskí
+----------|----------------------|-------------------------
+ Jano     | Ondrej               | Tomáš
+ Žofa     | Mara - Žofina sestra | Kata - Ondrejova sestra
+ syn Ďuro | .                    | Zuza
+ .        | .                    | Eva + Mišo Kaňúrik
+ .        | .                    | Ondriš
+
+Palčíkovci vymysleli, že Ďuro si vezme Zuzu a nasťahujú sa ku nim pod zámienkou, že potom po nich zdedia majetok. Ona potom otehotnela a ďuro mal problém. Rozišli sa a začal chodiť s nejakou Betou. Janovi sa páčila a Žofa ju tiež podporovala. Len Palčíkovcom sa nepáčila lebo nepomáhala v dome.
+
+Pre Tajovského je typický hovorový jazyk s dialektizmami. Takisto používa *elipsu*.
