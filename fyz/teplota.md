@@ -1,6 +1,6 @@
 # Teplota *T*
 Typ kinetickej energie -> rýchlosť pohybu častíc 
-![Nultý zákon termodynamiky](termodynamika.md#Nultý%20zákon%20termodynamiky)
+![0-tý zákon](termodynamika.md#0-tý%20zákon)
 
 ### Teplotné stupnice
 #### Celziová
