@@ -17,7 +17,33 @@ Kedy môže byť reálny plyn považovaný za ideálny?:
 ## Výpočet kinetickej energie
 $E_k = \frac{1}{2}m_0v^2_1 + \frac{1}{2}m_0v^2_2 + ... + \frac{1}{2}m_0v^2_n$
 $E_k = \frac{1}{2}m_0 * (v^2_1 + v^2_2 + ... + v^2_n)$
-$E_k = \frac{1}{2}nm_0 * (\frac{v^2_1 + v^2_2 + ... + v^2_n}{n})$
+$E_k = \frac{1}{2}nm_0 * \frac{v^2_1 + v^2_2 + ... + v^2_n}{n}$
 $E_k = \frac{1}{2}nm_0v_0$
 Hodnota $v_0$ je pomyselná priemerná rýchlosť častíc plynu.
 Je to *stredná kvadratická rýchlosť* a ak by sa vš. častcie hýbali $v_0$ kin. energia by sa nezmenila
+
+### Kinetický model
+$p=\frac{N}{3V}m_0v_k^2$
+![idealnytlak](idealnytlak.jpeg)
+
+### Zákon ideálneho plynu
+Kombinácia Charlesovho, Boylovho, tlakoveho a množstvového zákonu plynov.
+
+$pV = nRT$
+
+p = tlak $N/m^2$
+V = objem $m^3$
+n = látkové množstvo $mol$
+R = molar gas constant $J*K^{-1}*mol^{-1}$
+T = absolútna teplota $K$
+### 
+
+**Kombinácia modelov**
+$pV=1/3Nmv^2=nRT$
+$Nmv^2 = 3nRT$
+$...$
+Pre veľa molekúl:
+==$E_k = \frac{3}{2}nRT$==
+Pre jednu:
+$E_k = \frac{3}{2}kT$
+k = boltzmanova konštanta

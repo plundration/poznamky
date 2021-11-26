@@ -19,7 +19,7 @@ Základným žánrom/útvarom = Rozprávanie:
 
 4 typy rozprávačov: vševediaci, personálny, oko kamery, priamy
 
-### kompozičný postup
+### Kompozičný postup
 1. **chronologický**
 2. **retrospektívny** - vysvetlenie ako sa príbeh dostal do bodu
 3. **in medias res** - hneď vpadnutie do deja -> už sa odohráva
