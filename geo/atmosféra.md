@@ -93,3 +93,17 @@ vrstvy:
        - 35 - 65 stupňou
      - suché studené pásmo
        - sneH
+
+
+### Oceanita a kontinentalita
+od pobrežia do vnútrozemia sa znižuje množstvo zrážok a zvyšuje sa amplitúda teplot - vačšie zmeny
+
+### Podnebné pásma
+1. Ekvatoriálne - Stále počasie, teplo, vysoká vlhkosť - zrážky (1000-3000mm/r)
+2. Sub-ekvatoriálne - Vačšie rozdiely v teplote, teplo
+3. Tropické - Veľké rozdiely v teplote (deň a noc), najvačšie teplo a veľké sucho
+4. Sub-tropické - Leto - tropické; Zima - mierna;
+5. Mierne
+6. Sub-arktické
+7. Arktické
+
