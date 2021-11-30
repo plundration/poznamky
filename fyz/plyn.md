@@ -47,3 +47,5 @@ Pre veľa molekúl:
 Pre jednu:
 $E_k = \frac{3}{2}kT$
 k = boltzmanova konštanta
+
+T = 
