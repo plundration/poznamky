@@ -57,3 +57,37 @@ král - reprezentuje
 vláda a premiér - výkonná moc, voľby
 parlament - zákonodarná moc, voľby
 
+## Ameryka - vznik USA
+
+ - sev. Amerika
+ - kolónia Veľkej brtánie
+ - začiatko 17. storočia
+ - kolónie sa najprv kamarátia s anglickom
+ - angličania zvýšili dane
+ - prvá kolónia - Massachusetts, hl. mesto Boston
+   - vďaky vzdanie
+     - 4. novembrový štvrtok
+
+ - vojna za nezávislosť - 1763
+ - Juraj III. - predstaviteľ absolutizmu
+
+### Príčiny
+
+ - daneeee
+   - úradné tlačivá (kolky), čaj, cukrová trsť
+     - bostonské pitie čaju
+ - výslovný zákon - anglicko môže meniť pravidlá hry bez američanov
+ - niečo ako merkantilizmus
+
+### Občianska vojna
+
+ - stretnutie vo filadelfii
+ - ďžordž washington
+ - 4.7 - den nezávislosti
+ - bitka pri saratoge, bitka pri yorktowne - amerika vyhrala
+ - anglicko pošlo
+ - ústava
+   - konfederácia
+   - kongres - senát, snemovňa
+   - súd
+   - prezident

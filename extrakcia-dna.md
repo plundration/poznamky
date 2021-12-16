@@ -13,3 +13,5 @@ etanol a pomarančový džús, pozorujeme.
 **ZÁVER**:
 Izolovali sme deoxyribonukleovú kyselinu banánu. DNA sa skladá zo zvyšku $H_3PO_4$,
 5C cukru deoxyribózy a jednej z dusíkatých báz: Adenín, Tymín, Guanín, Cytozín. DNA ukladá genetickú informáciu.
+
+
