@@ -14,8 +14,7 @@
 
 ## Anglická revolúcia
 *1640-1660*
-Stuartovci (Jakub I. a Karol I.)
-kfvaj
+Stuartovci (Jakub I. a Karol I.
 *Zámienky:*
 - zvyšovanie daní
 - král má monopoly 
@@ -57,3 +56,32 @@ král - reprezentuje
 vláda a premiér - výkonná moc, voľby
 parlament - zákonodarná moc, voľby
 
+
+## Veľká francúzska revolúcia
+*1789*
+**liberté - egalité - fraternité**
+Bourbonovci - Ľudovít XVI, Mária Antoinetta
+Maximilian Robspierre
+
+**Príčiny:**
+- ekonomické problémy 
+	- vyčerpanie kráľovskej pokladnice
+	- sedemročná vojna
+	- podpora amerických kolónií
+- politické problémy - nespokojnosť stavy
+- osvietenectvo - Voltaire
+
+**Zámienka:**
+- nerovnomernost hlasov stavov
+
+### Etapy:
+
+1. Meštania opustili generálne stavy a založili *Národné zhromaždenie* -> sloboda, rovnosť, bratstvo
+Roľníci reágovali - 14. júla 1789 - útok na väznicu Bastilu
+Dokument - 26. augusta 1789 - Deklarácia osobných práv a slobôd
+
+2. Francúzsko sa mení na konštitučnú monarchiu
+Aktívne a pasívne volebné právo
+Diferenciácia parlamentu:
+- pravica - považujú prijatie deklarácie osob. práv za ukončenie revolúcie
+- ľavica - jakobíni a  sansculotti - zbavenie sa panovníka
