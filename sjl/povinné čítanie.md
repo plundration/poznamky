@@ -5,7 +5,7 @@ Shakespeare: Hamlet
 Tajovský: Statky Zmätaky
 
 **február** 
-Ján Kolár: Všespev zo slávy dcéra *(na hodine)*
+Ján Kollár: Všespev zo slávy dcéra *(na hodine)*
 
 **marec**
 Romain Roland: Peter a Lucia
