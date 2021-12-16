@@ -12,3 +12,9 @@ Ak sú systémy A a B v rovnováhe so systémom T (teplomerom), tak budú v rovn
 Zmena vnútornej energie môže nastať:
  - konaním práce
  - prenosom tepla
+
+**Kruhový dej:** 
+- konečný a začiatočný stav je totožný
+- graf vyjadrujúci tlak p funkciou objemu V tvorí uzavretú krivku
+![](kruhovydej.png)
+- plocha uzavretej krivky je W' = práca plynu = $p*\delta V$
