@@ -1,6 +1,6 @@
 # Termodynamika
 **Kalorimetrická rovnica**
-$\delta{}t_1c_1m_1 = \delta{}t_2c_2m_2$
+$\triangle{}t_1c_1m_1 = \triangle{}t_2c_2m_2$
 !()[369f.png]
 
 #### 0-tý zákon
@@ -17,4 +17,9 @@ Zmena vnútornej energie môže nastať:
 - konečný a začiatočný stav je totožný
 - graf vyjadrujúci tlak p funkciou objemu V tvorí uzavretú krivku
 ![](kruhovydej.png)
-- plocha uzavretej krivky je W' = práca plynu = $p*\delta V$
+- plocha uzavretej krivky je W' = práca plynu = $p*\triangle V$
+
+#### 2. Zákon
+Nie je možné zostrojiť periodicky pracujúci tepelný stroj, ktorý by teplo od istého telesa (ohrievača) iba prijímal a vykonával rovnako veľkú prácu.
+![](tepelny-stroj.png)
+

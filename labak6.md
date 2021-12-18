@@ -100,3 +100,12 @@ $F_1: Ss, Ss, ss, ss$
 ## Úloha 9
 
 HA: bcde
+
+|     | AB   | Ab   | aB   | ab   |
+| --- | ---- | ---- | ---- | ---- |
+| AB  | AABB | AABb | AaBB | AaBb |
+| Ab  | AABb | AAbb | AaBb | Aabb |
+| aB  | AaBB | AaBb | aaBB | aaBb | 
+| ab  | AaBb | Aabb | aaBb | aabb |
+
+![](fsptabulka.png)
