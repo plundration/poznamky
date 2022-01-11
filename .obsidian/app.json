@@ -20,6 +20,8 @@
     "margin": "0",
     "downscalePercent": 95
   },
-  "legacyEditor": true,
-  "livePreview": false
+  "legacyEditor": false,
+  "livePreview": true,
+  "rightToLeft": false,
+  "lineWrap": true
 }
