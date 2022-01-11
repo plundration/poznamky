@@ -17,7 +17,7 @@ Zachytáva hrdinský čin hlavného hrdinu, *zasahujú bohovia* - hrdinské epos
 7. Peronácia
 ##
 
-V slovenskej lit. v čase klasicizmu písal eposy **Ján Hollý** (Svätopluk, Sláv, Cirillo-Metodiáda)
+V slovenskej lit. v čase klasicizmu písal eposy **Ján Hollý** (Svätopluk, Sláv, Cyrillo-Metodiáda)
 Moderné eopsy -> **Hviezdoslav** - Ežo Vlkolínsky, Gábor Vlkolínsky
 
 
