@@ -21,5 +21,7 @@
     "downscalePercent": 95
   },
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": true,
+  "rightToLeft": false,
+  "lineWrap": true
 }

@@ -2,5 +2,6 @@
   "baseFontSize": 20,
   "translucency": false,
   "cssTheme": "yinyang",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": []
 }
