@@ -1,12 +1,12 @@
 {
-  "foldHeading": true,
-  "foldIndent": true,
+  "foldHeading": false,
+  "foldIndent": false,
   "defaultViewMode": "source",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "useMarkdownLinks": true,
-  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "promptDelete": true,
   "fileSortOrder": "byCreatedTimeReverse",
   "tabSize": 4,
   "showUnsupportedFiles": true,
@@ -23,5 +23,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "rightToLeft": false,
-  "lineWrap": true
+  "lineWrap": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments"
 }
