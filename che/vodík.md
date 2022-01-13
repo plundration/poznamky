@@ -8,6 +8,7 @@ Je to najmenší prvok, má najmenšiu hmotnosť.
 Vytvára dvojatómové molekuly:
 $H-H \qquad H_2$  sigma väzba
 ![](vodik-vazba.png)
+
 ## Reakcie
 $\ce{H2 + Cl2 -> 2HCl}$
 $\ce{2H2 + O2 -> 2H2O}$
