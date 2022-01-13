@@ -1,6 +1,6 @@
 {
   "Yin and Yang@@d-accent": "#73DDFF",
-  "Yin and Yang@@base-d": 12,
+  "Yin and Yang@@base-d": 11,
   "Yin and Yang@@no-show-titlebar-text": false,
   "Yin and Yang@@fx-rel-lines": true,
   "Yin and Yang@@macOS-translucent": false,
@@ -25,8 +25,9 @@
   "Yin and Yang@@sphd-ed-5@@dark": "#F4C68F",
   "Yin and Yang@@wys-headings": false,
   "Yin and Yang@@editor-font": "Cascadia Code, monospace",
-  "Yin and Yang@@header-font-ed": "Source Code Pro, monospace",
-  "Yin and Yang@@font-monospace": "Source Code Pro, monospace",
-  "Yin and Yang@@preview-font": "Ubuntu",
-  "Yin and Yang@@line-width": null
+  "Yin and Yang@@header-font-ed": "Cascadia Code, monospace",
+  "Yin and Yang@@font-monospace": "Cascadia Code, monospace",
+  "Yin and Yang@@preview-font": "Cascadia Code, monospace",
+  "Yin and Yang@@line-width": null,
+  "Yin and Yang@@header-font-pre": "Cascadia Code, monospace"
 }
