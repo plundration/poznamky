@@ -9,7 +9,6 @@ Voľný kyslík tvorí 21% objemu čistého vzduchu v atmosfére.
 Viazaný kyslík v litosfére (50%) a hydrosfére (89%).
 Zdrojom kyslíka v atmosfére je *fotosyntéza*.
 
-
 ## Príprava
 Rozklad látok bohatých na kyslík:
 $\ce{2Ag2O -> 4Ag+ + O^{0}2}$
@@ -64,7 +63,6 @@ $\ce{SO3 + H2O -> H2SO4}$
 Obsahujú atómy dvoch kovov v molekule.
 Tvoria 3D štruktúry.
 $\ce{MgAl2O4 (spinnel); KNbO3}$
-
 
 ### Peroxidy
 Dvojprvkové zlúčeniny obsahujúce *dva atómy kyslíka* navzájom viazané *kovalentnou väzbou* $\ce{- O - O -}$ (ox. číslo -I)

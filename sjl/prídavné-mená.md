@@ -22,3 +22,8 @@ Prípomanmi -ský, -ská, -ské tvoríme vzťahové prídavné mená (niekedy be
 Vzťahové prídavné mená s malým písmenom, individuálne (odvíjané od mena) s veľkým. 
 
 V lokáli singuláru zvieracie privlasňovacie prídavné mená sú pred koncovkou mäkké.
+
+## Využitie
+Umelecký, Hovorový, Náučný, Publicistický, Rečnícky
+
+Petreková: `Teraz použijem výrok Harmanského: "Teoreticky aj tam môžu byť"`
