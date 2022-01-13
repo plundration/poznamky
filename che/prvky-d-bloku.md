@@ -31,4 +31,3 @@ Niektoré často vystupujú ako katalyzátory. ($\ce{V2O5}$)
 Nikel, Paládium, Platina, Železo
 
 ### Aktínium
-

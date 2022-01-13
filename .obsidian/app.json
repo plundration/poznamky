@@ -25,5 +25,9 @@
   "rightToLeft": false,
   "lineWrap": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "spellcheckLanguages": [
+    "en-US",
+    "sk"
+  ]
 }

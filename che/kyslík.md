@@ -32,13 +32,13 @@ $\ce{ZnO + 2NaOH + H2O -> Na^{II}2[Zn^{II}(OH)^{-I}4]^{-II}}$
 
 **neutrálne**
 nereagujú s vodou, kyslinou ani so zásadou
-$\text{CO}$
+$\ce{CO + H2O \not\rightarrow}$
 
 #### Podľa druhu väzby a štruktúry
 
 **Iónové oxidy:**
 Skladajú sa z *aniónov* $\ce{O^2-}$ a *katiónov* kovov viazaných *iónovou väzbou*.
-Hlavne kovy alkalických zemín, alkalické kovy, lantanoidy a aktinoidy a niektoré [[d-blok|d-prvky]].
+Hlavne kovy alkalických zemín, alkalické kovy, lantanoidy a aktinoidy a niektoré [[prvky-d-bloku|d-prvky]].
 Tie, ktoré reagujú s vodou sú *zásadotvorné*, z ostatných vzniká soľ príslušnej kyseliny a voda.
 $\ce{CaO + H2O -> Ca(OH)2}$
 $\ce{Na2O + H2O -> 2NaOH}$ *
