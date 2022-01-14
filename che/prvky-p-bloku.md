@@ -92,3 +92,50 @@ Nadobúda oxidačné čísla IV, VI, -II
 Vyskytuje sa v kryštalických modifikáciach:
 - dve najstabilnejšie tvorené cyklickými molekulami $S_8$ s rozličným usporiadaním.
 
+**Alotrópne formy** síry - *plastická síra* a *sírny kvet*
+
+**Zahrievanie:** 
+Tuhá síra sa mení na žltú kvapalinu. Zvyšovaním teploty hnedne a svyšuje viskozitu.
+Molekuly $S_8$ sa štiepia a vznikajú dlhé reťazce $S_n$
+
+**Prudké ochladenie:**
+Kvapalná -> plastická síra
+Plynná -> sírny kvet vo forme prášku
+
+**Kryštalická síra:**
+Žltá tuhá látka, nerozpustná vo vode.
+Veľmi dobre rozpustná v nepolárnych rozpúšťadlách $CS_2$
+Pri bežnej teplote je stála, pri zvýšení teploty sa reaktivita zvyšuje.
+Priamo reaguje s viacerými prvkami:
+- $\ce{8H2 + S8 -> 8H2S}$
+- kovy + S -> sulfidy
+- kyslík + S -> SO2
+
+#### Zlúčeniny
+![[sira-vazby.png]]
+
+**Sulfán** - $\ce{H2S}$ 
+Bezfarebný nepríjemne zapáchajúci plyn, ťažší ako vzduch
+Veľmi toxický - viaže sa na *ťažké kovy* v enzýmoch a na železo v hemoglobíne
+Dobre rozpustný vo vode -> slabá kyselina
+Tvorí *sulfidy* a *hydrogensulfidy* 
+Má vždy *redukčné* účinky, lebo $S^{-II}$ je najnižšie oxidačné číslo síry
+*Príprava:* $\ce{FeS + 2HCl -> FeCl2 + H2S}$
+Zavádzaním do roztokov sa dajú pripraviť *nerozpustné sulfidy* -> analytická chémia
+
+**Oxid síričitý** - $\ce{SO2}$
+Vzniká *pálením síry*: $\ce{S + O2 -> SO2}$
+Bezfarebný toxický plyn, leptá sliznicu, vyvoláva kašeľ.
+Aj oxidovadlo, aj redukovadlo.
+$\ce{2SO2 + O2 ->[V2O5] 2SO3} \quad \triangle H < 0$
+
+**Oxid sírový** - $\ce{SO3}$
+Plynná látka
+Jedine oxidačné vlastnosti, lebo $S^{VI}$ 
+
+**Kyslina sírová** - $\ce{H2SO4}$
+Bezfarebná leptavá látka
+Hygroskopická -> silné dehydratačné účinky (org. látky zuhoľnatejnú)
+
+#### Výskyt
+![[minerály-a-horniny#Síra]]
