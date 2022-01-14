@@ -10,16 +10,17 @@ Ak sú systémy A a B v rovnováhe so systémom T (teplomerom), tak budú v rovn
 #### 1. Zákon
 `Q = 0` - **adiabatický jav**
 Zmena vnútornej energie môže nastať:
- - konaním práce
- - prenosom tepla
+- konaním práce
+- prenosom tepla
 
 **Kruhový dej:** 
 - konečný a začiatočný stav je totožný
 - graf vyjadrujúci tlak p funkciou objemu V tvorí uzavretú krivku
 ![](kruhovydej.png)
-- plocha uzavretej krivky je W' = práca plynu = $p*\triangle V$
+- plocha uzavretej krivky je W' = práca plynu = $p*\delta V$
 
 #### 2. Zákon
-Nie je možné zostrojiť periodicky pracujúci tepelný stroj, ktorý by teplo od istého telesa (ohrievača) iba prijímal a vykonával rovnako veľkú prácu.
+Nie je možné zostrojiť periodicky pracujúci tepelný stroj, ktorý by teplo od 
+istého telesa (ohrievača) iba prijímal a vykonával rovnako veľkú prácu.
 ![](tepelny-stroj.png)
 
