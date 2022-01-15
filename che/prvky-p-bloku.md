@@ -1,6 +1,7 @@
 # P-blok
 III.A -> VIII.A
 $ns^2np^1 \to ns^2np^6$
+---
 
 ## Halogény - X
 VII.A - $ns^2np^5$
@@ -53,6 +54,7 @@ $\ce{NaOH + HCl -> NaCl + H2O}$
 $\ce{AgNO3 + HCl -> AgCl v + HNO3}$
 *E) Roztok soli s halogenidom*
 $\ce{PbNO3 + KI -> PbI2 + KNO3}$
+---
 
 ## Vzácne plyny
 VIII.A - $ns^2np^6$
@@ -80,7 +82,7 @@ Blesk fotoaparátov
 
 - Ra
 Liečba nádorových ochorení
-
+---
 
 ## Chalkogény
 VI.A - $ns^2np^4$
@@ -140,98 +142,7 @@ Hygroskopická -> silné dehydratačné účinky (org. látky zuhoľnatejnú)
 #### Výskyt
 ![[minerály-a-horniny#Síra]]
 
-## IV.A skupina
-$ns^2np^2$
-C, Si, Ge, Sn, Pd
-
-### Uhlík - C
-
-#### Alotropy
-##### Grafit
-Má šesťuholníkovú kryštalickú štruktúru - každý atóm spojený s 3ma ďalšími
-Vrstvy sú usporiadané do vodorovných vrstiev držaných *van der waals* silami
-Nerozpustný vo vode, vedie elek. prúd. Reaktívnejší než diamant.
-![[grafit.jpeg]]
-
-##### Diamant
-Atómy uhlíka sa viažu so *4ma ďalšími* v *pravidelnom tetraédri*
-Nerozpustný vo vode, nevedie el. prúd
-Najtvrdšia prírodná látka (10 na Mohs stupnici)
-Opracovaný diamant = **briliant**
-![[diamant.png]]
-
-##### Fulerény
-`C20, C40, C60`
-Usporiadané do tvaru futbalových lôpt.
-Navzájom viazané *van der waalsovými silami*
-Mäkké, nerozpustné vo vode, polovodič.
-![[fulereny.png]]
-
-
-
-
-#### Kyslíkaté
-**Oxid uhoľnatý** - $CO$
-Bezfarebný nehorľavý plyn, bez zápachu, ľahší než vzduch.
-Krvný jed -> viaže sa na hemoglóbin.
-Vzniká nedokonalím spaľovaním C: $\ce{2C(s) + O2(g) -> 2CO(g)}$
-
-**Oxid uhličitý** - $CO_2$
-Bezfarebný nehorľavý plyn, bez zápachu, ťažší než vzduch.
-Rozpustný vo vode -> $\ce{CO2 + H2O -> H2CO3}$
-Nie je toxický, ale je nedýchateľný
-*0,03%* v atmosfére
-V minerálnej vode, šumivých nápojoch, víne a pive.
-$\ce{C + O2 -> CO2}$ -> dokonalé spaľovanie (dosť kyslíka)
-$\ce{CaCO3 + 2HCl -> CaCl2 + H2O + CO2 ^}$ 
-Využitie v hasiacich prístrojov
-Tlakové nádoby so sivým pruhom
-Tvorí suchý ľad $CO_2(s)$
-
-**Diamid kys. uhličitej - močovina** - $CO(NH_2)_2$
-**Dichlorid kys. uhličitej - fosgén** - $COCl_2$
-
-#### Bezkyslíkaté
-**Sulfid uhličitý** - $CS_2$
-Taktiež *sírouhlík*, je bezfarebná kvapalina príjemnej vône, prchavá a horľavá.
-Dlhším státím zhnedne a získa nepríjemný zápach.
-Silné toxické účinky -> poruchy mozgu a nervového systému
-*Nepolárne rozpúšťadlo*, nerozpustný vo vode
-
-**Kys. kyanovodíková** - $HCN$
-Bezfarebná kvapalina horkomandľového zápachu.
-*Veľmi toxická* - ochrnutie dýchacej a nervovej sústavy
-==kyanidy:==
-- vo vodnom roztoku silne hydrolyzujú
-- CN- sa podobajú na X- -> pseudohalogenidy
-- KCN - cyankáli veľmi toxický
-
-
-
-### Krémik - Si
-`Tmavosivá, tvrdá, krehká kryštalická látka`
-Štruktúrou podobný diamantu
-Vytvára *reťazce*
-- Si-Si < C-C
-- Si-H  < C-H
-- Si-O  > C-O
-
-Tvorí *silikóny/silikáty*: R-Si
-Je to **polokov** -> **polovodič**
-
-Príprava: $\ce{SiO2 + 2C -> Si + 2CO}$
-
-**Oxid kremičitý** - $SiO_2$
-V prírode sa vyskytuje ako kremeň - krištáľ
-Výroba skla, nemôže sa v ňom *uchovávať HF*: $\ce{4HF + SiO2 -> SiF4 + 2H2O}$
-Farebné odvody:s
-- ametyst - fialový
-- záhneda - hnedý
-- citrín - žltý
-
-$\ce{Na2SiO3, K2SiO3}$ = vodné sklo
-$\ce{CaSiO3}$ = základná zložka cementu
-
+---
 
 ## V.A skupina
 $ns^2np^3$
@@ -276,3 +187,153 @@ Dôležitý biogenný prvok (ATP, DNA, RNA, enzýmy)
 Pri výrobe priemyselných hnojív:
 - $KH_2PO_4$
 - $(NH_4)_2HPO_4$
+
+---
+
+## IV.A skupina
+$ns^2np^2$
+C, Si, Ge, Sn, Pd
+
+### Uhlík - C
+
+#### Alotropy
+##### Grafit
+Má šesťuholníkovú kryštalickú štruktúru - každý atóm spojený s 3ma ďalšími
+Vrstvy sú usporiadané do vodorovných vrstiev držaných *van der waals* silami
+Nerozpustný vo vode, vedie elek. prúd. Reaktívnejší než diamant.
+![[grafit.jpeg]]
+
+##### Diamant
+Atómy uhlíka sa viažu so *4ma ďalšími* v *pravidelnom tetraédri*
+Nerozpustný vo vode, nevedie el. prúd
+Najtvrdšia prírodná látka (10 na Mohs stupnici)
+Opracovaný diamant = **briliant**
+![[diamant.png]]
+
+##### Fulerény
+`C20, C40, C60`
+Usporiadané do tvaru futbalových lôpt.
+Navzájom viazané *van der waalsovými silami*
+Mäkké, nerozpustné vo vode, polovodič.
+![[fulereny.png]]
+
+#### Kyslíkaté
+**Oxid uhoľnatý** - $CO$
+Bezfarebný nehorľavý plyn, bez zápachu, ľahší než vzduch.
+Krvný jed -> viaže sa na hemoglóbin.
+Vzniká nedokonalím spaľovaním C: $\ce{2C(s) + O2(g) -> 2CO(g)}$
+
+**Oxid uhličitý** - $CO_2$
+Bezfarebný nehorľavý plyn, bez zápachu, ťažší než vzduch.
+Rozpustný vo vode -> $\ce{CO2 + H2O -> H2CO3}$
+Nie je toxický, ale je nedýchateľný
+*0,03%* v atmosfére
+V minerálnej vode, šumivých nápojoch, víne a pive.
+$\ce{C + O2 -> CO2}$ -> dokonalé spaľovanie (dosť kyslíka)
+$\ce{CaCO3 + 2HCl -> CaCl2 + H2O + CO2 ^}$ 
+Využitie v hasiacich prístrojov
+Tlakové nádoby so sivým pruhom
+Tvorí suchý ľad $CO_2(s)$
+
+**Diamid kys. uhličitej - močovina** - $CO(NH_2)_2$
+**Dichlorid kys. uhličitej - fosgén** - $COCl_2$
+
+#### Bezkyslíkaté
+**Sulfid uhličitý** - $CS_2$
+Taktiež *sírouhlík*, je bezfarebná kvapalina príjemnej vône, prchavá a horľavá.
+Dlhším státím zhnedne a získa nepríjemný zápach.
+Silné toxické účinky -> poruchy mozgu a nervového systému
+*Nepolárne rozpúšťadlo*, nerozpustný vo vode
+
+**Kys. kyanovodíková** - $HCN$
+Bezfarebná kvapalina horkomandľového zápachu.
+*Veľmi toxická* - ochrnutie dýchacej a nervovej sústavy
+==kyanidy:==
+- vo vodnom roztoku silne hydrolyzujú
+- CN- sa podobajú na X- -> pseudohalogenidy
+- KCN - cyankáli veľmi toxický
+
+### Krémik - Si
+`Tmavosivá, tvrdá, krehká kryštalická látka`
+Štruktúrou podobný diamantu
+Vytvára *reťazce*
+- Si-Si < C-C
+- Si-H  < C-H
+- Si-O  > C-O
+
+Tvorí *silikóny/silikáty*: R-Si
+Je to **polokov** -> **polovodič**
+
+Príprava: $\ce{SiO2 + 2C -> Si + 2CO}$
+
+**Oxid kremičitý** - $SiO_2$
+V prírode sa vyskytuje ako kremeň - krištáľ
+Výroba skla, nemôže sa v ňom *uchovávať HF*: $\ce{4HF + SiO2 -> SiF4 + 2H2O}$
+Farebné odvody:s
+- ametyst - fialový
+- záhneda - hnedý
+- citrín - žltý
+
+$\ce{Na2SiO3, K2SiO3}$ = vodné sklo
+$\ce{CaSiO3}$ = základná zložka cementu
+
+---
+
+## III.A skupina
+$ns^2np^1$
+**B,** *Al, Ga, In, Tl*
+**polokov** *kovy*
+
+### Hliník - Al
+$\ce{Al^0 - 3e- -> Al^{III}}$
+Ľahký, striebrobiely, mäkký kov
+*3. najrozšírenejší* prvok v Zemskej kôre (1. kov)
+V zliatinach s Cu, Mg, Mn, Si, Sn, Zn
+
+**Dural** - zliatina Al, Cu, Mg
+Veľmi pevný -> konštrukcie bicyklov
+
+Hlinitá ruda = *bauxit* - spracovanie v hlinikárni - Žiar nad Hronom
+$\ce{AlO(OH) -> Al(OH)3 ->[t] Al2O3 ->[elektrolýza, t, Na3AlF6(kryolit)] Al}$
+Kryolit znižuje teplotu tavenia
+
+Hliník *odoláva korózií* - vytvára na povrchu vrstvičku hydroxidu a oxidu
+
+**Amfotérne vlastnosti:**
+$\ce{2Al +6H2O ->2Al(OH)3 +8H2}$
+$\ce{2Al +3H2SO4 ->Al2(SO4)3 +2H2}$
+$\ce{2Al +2NaOH +6H2O ->2Na[Al(OH)4] +3H2}$
+
+**Oxid hlinitý** - $Al_2O_3$
+Spaľovaním práškového hliníka: $\ce{4Al(s) +3O2(g) ->2Al2O3(s)} \quad \triangle H<0$
+*Dve modifikácie:*
+- $\alpha-Al_2O_3$
+Bezfarebný mineraál korund
+Tvrdý (9. stupeň na Mohs stup.)
+Odrody sú známe drahokamy - rubín (Cr2O3), zafír (FeO, Fe2O3, TiO2)
+Ťažko taviteľná látka, nerozpustná.
+- $\gamma-Al_2O_3$
+Rozpustný v roztokoch kys. a hydrox.
+
+**Hydroxid hlinitý** - $Al(OH)_3$
+Biela gélovitá, málo rozpustná látka
+Amfotérne vlastnosti:
+$\ce{2Al(OH)3 +3H2SO4 ->Al2(SO4)3 +6H2O}$
+$\ce{Al(OH)3 +NaOH ->Na[Al(OH)4]}$ - tetrahydroxidohlinitan sodný
+
+**Hlinité halogenidy** - $AlX_3$
+- F - iónová zlúčenina, reáguje s fluroidmi kovov -> vznik komplexov (kryolit)
+- Cl, Br, I - kovalentná väzba, tvoria diméry
+AlCl3 - východisková látka pri výrobe mnohých zlúčenín Al
+
+$AlK(SO_4)_2 \times 12H_2O$ = **kamenec**
+V minulosti využitie v zdravotníctve ako holiaci kameň na sťahovanie krvácania
+
+#### Aluminotermia
+Hútnický spôsob výroby kovov z ich oxidov pomocou Al
+$\ce{Cr2O3 +2Al ->Al2O3 +2Cr}$
+Al pôsobí ako redukovadlo -> veľká schopnosť odoberať kyslík od látok
+
+#### Využitie
+**Alobal** - v domácnosti a potravinárstve
+**Octan hlinitý** - v zdravotníctve proti opuchom a zápalom
