@@ -1,11 +1,14 @@
-# S-blok
+# S-blok #che
 
 ![[s-blok.png]]
 Hélium zaraďujeme do VIII.A (kvôli vlastnostiam), ale je to s-prvok.
 
+---
+
 ## Alkalické kovy - M
 $\ce{M^0 - e- -> M+}$ oxidácia
 Ľahko oxidujú -> vystupujú ako redukovadlá.
+[[vodík|Vodík]] nezaraďujeme medzi alkalické kovy.
 
 **Fyzikálne vlastnosti:**
 - mäkké, dajú sa krájať nožom
@@ -55,6 +58,7 @@ Výroba skla
 - $\ce{Na2SO4}$
 Výroba papiera
 
+---
 
 ## Kovy alkalických zemín + s2
 Be Mg | Ca Sr Ba Ra |

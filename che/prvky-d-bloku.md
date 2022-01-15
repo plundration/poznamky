@@ -1,4 +1,4 @@
-# D-blok
+# D-blok #che
 `- prechodné prvky (prvky B-skupín)`
 ![[d-blok-prvky-tabulka.png]]
 Všetky prvky sú kovy. Dobre vedú *teplo a prúd*. Sú ťažné, kujné, lesklé a majú vysokú teplotu topenia.
@@ -49,6 +49,19 @@ Amfotérne vlastnosti
 Kademnaté zlúčeniny sú pre org. mimoriadne toxické.
 Ukladá sa v pečeni a obličkách a atak znefunkční ich činnosť
 Kadmiové tyče sa používajú v jadrových reaktoroch (spomaľovanie neutrónov)
+
+### Olovo - Hg
+`- Hydrargium`
+**Oxidačné čísla:** $\ce{Hg^2+ ; Hg+}$
+
+#### Využitie
+Náplň do barometrov, teplometrov, sphygomomanometrov.
+Ortuťové ventily, spínače, svietidlá.
+
+#### Zlúčeniny
+Chlorid ortuťný - Kalomel - $\ce{HgCl2}$
+Oxid ortuťnatý - $\ce{HgO}$
+Sulfid ortuťnatý - Cinabarit/Rumelka - $\ce{HgS}$
 
 ---
 

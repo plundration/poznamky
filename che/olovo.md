@@ -1,4 +1,4 @@
-# Zákládne info.
+# Zákládne info. #che
 Realistické oxidačné čísa - +2,+4 iba zriedka (organické zlúčeniny),-4 nie (idk)
 +2 je najčastejšie keďže sa "zbavujeme" celého orbitálu
 Má veľmi chcené vlastnosti:

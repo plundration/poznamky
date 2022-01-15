@@ -1,4 +1,4 @@
-# P-blok
+# P-blok #che
 III.A -> VIII.A
 $ns^2np^1 \to ns^2np^6$
 ---
@@ -86,7 +86,7 @@ Liečba nádorových ochorení
 
 ## Chalkogény
 VI.A - $ns^2np^4$
-O, S, Se, Te, Po
+[[kyslík|O]], S, Se, Te, Po
 
 ### Síra - S
 Nadobúda oxidačné čísla IV, VI, -II

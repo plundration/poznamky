@@ -1,4 +1,4 @@
-# Kyslík
+# Kyslík #che
 `- oxygenium = O ; VI.A ; 2. perioda`
 
 Bezfarebný plyn s väčšou hustotou ako vzduch.

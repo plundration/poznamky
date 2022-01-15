@@ -1,4 +1,4 @@
-# Voda
+# Voda #che
 $\ce{H^{\delta +}-O^{\delta -}-H^{\delta +}}$
 Väzby medzi O a H sú **polárne kovalentné** -> voda je polárne *rozpúšťadlo*
 

@@ -1,11 +1,10 @@
-# Minerály a horniny
+# Minerály a horniny #che
 
 kalcit - CaCO3
 magnezit - MgCO3
 dolomit - CaCO3 x MgCO3
 sadrovec - CaSO4 x 2H2O
 baryt - BaSO4
-
 
 halit - NaCl
 sylvín - KCl
