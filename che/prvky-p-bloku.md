@@ -139,3 +139,140 @@ Hygroskopická -> silné dehydratačné účinky (org. látky zuhoľnatejnú)
 
 #### Výskyt
 ![[minerály-a-horniny#Síra]]
+
+## IV.A skupina
+$ns^2np^2$
+C, Si, Ge, Sn, Pd
+
+### Uhlík - C
+
+#### Alotropy
+##### Grafit
+Má šesťuholníkovú kryštalickú štruktúru - každý atóm spojený s 3ma ďalšími
+Vrstvy sú usporiadané do vodorovných vrstiev držaných *van der waals* silami
+Nerozpustný vo vode, vedie elek. prúd. Reaktívnejší než diamant.
+![[grafit.jpeg]]
+
+##### Diamant
+Atómy uhlíka sa viažu so *4ma ďalšími* v *pravidelnom tetraédri*
+Nerozpustný vo vode, nevedie el. prúd
+Najtvrdšia prírodná látka (10 na Mohs stupnici)
+Opracovaný diamant = **briliant**
+![[diamant.png]]
+
+##### Fulerény
+`C20, C40, C60`
+Usporiadané do tvaru futbalových lôpt.
+Navzájom viazané *van der waalsovými silami*
+Mäkké, nerozpustné vo vode, polovodič.
+![[fulereny.png]]
+
+
+
+
+#### Kyslíkaté
+**Oxid uhoľnatý** - $CO$
+Bezfarebný nehorľavý plyn, bez zápachu, ľahší než vzduch.
+Krvný jed -> viaže sa na hemoglóbin.
+Vzniká nedokonalím spaľovaním C: $\ce{2C(s) + O2(g) -> 2CO(g)}$
+
+**Oxid uhličitý** - $CO_2$
+Bezfarebný nehorľavý plyn, bez zápachu, ťažší než vzduch.
+Rozpustný vo vode -> $\ce{CO2 + H2O -> H2CO3}$
+Nie je toxický, ale je nedýchateľný
+*0,03%* v atmosfére
+V minerálnej vode, šumivých nápojoch, víne a pive.
+$\ce{C + O2 -> CO2}$ -> dokonalé spaľovanie (dosť kyslíka)
+$\ce{CaCO3 + 2HCl -> CaCl2 + H2O + CO2 ^}$ 
+Využitie v hasiacich prístrojov
+Tlakové nádoby so sivým pruhom
+Tvorí suchý ľad $CO_2(s)$
+
+**Diamid kys. uhličitej - močovina** - $CO(NH_2)_2$
+**Dichlorid kys. uhličitej - fosgén** - $COCl_2$
+
+#### Bezkyslíkaté
+**Sulfid uhličitý** - $CS_2$
+Taktiež *sírouhlík*, je bezfarebná kvapalina príjemnej vône, prchavá a horľavá.
+Dlhším státím zhnedne a získa nepríjemný zápach.
+Silné toxické účinky -> poruchy mozgu a nervového systému
+*Nepolárne rozpúšťadlo*, nerozpustný vo vode
+
+**Kys. kyanovodíková** - $HCN$
+Bezfarebná kvapalina horkomandľového zápachu.
+*Veľmi toxická* - ochrnutie dýchacej a nervovej sústavy
+==kyanidy:==
+- vo vodnom roztoku silne hydrolyzujú
+- CN- sa podobajú na X- -> pseudohalogenidy
+- KCN - cyankáli veľmi toxický
+
+
+
+### Krémik - Si
+`Tmavosivá, tvrdá, krehká kryštalická látka`
+Štruktúrou podobný diamantu
+Vytvára *reťazce*
+- Si-Si < C-C
+- Si-H  < C-H
+- Si-O  > C-O
+
+Tvorí *silikóny/silikáty*: R-Si
+Je to **polokov** -> **polovodič**
+
+Príprava: $\ce{SiO2 + 2C -> Si + 2CO}$
+
+**Oxid kremičitý** - $SiO_2$
+V prírode sa vyskytuje ako kremeň - krištáľ
+Výroba skla, nemôže sa v ňom *uchovávať HF*: $\ce{4HF + SiO2 -> SiF4 + 2H2O}$
+Farebné odvody:s
+- ametyst - fialový
+- záhneda - hnedý
+- citrín - žltý
+
+$\ce{Na2SiO3, K2SiO3}$ = vodné sklo
+$\ce{CaSiO3}$ = základná zložka cementu
+
+
+## V.A skupina
+$ns^2np^3$
+N, P, As, Sb, Bi
+
+### Dusík - N
+![[dusík-väzba.png]]
+Plyn ľahší ako vzduch. Tvorí stabilné molekuly N2
+Oceľové nádoby sú označené *čiernou farbou*
+
+#### Bezkyslíkaté
+**Amoniak** - $NH_3$
+Vodný roztok = *čpavok*
+Bezfarebný plyn s nepríjemným šťipľavým zápachom, leptá sliznicu.
+$\ce{N2 + 3H2 -> 2NH3}$ -> Haber-Boschova syntéza
+$\ce{NH3 + HCl -> NH4+ + Cl- -> NH4Cl}$
+$\ce{NH3 + H+ -> NH4+}$ -> *donorno-akceptorná väzba*
+
+**Salmiak** - $NH_4Cl$
+Náplň do batérií
+Súčasť niektorých liečív
+
+#### Kyslíkaté
+**Oxid dusný** - $N_2O$ - plyn, príjemná vôňa, inhalačná anestéza
+**Oxid dusnatý** - $NO$ - bezfarebný plyn - $\ce{2NO + O2 -> 2NO2}$
+**Oxid dusičitý** - $NO_2$ - dimér = $N_2O_4$
+
+
+### Fosfor - P
+**3 hlavné alotrópy:**
+- biely fosfor $P_4$ (tetrafosfor)
+- červený fosfor $P_n$ - dlhé reťazce tetrafosforu
+- čierny fosfor - vrstevnatý
+![[alotropy-fosfor.png]]
+
+*Najreaktívnejší = biely fosfor*, pyroforický (samovznietivý), jedovatý, podlieha oxidácií:
+$\ce{P4 ->[O2] P4O6}$ oxid fosforitý v dimérnej forme $\ce{->[O2] P4O10}$ oxid fosforečný v dimérnej forme
+$\ce{P4O10 + 6H2O -> 4H3PO4}$ (hygroskopický, sušenie látok)
+
+**Kys trihydrogenforsforečná** - $H_3PO_4$
+Dôležitý biogenný prvok (ATP, DNA, RNA, enzýmy)
+Pri výrobe priemyselných hnojív:
+- $KH_2PO_4$
+- $(NH_4)_2HPO_4$
