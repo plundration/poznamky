@@ -23,7 +23,7 @@ hrdinské eposy + rytierske eposy -> najstaršie a najrozšírenejšie
 ## Ján Hollý: Svätopluk
 12 spevov
 
-**Hlavná dejová línia:** Víťazná vojna proti Karolmanovi
+**Hlavná dejová línia:** vojna proti Karolmanovi - hrdinské víťazstvo Svätopluka
 **Vedľajšia dejová línia:**
 - Zasadnutie snemu (Slovamír zvolal snem)
 - Vzťah Slavomíra a Svätopluka

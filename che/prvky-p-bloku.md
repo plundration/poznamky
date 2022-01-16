@@ -157,7 +157,7 @@ Oceľové nádoby sú označené *čiernou farbou*
 **Amoniak** - $NH_3$
 Vodný roztok = *čpavok*
 Bezfarebný plyn s nepríjemným šťipľavým zápachom, leptá sliznicu.
-$\ce{N2 + 3H2 -> 2NH3}$ -> Haber-Boschova syntéza
+$\ce{N2 + 3H2 ->[t, p] 2NH3}$ -> Haber-Boschova syntéza
 $\ce{NH3 + HCl -> NH4+ + Cl- -> NH4Cl}$
 $\ce{NH3 + H+ -> NH4+}$ -> *donorno-akceptorná väzba*
 
@@ -264,12 +264,12 @@ Vytvára *reťazce*
 Tvorí *silikóny/silikáty*: R-Si
 Je to **polokov** -> **polovodič**
 
-Príprava: $\ce{SiO2 + 2C -> Si + 2CO}$
+Príprava: $\ce{SiO2 + 2C ->[t] Si + 2CO}$
 
 **Oxid kremičitý** - $SiO_2$
 V prírode sa vyskytuje ako kremeň - krištáľ
 Výroba skla, nemôže sa v ňom *uchovávať HF*: $\ce{4HF + SiO2 -> SiF4 + 2H2O}$
-Farebné odvody:s
+Farebné odvody:
 - ametyst - fialový
 - záhneda - hnedý
 - citrín - žltý
@@ -325,14 +325,16 @@ $\ce{Al(OH)3 +NaOH ->Na[Al(OH)4]}$ - tetrahydroxidohlinitan sodný
 - F - iónová zlúčenina, reáguje s fluroidmi kovov -> vznik komplexov (kryolit)
 - Cl, Br, I - kovalentná väzba, tvoria diméry
 AlCl3 - východisková látka pri výrobe mnohých zlúčenín Al
+Využitie v organickej chémii
 
 $AlK(SO_4)_2 \times 12H_2O$ = **kamenec**
 V minulosti využitie v zdravotníctve ako holiaci kameň na sťahovanie krvácania
 
 #### Aluminotermia
 Hútnický spôsob výroby kovov z ich oxidov pomocou Al
-$\ce{Cr2O3 +2Al ->Al2O3 +2Cr}$
+$\ce{Cr2O3 +2Al ->Al2O3 +2Cr} \quad \triangle H<0$
 Al pôsobí ako redukovadlo -> veľká schopnosť odoberať kyslík od látok
+Podobné reakcie s oxidmi krémiku, meďi, železa (termit), ...
 
 #### Využitie
 **Alobal** - v domácnosti a potravinárstve

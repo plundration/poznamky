@@ -50,7 +50,7 @@ Kademnaté zlúčeniny sú pre org. mimoriadne toxické.
 Ukladá sa v pečeni a obličkách a atak znefunkční ich činnosť
 Kadmiové tyče sa používajú v jadrových reaktoroch (spomaľovanie neutrónov)
 
-### Olovo - Hg
+### Ortuť - Hg
 `- Hydrargium`
 **Oxidačné čísla:** $\ce{Hg^2+ ; Hg+}$
 
