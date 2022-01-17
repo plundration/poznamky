@@ -23,8 +23,10 @@ Národni spievanky - zbierka ľudových piesní
 V konečnej podobe vyšla v roku 1832
 
 Bohyňa *Sláva*, predstavujúca slovanstvo, sa sťažuje v prospech Slovanov.
-Bohovia rozhodnú, aby Milek, syn bohyne Lady stvoril dcéru Slávy ako ideálny symbol slovanskej budúcnosti,
-ktorá by Slovanom odčinila utrpenie a postavila ich medzi popredné národy sveta.
+Bohovia rozhodnú, aby Milek, syn bohyne Lady stvoril dcéru Slávy ako ideálny symbol slovanskej budúcnosti, ktorá by Slovanom odčinila utrpenie a postavila ich medzi popredné národy sveta.
+
+Dcéra slávy = **Mína** -> obraz Frederiky (jeho manželky)
+Prestavuje *pokrok slovanstva a budúcnosť*.
 
 #### Kompozícia
 - Predspev

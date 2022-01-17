@@ -10,7 +10,7 @@ ale ako prášok je samozápalný v prítomnosti kyslíka
 - veľká hustota
 - je celkom lacný - je ho veľa v kôre (hlavne vo forme galenitu) a veľmi ľahko sa ťaží - 7000PNL
 - aj plus aj minus -> relatívne nízka teplota topenia - $321^oC$ - ľahko sa spracúvava
-Veľa využítí je založených na tom, že má veľký pomer ceny k počtu protónov
+Veľa využítí je založených na tom, že má veľký pomer počtu protónov voči cene
 
 # Použitie
 Používa sa do batérií, všeobecne do elektroniky, farieb, káblov, nábojov, chemických látok...
@@ -24,7 +24,8 @@ Tetraetylolovo
 Je to organická látka ktorá sa pridávala do paliva na zvýšenie *oktánového čísla* - zvýšenie kvality paliva
 Spaľovanie produkuje olovo a jeho oxidy -> vypúšťané do atmosféry a z nej sa dostane úplne všade
 Keď bolo olovo úplne všade vrátane vody, vzduchu a pôdy, tak sa dostalo deťom do tela a
-otrávila im krv, čo spôsobovalo agresivitu, lebo sa olovo dostalo do mozgu a tam nečinilo nič dobré
+otrávilo im krv, čo spôsobovalo agresivitu, lebo sa olovo dostalo do mozgu a tam nečinilo nič dobré
+Vpodstate, keďže je v rovnakej skupine ako uhlík, tak má veľa podobných vlastností a akumuluje sa, hlavne pri tuku
 Prvé zákazy v 1990 -> 2021 úplne zastavené
 Vymyslel ho Thomas Midgley Jr. - vymyslel aj freóny (ničia ozónovú sféru) a DDT (najviac znečistujúci pesticid)
 Človek, ktorý zároveň zničil ozónovú sféru, otrávil celé ekosystémy, ľudské mozgy a krv
@@ -39,6 +40,9 @@ atmosfére a roztokoch pomocou testovacích papierikov - tvorí sa PbS
 
 # Anorganické zlúčeniny
 všetky používané ako farbivá
-- červené olovo - $Pb_3O_4$ - oxid diolovnato olovičitý - má zábavnú kryštalickú štruktúru
-- čierne olovo - $PbO_2$ - oxid olovičitý - taktiež pekná kryštalická štruktúra
+- červené olovo - $Pb_3O_4$ - oxid diolovnato olovičitý - farbivo, pyrotechnika, falšovanie šafránu
+- čierne olovo - $PbO_2$ - oxid olovičitý - výroba zápaliek, pyrotechniky a anód
 - biele olovo - $PbCO_3$ - uhličitan olovnatý - najviac využívané farbivo z olova - často otrávi deti lebo ho okusujú
+- galenit - $PbS$ - sulfid olovnatý - v infračervených detektoroch
+
+Olovo sa veľmi nepoužíva v zlučeninách, skôr v zliatinach a v čistej forme ako kov, hlavne lebo zlúčeniny sú dosť toxické.
