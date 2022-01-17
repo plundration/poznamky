@@ -89,7 +89,7 @@ VI.A - $ns^2np^4$
 [[kyslík|O]], S, Se, Te, Po
 
 ### Síra - S
-Nadobúda oxidačné čísla IV, VI, -II
+Nadobúda oxidačné čísla IV, VI, I-I
 
 Vyskytuje sa v kryštalických modifikáciach:
 - dve najstabilnejšie tvorené cyklickými molekulami $S_8$ s rozličným usporiadaním.
@@ -176,6 +176,7 @@ Súčasť niektorých liečív
 - biely fosfor $P_4$ (tetrafosfor)
 - červený fosfor $P_n$ - dlhé reťazce tetrafosforu
 - čierny fosfor - vrstevnatý
+
 ![[alotropy-fosfor.png]]
 
 *Najreaktívnejší = biely fosfor*, pyroforický (samovznietivý), jedovatý, podlieha oxidácií:
