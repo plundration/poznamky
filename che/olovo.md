@@ -17,7 +17,7 @@ Používa sa do batérií, všeobecne do elektroniky, farieb, káblov, nábojov,
 Jeho použitie v elektornike je veľmi široké a elektrické obvody by bez neho neexistovali.
 Ale keďže ma tak nízku teplotu topenia, tak napríklad na Venuši elektronika nedokáže prežiť viac 
 než 20 minút. Preto sa plánujú rovery na Venušu, ktoré budú kompletne analógové. 
-Používa sa aj pri chránenie proti radiácií keďže má veľkú hustotu a veľa elektrónov, tak je perfektný na odrážanie gama radiácie.
+Používa sa aj pri chránenii proti radiácií keďže má veľkú hustotu a veľa elektrónov, tak je perfektný na odrážanie gama radiácie.
 
 # TEL
 Tetraetylolovo
