@@ -20,3 +20,4 @@ bezdozoru 1druh
 | sami  | samí |
 | samy  | samý |
 | samy  | samé |
+
