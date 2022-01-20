@@ -14,5 +14,4 @@ Vyznačuje sa dokumentárnosťou, faktami. Môže byť doplnená humornými situ
 |     | Poviedka | Novela |
 | --- | -------- | ------ |
 |     |          |        |
-|     |          |        |
 | dej | lm       | fasdj  |
