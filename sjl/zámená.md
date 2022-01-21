@@ -21,3 +21,16 @@ bezdozoru 1druh
 | samy  | samý |
 | samy  | samé |
 
+## Pravopis zámen
+1. mi (D sg.) - my (N pl.)
+2. I sg. -í 
+so svojím susedom
+3. Pri zámenách, ktoré sa skloňujú podľa vzoru pekný sa v N pl. píše i
+4. V písaných prejavoch sa osobné zámená píšu s veľkým začiatočným písmenom
+
+## Využitie zámen
+- Zastúpenie podst. a príd. mien
+- Vyjadrenie expresívnosti (precíťovanie, prežívanie)
+- Autorský (skormnosť) a slávnostný plurál + pluralis majestis
+
+#DU 60/13
