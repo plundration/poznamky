@@ -85,5 +85,21 @@
       ],
       "key": "="
     }
+  ],
+  "table-editor-obsidian:next-cell": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "table-editor-obsidian:next-row": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }
