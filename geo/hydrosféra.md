@@ -24,6 +24,12 @@ Všetka energie pochádza zo **slnka** a od gravitácie.
 
 
 ## Morské prúdy
+Vznikajú pravidelným *pôsobením vetra a teplotných rozdielov*
+Prúdy menia klímu podnebia
+
+**Západný príhon** - základný prúd Zeme -> *veľký dopravníkový pás* nesie vodu okolo Zeme
+Je na juhu Zeme okolo antarktídy. Odnože k rovníku...
+
 ### Teplé
 Agulhaský - ind
 Antilský - atl
@@ -70,3 +76,31 @@ Oceľovo-modrá = málo živín
 
 
 ## Relief dna oceánov a morí
+1. Podmorské okraje pevnín
+šelf - do 200m,  pevnínsky svah
+2. Prechodné oblasti
+hlbokomorské priekopy
+3. Vlastné oceánske dno
+Panvy, stredooceánske chvosty, chrbty
+
+**Sedimenty** - pokrývajú dno oceánov
+1. pevninské - prinášané riekami, ľadovcami, vetrom
+2. hlbokomorské - zvyškami, sopečnými materiálmi
+
+## Príčiny pohybu morskej vody
+- Kozmické - slnko a mesiac
+	- *príliv a odlyv*
+- Mechanicko fyzikálne (slnečné žiarenie, vietor)
+	- *vlny* - do 15 metrov
+	- príboj -> lámanie vĺn
+	- morské prúdy
+- Geodynamické - zemetrasenia, sopečná činnosť
+	- tsunami - frekvencia sa mení na amplitúdu
+
+## Hospodárske využitia svetového oceánu
+- Loďstvo
+- Lovenie rýb
+- Ťažba ropy
+- Turizmus
+- Prílivovo-odlivové elektrárne
+- Ťažba soli

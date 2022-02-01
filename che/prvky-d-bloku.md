@@ -94,6 +94,34 @@ Výroba: $\ce{NiO +C->Ni +CO}$
 **Chlorid nikelnatý** - $NiCl_2$ - svetlozelená zrazenina
 **Síran nikelnatý** - $NiSO4$ - poniklovanie železných predmetov -> proti *korózii*
 
+### Železo - Fe
+
+#### Výroba
+**1. Železná ruda:**
+- hematit (krveľ) - $Fe_2O_3$
+- ocieľok (siderit) - $FeCO_3$
+- magnetovec (magnetit) - $Fe_3O_4 = FeO * Fe_2O_3$
+- pyrit - $FeS_2$
+- limonit - $Fe_2O_3 * nH_2O$
+
+**2. koks** - čierne uhlie - odoberá zo žel. rudy kyslík -> redukovadlo
+**3. vápenec**
+
+Vykonáva sa vo *vysokej peci* -> 30-50m vysoká a 7-10m široká
+Horná časť sa nazýva *sadrobná* - striedavo sypeme rudu, koks a vápenec
+![[vysoká-pec.png]]
+
+Železná ruda je znečistená zeminou = *hlušina* (SiO2)
+Vypúšťame surové železo a trosku každé 2 hod. -> **odpich**
+
+**Surové železo** - tuhé, krehké, nie je kujné
+Obsahuje prímesi: P, Si, S, Mn
+
+*liatina* - 2 až 4% C - výroba radiátorov
+*oceľ* - < **1,7%** C
+
+
+
 ---
 
 Cu0 -> 3d10 4s1
