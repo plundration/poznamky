@@ -18,6 +18,39 @@ $\ce{Ag -> [_{36}Kr] 5s^1 4d^10}$
 $\ce{Au -> [_{54}Xe] 6s^1 5d^10}$
 $\ce{(n-1)d^10 ns^1}$
 
+*Kujné ťažné vodivé ušľachtilé kovy*
+
+### Meď - Cu
+Najčastejšie $\ce{Cu^{+I},Cu^{+II}}$ 
+Červenohnedý kov
+Na vzduchu koroduje -> **medenka** - $\ce{Cu2CO3(OH)2}$
+
+*Biogénny* prvok (tvorba pigmentov, kože, vlasov, hemoglobín)
+
+Oba oxidy nerozpustné vo vode
+$\ce{Cu2O}$ - červený
+$\ce{CuO}$ - čierny
+
+$\ce{Cu +HNO3 (\text{zried.}) -> Cu(NO3)2 + NO + H2O}$
+$\ce{Cu +HNO3 (\text{konc.}) -> Cu(NO3)2 + NO2 + H2O}$
+
+**modrá skalica** = $\ce{CuSO4.5H2O}$
+Postreky v potravniárstve proti škodcom - *fungicídy*
+
+### Striebro - Ag
+$\ce{Ag2S}$ - argentit (minerál v prírode)
+$\ce{AgX}$ - strieborné halogenidy
+$Ag^+$ - dezinfekčné účinky
+$Ag^0$ - antibakteriálne účinky
+
+### Zlato - Au
+Mäkký žltý kov
+Reaguje iba s lúčavkou kráľovskou - $\ce{3HCl:HNO3}$
+$\ce{Au2O3}$
+$\ce{AuX3}$
+
+
+
 ---
 
 ## II.B
@@ -120,7 +153,20 @@ Obsahuje prímesi: P, Si, S, Mn
 *liatina* - 2 až 4% C - výroba radiátorov
 *oceľ* - < **1,7%** C
 
+**Využitie ocele:**
+- výstuž do betónu
+- tlakové zariadenia
+- konštrukcie a opláštenia budov, strechy
+- výroba čepelí
+- oceľové nosníky
 
+**Korózia železa:**
+*Vzdušná vlhkosť* a *kyslík* vtvárajú ==hrdzu==
+$\quad \ce{4Fe + O2 + 2nH2O -> 2Fe2O3*nH2O}$
+Ochrana železa pred koróziou -> *galvanické pokovanie*: poznikovanie/pochromovanie/poniklovanie
+Alebo nátery
+
+##
 
 ---
 
