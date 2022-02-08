@@ -1,5 +1,14 @@
 set clipboard=unnamedplus   " using system clipboard
-nmap <S-i> :m--<cr>
-nmap <S-k> :m+<cr>
-nmap <C-u> <C-r>
-nmap <Enter> o<ESC>
+set winaltkeys=no
+
+map <M-,> <Esc>
+imap <M-,> <Esc>
+
+" move line
+nmap <S-i> ddkP
+nmap <S-k> ddp
+
+nmap <M-u> <C-r>
+
+" insert empty line below and above
+nmap <cr> o<ESC>

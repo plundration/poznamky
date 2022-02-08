@@ -17,3 +17,4 @@ Vyznačuje sa dokumentárnosťou, faktami. Môže byť doplnená humornými situ
 | dej        | kratší časový úsek; jednoduchá dej. lín; priamočiare; opisnosť | dlhšia; zložitejší dej; konflikt; prekvapujúci koniec;      |
 | kompozícia | pokojné rozprávanie bez dramatického zvratu                    | uzavretý útvar a dramatický dej, možné členenie na kapitoly |
 | postavy    | jedna/dve postavy bez rozlíšenia dôležitosti; obyčajní ľudia   | veľa postáv; hl. pos. v dramatickom konflikte               |
+
