@@ -15,11 +15,11 @@ Ktosi, čosi
 Opytovacie zámená -> ak veta nie je opytovacia
 
 **sám:**
-bezdozoru 1druh
-|-------|------|
-| sami  | samí |
-| samy  | samý |
-| samy  | samé |
+| bezdozoru | 1druh |
+| --------- | ----- |
+| sami      | samí  |
+| samy      | samý  |
+| samy      | samé  |
 
 ## Pravopis zámen
 1. mi (D sg.) - my (N pl.)
@@ -32,5 +32,3 @@ so svojím susedom
 - Zastúpenie podst. a príd. mien
 - Vyjadrenie expresívnosti (precíťovanie, prežívanie)
 - Autorský (skormnosť) a slávnostný plurál + pluralis majestis
-
-#DU 60/13

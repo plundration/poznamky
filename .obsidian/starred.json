@@ -1,3 +1,19 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "file",
+      "title": "zámená",
+      "path": "sjl/zámená.md"
+    },
+    {
+      "type": "file",
+      "title": "prídavné-mená",
+      "path": "sjl/prídavné-mená.md"
+    },
+    {
+      "type": "file",
+      "title": "slovesá",
+      "path": "sjl/slovesá.md"
+    }
+  ]
 }
