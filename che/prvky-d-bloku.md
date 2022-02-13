@@ -54,7 +54,7 @@ $\ce{AuX3}$
 ---
 
 ## II.B
-`Prvky skupiny Zn`
+`Prvky skupiny zinku`
 $\ce{Zn -> [_{18}Ar] 4s^2 3d^10}$
 $\ce{Cd -> [_{36}Kr] 5s^2 4d^10}$
 $\ce{Hg -> [_{54}Xe] 6s^2 5d^10}$
