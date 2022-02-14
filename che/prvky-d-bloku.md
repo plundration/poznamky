@@ -49,8 +49,6 @@ Reaguje iba s lúčavkou kráľovskou - $\ce{3HCl:HNO3}$
 $\ce{Au2O3}$
 $\ce{AuX3}$
 
-
-
 ---
 
 ## II.B
