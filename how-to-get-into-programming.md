@@ -1,5 +1,4 @@
 # Ako začať programovať
-
 ## Prečo začať
 - čo všetko sa naučíte (koncepty)
 	- hry -> vektory (a ich manipulácia), art (pixel)
@@ -40,12 +39,43 @@ Treba sa naučit poriadne googliť a hlavne googliť v angličtine -> 99% zdrojo
 - stack overflow
 - existujúce projekty na githube
 
+---
+
 # Ako naprogramovať webstánku
+Web developery, často nazývaný `fullstack developeri` musia vedieť aspoň niečo o všetkom, čo sa týka webstránok.
+Toto väčšinou zahŕňa:
+- Frontend (HTML + CSS + JS (prípadne aj *framework*))
+- Backend (NodeJS, ASP.NET, PHP, Java, Ruby, ...)
+- Databázy (MySQL, Firebase, MongoDB, ...)
+- Deployment (AWS, Azure, ...)
+- Bash (linuxový terminál)
+- Kolaborácia (git, github, ...)
+- Networking (DNS, hosting, ...)
+- všeobecný prehľad v programovaní a počítačoch
+
+Všetko toto, ale **nemusíte vedieť**, keď si chcete vytvoriť stránku.
+Ale je podľa mňa nutné začať s reálnou stránkou - s projektom, ktorý po dokončení viete aj využiť.
+Odporúčam preto začať so stránkou, ktorá bude predstavovať vaše "portfólio"/CV
+
 ## Technológie
-### Pure
+To čo na webstránke vidíte očami je všeobecne "programované" pomocou dvoch technológií:
+- Čisté `HTML + CSS + JS`
+- Framework (React, Angular, Vue)
 
-### 
+Najlepšie je pre začiatočníkov začať čisto s trojicou `HTML + CSS + JS` alebo aj bez javaskriptu.
+Je to dobré na učenie sa základov programovania webstránok, keďže frameworks sú, zjednodušene, spôsoby podávania rôzneho HTML a CSS.
 
+### Pure (HTML+CSS)
+
+### React/Angular
+
+### Template engine
+
+
+## Deployment
+[Hostovanie stránky zadarmo pre študentov (na GitHube)](https://github.com/)
+
+--- 
 
 # Ako naprogramovať hru
 ## Výber enginu

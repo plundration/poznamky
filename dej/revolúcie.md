@@ -107,7 +107,6 @@ Maximilian Robspierre
 - nerovnomernost hlasov stavov
 
 ### Etapy:
-
 1. Meštania opustili generálne stavy a založili *Národné zhromaždenie* -> sloboda, rovnosť, bratstvo
 Roľníci reágovali - 14. júla 1789 - útok na väznicu Bastilu
 Dokument - 26. augusta 1789 - Deklarácia osobných práv a slobôd
@@ -116,7 +115,7 @@ Dokument - 26. augusta 1789 - Deklarácia osobných práv a slobôd
 Aktívne a pasívne volebné právo
 Diferenciácia parlamentu:
 - pravica - považujú prijatie deklarácie osob. práv za ukončenie revolúcie
-- ľavica - jakobíni a  sansculotti - zbavenie sa panovníka
+- ľavica - *jakobíni a sansculotti* - zbavenie sa panovníka
 
 ## Napoleon Bonaparte
 `(* 1769 Korzika - X 1821 Ostrov sv. Heleny)`
