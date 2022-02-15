@@ -1,32 +1,49 @@
 # Ako začať programovať
 ## Prečo začať
-- čo všetko sa naučíte (koncepty)
+- čo všetko sa môžete naučiť (koncepty)
 	- hry -> vektory (a ich manipulácia), art (pixel)
-	- ako funguje všetko od základov
+	- ako funguje počítač od základov
 	- matematika a logika
 	- abstraktné myslenie
 - job prospects -> mzdy
 - využitie -> praktické programovanie, websites
 
 ## Ako začať
+Chcete reálne začať? Ak áno, tak prečo? Chcete mať stabilnú kariéru, zrealizovať nejaký projekt či si začať IT startup?
+Keď presne identifikujete dôvod tohto rozhodnutia, tak ste pripravení začať.
+
 Treba si nájsť niečo, čo vás na procese baví, aby ste sa necítili unavene a zabávali sa pritom.
 Je potrebné sa spýtať otázku "Prečo chcem programovať?".
 
 ## Výber jazyka
-hry -> prispôsobiť enginu
-Python
-C, C++
+Prvý jazyk vo vás môže vytvoriť lásku pre programovanie, ale aj nenávisť.
+Preto je dôležité vybrať si jazyk, ktorý vás od programovania neodradí, ale aj vás veľa naučí.
+Ale nemýľte si programovanie s učením jazyka. Programovanie je o dosť všeobecnejšie, jazyk je iba konkrétne vyjadrenie jeho princípov.
+
+Samozrejme, líšia sa aj v iných veciach:
+- štandardné knižnice
+- "garbage collection"
+- kompilácia/interpretácia
+- funkčné/objektové/imperatívne/deklaratívne
+- ...
+
+Tieto koncepty pre vás možno neznamenajú nič a síce sú celkom dôležité, ale nie su rozhodujúce.
+Pre začiatočníkov sú najlepšie objektové interpretované jazyky s garbage collectorom.
+Príklady takéhoto jazyka sú -> Python, C# a Java
+Ak sa ale chcete naučiť ťažší ale viac oči otvárajúci jazyk, tak odporúčam C alebo C++
+`- Je ľahšie prechádzať z jazyka ako C do Pythonu ako naopak, práve kvôli tomu, že Python skrýva niektoré komplexity`
+Ak ale chcete programovať hry a máte vybraný engine, prispôsobte sa mu.
 
 ## Prvý program
 Na školách začínaju deti väčšinou s grafickým programovaním.
-Filozofia za týmto je, že je priatelskejšie a ľahšie na pre deti na strávenie.
+Myšliienka za týmto rozhodnutím je, že je priatelskejšie a ľahšie pre deti na učenie.
 Grafické programovanie, resp. programovanie obrázkov (tkinter), ale úplne odoberá programovaniu abstraktnosť.
-Všetko je zamerané na volanie rôznych funkcii, ktorých mená si dieťa musí pamätať a importovanie modulov. 
-Toto memorovanie názvov a ich regurgitácia až príliš pripomína zastaraný spôsob učenia sa množstva faktov.
+Všetko je zamerané na volanie rôznych funkcii a importovanie modulov, ktorých mená si dieťa musí pamätať. 
+Toto memorovanie názvov a ich regurgitácia až príliš pripomína zastaraný spôsob učenia, využívaný v takmer všetkých predmetoch.
 
 Deti by sa mali učiť všeobecné 'patterns' v programovaní - premenné, loop, if-else, postupnosť kódu, objekty a classy, funkcie.
 Taktiež dôležité su základné dátové typy - string, int, float - a štruktúry - array, list, dictionary.
-Tieto znalozti vedia potom uplatniť v hociakom programovacom jazyku.
+Tieto znalozti vedia potom uplatniť v hociakom programovacom jazyku, čo je pri učení tkinteru nemožné.
 
 ## Materiály a tutoriály
 Treba sa naučit poriadne googliť a hlavne googliť v angličtine -> 99% zdrojov (aj sa naučíte angličtinu)
@@ -38,6 +55,14 @@ Treba sa naučit poriadne googliť a hlavne googliť v angličtine -> 99% zdrojo
 - google
 - stack overflow
 - existujúce projekty na githube
+
+## Endgame?
+Keď sa učíte niečo komplexné ako programovanie, tak sa nemôžete drviť len knihy a materiály
+Programovanie je aj o teórií, ale hlavne o praktike. Ako v každom inom obore, treba sa zlepšovať robením.
+Preto si fakt myslím, že ak sa chcete učiť programovať, musíte byť pripravený sa tomu venovať každý týždeň.
+Na začiatočníckom leveli je dôležité netráviť príliš veľa času na jednom projekte - maximálne 2 dni.
+Neskôr keď sa budete zlepšovať, môžete využiť svoje skúsenosti na serióznom projekte.
+> links na projekty
 
 ---
 
