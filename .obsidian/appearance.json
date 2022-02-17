@@ -1,4 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "yinyang"
+  "cssTheme": "yinyang",
+  "enabledCssSnippets": [
+    "caption"
+  ]
 }

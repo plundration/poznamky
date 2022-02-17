@@ -1,5 +1,5 @@
 # Izoméry
-![[izoméry.png]]
+![](izom%C3%A9ry.png)
 
 ## Konštitučné izoméry
 Skladajú sa z *rovnakých atómov* v rovnakých množstvách
@@ -10,14 +10,17 @@ Rovnako ako konštitučné izoméry, skladajú sa z *rovnakých atómov*
 Obsahujú *dvojitú väzbu*
 Líšia sa v **usporiadaní skupín okolo dvojitej väzby**
 
+*Moderne* sa nazývajú $Z = \text{zussamen, spolu} \quad E = \text{entgegen, oddelene}$
+Priorita sa určuje ako pri *enantioméroch*
+
 ## Enantioméry
 Ich `zrkadlové obrazy sa neprekrývajú`
 Obsahujú **chirálne centrá** -> uhlík s 4ma rôznymi naviazanými skupinami
 Skladajú sa z *rovnakého počtu* atómov, ale skupiny sú rôzne usporiadané v priestore
-![[enantioméry.png]]
+![](enantiom%C3%A9ry.png)
 Koenantioméry vieme nakresliť pomocou vymenenia *plných* a *čiarkovaných* väzieb
 
-![[enantiomery-flow-chart.png]]
+![](enantiomery-flow-chart.png)
 
 ### Názvoslovie
 `Cahn-Ingold-Prelog`
@@ -28,8 +31,7 @@ ak sú zhodné -> najväčšie v podskupinách skupiny -> *rekurzívne*
 3. Nakreslíme šípku v smere 1-2-3
 CW = R
 CCW = S
-![[cahn-ingold-prelog.png]]
-
+![](cahn-ingold-prelog.png)
 **Viacero chirálnych centier:**
 ...komplikovanejšie
 *maximálny počet stereoizomérov* = $2^n$ , n = počet chir. cent.

@@ -5,7 +5,7 @@ Do ACH patria zlúč. : $\ce{CO, CO2, H2CO3, (HCO3)- a (CO3)^2-, CS2, HCN (+soli
 $\ce{_6C - 1s^2 | 2s^2 2p^2}$
 $\ce{_6C^* - 1s^2 | 2s^1 2p^3}$
 
-![[orbitály-hybridizácia.png]]
+![](orbit%C3%A1ly-hybridiz%C3%A1cia.png)
 - Väzbový uhol $109^o28'$
 
 **Hybridizácia** - energetické vyrovnanie viacerých orbitálov na sformovanie rovnakého množstva
@@ -25,8 +25,7 @@ Obsahujú iba *C, H*
 - *nenasýtené* - aj dvojité (`alkény`), či trojité (`alkíny`)
 - *aromatické* - obsahujú 1+ benzénových jadier
 
-![[alkány-alkény-alkíny.png]]
-
+![](alk%C3%A1ny-alk%C3%A9ny-alk%C3%ADny.png)
 **Podľa typu reťazca:**
 - *acyklické* - s priamym reťazcom
 	- nerozvetvené (iba prim. a sekund. C)
@@ -35,7 +34,6 @@ Obsahujú iba *C, H*
 	- karbocyklické -> v cykle je len uhlík
 	- heterocyklické -> v cykle sú aj iné atómy (N, O)
 
-
 ### Deriváty uhľovodíkov
 Obsahujú *substituenty* iných prvkov (X, O, N)
 
@@ -43,4 +41,3 @@ Obsahujú *substituenty* iných prvkov (X, O, N)
 1. **sumárny = molekulový** $C_2H_6$
 2. **štruktúrny** - všetky väzby medzi viazanými atómami
 3. **racionálny** - iba niektoré väzby
-

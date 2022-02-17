@@ -6,12 +6,12 @@
 
 ## Substitučné
 Dochádza k *nahradeniu* jedného alebo viacerých atómov vodíka v uhľovodíku
-![[nukleofilna-substitucia.png]]
+![Nukleofilná substitúcia](nukleofilna-substitucia.png)
 
 ## Adíčné
 Dochádza k *naviazaniu* atómov -> dochádza k **znižnovaniu násobnosti väzby**
 pr. `hydrogenácia, hydratácia`
-![[hydratácia-adícia.png]]
+![Hydratácia alkénu pomocou kys. sírovej](hydrat%C3%A1cia-ad%C3%ADcia.png)
 
 ## Eliminačné
 Dochádza k *odštiepeniu* atómov -> **zvyšovanie násobnosti väzby**
@@ -22,7 +22,7 @@ Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry
 -> preskupenie atómov v molekule
 
 # Reakčné mechanizmy
-![[reakčné šípky.png]]
+![](reak%C4%8Dn%C3%A9%20%C5%A1%C3%ADpky.png)
 
 [Reakčné mechanizmy - kniha](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)/04:_The_Study_of_Chemical_Reactions/5.02_Reaction_Mechanism_Notation_and_Symbols)
 
@@ -31,12 +31,12 @@ Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry
 
 ## Tvorba a ničenie väzieb
 **Ničenie:**
-![[lýza-väzby.png]]
+![](lýza-väzby.png)
 - *Homolýza*
 - *Heterolýza*
 
 **Tvorba:**
-![[tvorba-väzby.png]]
+![](tvorba-v%C3%A4zby.png)
 
 ## Reakčné medziprodukty
-![[medziprodukty-och-reakcie.png]]
+![](medziprodukty-och-reakcie.png)
