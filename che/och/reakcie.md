@@ -1,6 +1,6 @@
 # Reakcie
 **Podľa iniciátoru:**
-- Nukleofilné (-)
+- Nukleofilné (-) -> nukleofilný útok
 - Elektrofilné (+)
 - Radikálové (.)
 
@@ -20,6 +20,7 @@ pr. `dehydrogenácia, dehydratácia`
 ## Prešmykové
 Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry)
 -> preskupenie atómov v molekule
+![1,2-metyl prešmyk](1,2-metyl-prešmyk.png)
 
 # Reakčné mechanizmy
 ![](reak%C4%8Dn%C3%A9%20%C5%A1%C3%ADpky.png)
@@ -28,6 +29,7 @@ Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry
 
 ## Markovnikovo pravidlo
 *Vodík* sa naväzuje na uhlík s *vicerými vodíkmi*
+Toto je vďaka [indukčnému efektu](elektrické-efekty.md#Indukčný%20efekt), ktorý stabilizuje karbokatióny s viacerými naviazanými skupinami `*`
 
 ## Tvorba a ničenie väzieb
 **Ničenie:**
