@@ -5,7 +5,7 @@
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "promptDelete": false,
   "fileSortOrder": "byModifiedTimeReverse",
   "tabSize": 4,

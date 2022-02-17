@@ -44,18 +44,3 @@ Obsahujú *substituenty* iných prvkov (X, O, N)
 2. **štruktúrny** - všetky väzby medzi viazanými atómami
 3. **racionálny** - iba niektoré väzby
 
-## Reakcie
-1. **Substitučné**
-Dochádza k *nahradeniu* jedného alebo viacerých atómov vodíka v uhľovodíku
-
-2. **Adíčné**
-Dochádza k *naviazaniu* atómov -> dochádza k **znižnovaniu násobnosti väzby**
-pr. `hydrogenácia, hydratácia`
-
-3. **Eliminačné**
-Dochádza k *odštiepeniu* atómov -> **zvyšovanie násobnosti väzby**
-pr. `dehydrogenácia, dehydratácia`
-
-4. **Prešmykové**
-Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry)
--> preskupenie atómov v molekule
