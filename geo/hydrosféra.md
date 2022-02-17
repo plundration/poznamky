@@ -104,3 +104,38 @@ Panvy, stredooceánske chvosty, chrbty
 - Turizmus
 - Prílivovo-odlivové elektrárne
 - Ťažba soli
+
+## Režim odtoku rieky
+``= všetky zmeny rieky`
+*Vádí* = občasný tok
+
+**Faktory:**
+- Podnebie -> množstvo zrážok, teplota
+- Reliéf - tvrdosť/mäkkosť
+Priepustnosť -> prenikanie vody do podzemia
+*Kras* - vápnce - dosť priepustný
+- Pôda - vlievanie zrážok z okolia
+- Vegetácia - stromy koreňmi zadržiavajú vodu a spevňujú pôdu
+
+### Typy
+
+- `Rovníkový` - nemenné
+Miesta bez striedania ročných období
+pr. *Kongo, Amazon*
+- `Monzúnový` - vysoký prietok v letných mesiacoch
+pr. *Mekong*
+- `Snehovo-dažďový` - hlavný zdroj vody je *topiaci sa sneh*
+sibírske a kanadské rieky
+pr. *Ob*
+- `Dažďovo-oceánsky` - najviac koncom zimy
+západoeurópske rieky
+pr. *Temža*
+- `Vysokohorský` - max v apr. a maj.
+snehovo-dažďový režim na hornom toku
+pr. *Dunaj*
+- `Snehový` - stúpa do mája a potom rapídne klesá
+strácajú vodu výparom a spotrebou vegetácie
+nížinné rieky východnej európy (sucho)
+pr. *Volga*
+- `Ľadovcový` - max v lete
+pr. *Rhône*

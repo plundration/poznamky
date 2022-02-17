@@ -1,14 +1,14 @@
 # Izoméry
 ![[izoméry.png]]
 
-- konštitučné izoméry
-- stereoizoméry
-	- enantioméry
-		- mezoizoméry
-	- diastereoméry
-		- cis-trans
-		- konforméry
-		- rotaméry
+## Konštitučné izoméry
+Skladajú sa z *rovnakých atómov* v rovnakých množstvách
+Líšia sa v **umiestnení rôznych atómov/skupín**
+
+## Geometrické izoméry
+Rovnako ako konštitučné izoméry, skladajú sa z *rovnakých atómov*
+Obsahujú *dvojitú väzbu*
+Líšia sa v **usporiadaní skupín okolo dvojitej väzby**
 
 ## Enantioméry
 Ich `zrkadlové obrazy sa neprekrývajú`
@@ -34,9 +34,10 @@ CCW = S
 ...komplikovanejšie
 *maximálny počet stereoizomérov* = $2^n$ , n = počet chir. cent.
 
+**Mezoizoméry:** má chirálne c., ale má aj os symetrie alebo sa vie prekryť s jeho zrkadlovým obrazom
+
 ### Rozoznávanie
 Majú väčšinou rovnaké *chemické a fyzickćké* vlastnosti
 Prejavujú sa iba v *chirálnych prostrediach* -> **enzýmy**
-
 Dajú sa rozoznávať pomocou [polarimetra](https://en.wikipedia.org/wiki/Polarimeter)
 Ten nám poskytne *uhol rotácie svetla* -> iba experimentálne zisťované
