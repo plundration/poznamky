@@ -34,8 +34,8 @@ Toto je vďaka [indukčnému efektu](elektrické-efekty.md#Indukčný%20efekt), 
 ## Tvorba a ničenie väzieb
 **Ničenie:**
 ![](lýza-väzby.png)
-- *Homolýza*
-- *Heterolýza*
+- *Homolýza* - rovnomérne rozdelené elektróny 
+- *Heterolýza* - nerovnomerne rozdelené elektróny
 
 **Tvorba:**
 ![](tvorba-v%C3%A4zby.png)

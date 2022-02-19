@@ -139,3 +139,16 @@ nížinné rieky východnej európy (sucho)
 pr. *Volga*
 - `Ľadovcový` - max v lete
 pr. *Rhône*
+
+**Vodné toky** - veľkosť a rýchlosť určuje jeho pohybovú energiu => získavanie a prenos materiálov
+koryto, niva, delta (rozvetvenie rieky na množstvo ramien)
+- vnútrozemská delta Dunaja (Žitný ostrov)
+rieka počas svojho života tvoria najprv koryto, potom nivu a potom terasy
+![Terasovanie riečneho koryta](terasovanie-rieky.png)
+
+*Meander* – zatáčanie rieky – nanášaním a odnášaním materiálu v meándri vznikajú riečne jazerá/mŕtve ramená to či vyschnú závisí od napájania podzemnou vodou
+*Riečne údolie* – tvar písmena V
+*Náplavový kužeľ* – voda v pohorí nesie materiál preč z pohoria, príde do kotliny, stráca rýchlosť, už nedokáže niesť materiál, zostáva pod pohorím
+*Tiesňava* - vytvárajú ho potoky a malé rieky
+*Kaňon* - je väčší ako tiesňava (veľké rieky)
+-> iba 2 na Slovensku
