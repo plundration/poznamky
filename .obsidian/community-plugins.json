@@ -8,5 +8,6 @@
   "oz-image-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-tabs",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "url-into-selection"
 ]
