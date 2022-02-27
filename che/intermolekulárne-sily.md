@@ -5,12 +5,11 @@ Všetky sú *elektrostatické sily*
 
 Ovplyvňujú makroskopické vlastnosti - *objem, viskozitu, teploty varu, topenia, ...*
 
-5 typov:
-- vodíkové väzby
-- jónové väzby - medzi opačne nabitými jónmi
-- dipólové sily
-- jónovo indukované dipólové sily
-- van der Waals sily - Keesom, Debye, London dispersion sily
+4 typy: (najsilnejšie -> najslabšie)
+- **Vodíkové väzby**
+- **Dipólové sily**
+- **Jónovo indukované dipólové sily**
+- **Van der Waals sily** - Keesom, Debye, *London dispersion sily*
 
 ## Vodíkové väzby
 `Príťažlivá sila medzi H s` $\delta+$ `a atómom s VEP` [^1] 
@@ -31,5 +30,16 @@ Elektrostatická interakcia *jónu a permanentného dipólu*
 Elektrostatická interakcia *jónu* a *jónom indukovaným dipólom*
 *Dipól je indukovaný* na originálne **nepolárnej molekule**
 ![](jón-indukovaný-dipól.png)
+
+## Van der Waals sily
+Sily medzi *nepolárnymi* molekulami či atómami
+sú o dosť viac *makroskopické* -> univerzálna príťažlivosť medzi telesami (`veľmi krátka vzdialenosť`)
+
+-> Keesom, Debye, London sily
+
+**London dispersion force**:
+Tvorené fluktuáciami a indukciami elektrického poľa v molekulách
+Dva kroky: `polarizácia a indukcia`
+![LDF interakcia medzi dvoma nepolárnymim časticami|650](ldf-sily.png)
 
 [^1]: Voľný elektrónový pár
