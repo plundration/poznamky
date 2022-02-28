@@ -1,4 +1,4 @@
-# Multivariablke kalkulus
+# Multivariable kalkulus
 
 ## Derivovanie
 
