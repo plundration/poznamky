@@ -9,3 +9,13 @@ K *tvrdosti vody* sa pričiňujú soli v nej rozpustené:
 
 Znižovanie tvrdosti:
 - pridaním $\ce{Na2CO3}$ (sódy)
+
+
+look in the mirror tell her what you know she heard before: i dont wanna be you anymore
+i ponder of something great, 
+my lungs will fill and then deflate 
+they fill with fire exhale desire, 
+i know its dire my time today,
+i have these thoughts
+so often i yacht
+to replace these 

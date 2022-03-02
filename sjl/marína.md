@@ -1,0 +1,2 @@
+# Marína
+*Paralelizmus* - hľadanie paralelov 

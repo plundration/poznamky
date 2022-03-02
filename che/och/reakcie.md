@@ -26,6 +26,9 @@ Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry
 ## Reakčné mechanizmy
 [Reakčné mechanizmy - kniha](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)/04:_The_Study_of_Chemical_Reactions/5.02_Reaction_Mechanism_Notation_and_Symbols)
 
+**Nukleofil:** musí mať voľný $e^-$ pár
+**Elektrofil:** musí mať prázdy orbitál
+
 ### Zapisovanie
 ![Šípky reakčných mechanizmov|1000](reak%C4%8Dn%C3%A9%20%C5%A1%C3%ADpky.png)
 
@@ -37,8 +40,9 @@ Toto je vďaka [indukčnému efektu](elektrické-efekty.md#Indukčný%20efekt) a
 ### Tvorba a ničenie väzieb
 **Ničenie:**
 ![|300](lýza-väzby.png)
-- *Homolýza* - rovnomérne rozdelené elektróny 
-- *Heterolýza* - nerovnomerne rozdelené elektróny
+Rozbitie väzby je účinkom žiarenia
+- *Homolýza* - rovnomérne rozdelené elektróny - nepolárna kovalentná
+- *Heterolýza* - nerovnomerne rozdelené elektróny - polárna kovalentná
 
 **Tvorba:**
 ![|300](tvorba-v%C3%A4zby.png)

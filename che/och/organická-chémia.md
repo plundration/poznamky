@@ -22,6 +22,9 @@ Obsahujú iba *C, H*
 
 **Podľa typu väzby:**
 - *nasýtené* - iba jednoduchá väzba `alkány`
+$C_1-C_4 = \text{plyny}$
+$C_5-C_{16} = \text{kvap.}$
+$>C_{17} = \text{tuhé}$
 - *nenasýtené* - aj dvojité (`alkény`), či trojité (`alkíny`)
 - *aromatické* - obsahujú 1+ benzénových jadier
 
