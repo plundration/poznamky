@@ -1,5 +1,6 @@
 # Alkény a alkíny
-Tieto reakcie platia aj pre alkíny, až na násobnosť väzieb
+Tieto reakcie platia aj pre *alkíny*, až na násobnosť väzieb
+Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20pravidlo)
 
 **Halogenvodíky**
 ![](halogenvodíková-adícia.png)
