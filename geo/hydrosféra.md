@@ -152,3 +152,44 @@ rieka počas svojho života tvoria najprv koryto, potom nivu a potom terasy
 *Tiesňava* - vytvárajú ho potoky a malé rieky
 *Kaňon* - je väčší ako tiesňava (veľké rieky)
 -> iba 2 na Slovensku
+
+## Jazerá
+`- prírodná zníženina sčasti alebo úplne zaplnená vodou`
+
+- **Tektonické** - hlboké, lebo sú na *zlomových líniách zemskej kôry* -> veľmi staré
+pr. Bajkálske, Tanganika, Malawi
+- **Tektonicko-ľadovcové**
+pr. Ladošské, Kanadské jazerá, Balaton
+- **Ľadovcové** - vznik buď činnosťou ľadovca:
+	- *pevninského* -> Antarktída, Grónsko 
+	- *horského* -> Mazurské jazerá v Poľsku
+- **Volkanické** - vznik zaplavením *kaldery*
+- **Krasové** - podzemné, lebo kras prepúšťa vodu
+- **Pobrežné** - vznikajú z morských zálivov
+- **Riečne** - vznikajú v slepých ramenách riek (priškrtenie meandra natoľko, že sa oddelí)
+- **Reliktové** - pozostatky mora
+pr. Kaspické `more`
+
+Jazerá môžu byť:
+- *odtokové*
+- *bezodtokové*
+
+Voda v nich môže byť:
+- *slaná*
+- *sladké*
+
+> Balchašské jazero v Kazachstane
+> - západná časť = *sladká voda* (mútna)
+> - východná časť = *slaná voda* (číra)
+
+Sú zásobou *povrchovej vody* -> prevažne v Amerike a východnej Afrike
+**Vodné nádrže**:
+- zásoby vody
+- elektrina
+- proti povodniam
+- zavlažovanie
+- rekreácia
+
+**Svetové rekordy v nádržiach**
+- rozloha -> Volta (západná Afrika)
+- objem -> Kariba (Zambezi)

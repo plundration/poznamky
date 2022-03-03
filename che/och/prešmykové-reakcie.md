@@ -1,4 +1,6 @@
 # Prešmykové reakcie
+`Izromerizačná` reakcia -> *preskupenie atómov* v molekule
+
 ## Prešmyk skupín
 Väčšinou na *stabilizáciu medziproduktov*
 

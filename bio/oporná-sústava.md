@@ -62,4 +62,26 @@ Zvyšok -> `okostica` (periost)
 - vnútorná vrstva obsahuje *kosťotvorné bunky* -> rast kostí do hrúbky a reparácia pri zlomenine
 
 #### Vnútro
-... to be continued
+**Kostná dreň** - tvorí vnútro dlhých kostí - *dreňová dutina*
+Vypĺňa aj dutinky v koncoch kostí
+V detstve má *červenú farbu* -> **krvotvorné tkanivo**
+V dospelosti *žltne* -> hromadenie tuku, strata funckionality vo väčšine kostí
+
+![](vnútro-kosti.png)
+
+#### Tvar
+Určený *funkciou* kosti
+
+- **dlhé** - ramenná, stehnová
+Rozlišujeme na nich telo *diafýzu* a kĺbové konce *epifýzu* (väčšinou rozšírené) - hlavice
+Rastú pomocou *rastových chrupiek* do dĺžky
+- **ploché** - hrudná, lopatka, kosti lebky
+- **krátke** - stavce, kosti zápästia
+
+#### Spojenie kostí
+
+- **nekĺbové** - pevné, pomocou *spojivových tkaník* (väzivo, chrupka, `kosť`)
+	- *väzivové*
+	- *chrupkové*
+	- *kostné* - krížová kosť
+- **kĺbové**
