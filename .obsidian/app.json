@@ -17,8 +17,8 @@
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
-    "margin": "2",
-    "downscalePercent": 83
+    "margin": "0",
+    "downscalePercent": 72
   },
   "legacyEditor": false,
   "livePreview": true,
