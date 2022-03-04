@@ -13,6 +13,7 @@ Problém jazyka
 - katolícky -> slovenské nárečie
 - evanjelický -> biblická čeština
 
+## Bernolákovská etapa
 *Bernolák* - katolík
 Kodifikácia spisovnej slovenčiny
 Jazykovedno-kritická rozprava o slovenských písmenách
@@ -20,10 +21,6 @@ Slovník Čs-La-Ne-Uh-Sl
 
 *Juraj Fándly*
 Šírenie osvety -> vydával diela blízke ľudu
-
-*Kollár* - evanjelik
-
-*Štúr* - k+e
 
 ## Kollarovská etapa
 **Predstavitelia:**
