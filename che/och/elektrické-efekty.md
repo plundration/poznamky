@@ -11,7 +11,15 @@ $C^{\delta\delta\delta-}-C^{\delta\delta-}-C^{\delta-}-Y^{\delta+}$ = +I efekt -
 -> !!! ***Maximálne 2. až 3. uhlík*** 
 
 ## Mezomérny efekt
+Uplatňuje sa v *konjugovaných systémoch* -> dvojité väzby (planárne = prekryv)
+**+M** - znižuje e- hustotu -> *viazaná 2itou väzbou* a kradne elektróny
+**-M** - zvyšuje e- hustotu -> *viazaná jed. väzbou* a poskytuje voľný e- pár
+
+![](mezomerný-efekt.png)
 
 ## Rezonančný efekt
 
 ## Hyperkonjugácia
+*Stabilizačná interakcia* medzi $\sigma$ **väzbou** a prázdnym/polovične naplneným $\pi$ **orbitálom**
+Dochádza k *delokalizácii elektrónov* 
+![](hyperkonjugácia.png)
