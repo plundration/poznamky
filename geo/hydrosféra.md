@@ -193,3 +193,27 @@ Sú zásobou *povrchovej vody* -> prevažne v Amerike a východnej Afrike
 **Svetové rekordy v nádržiach**
 - rozloha -> Volta (západná Afrika)
 - objem -> Kariba (Zambezi)
+
+## Ľadovce
+- **Pevninský** - Grónsko a Antarktída
+- **Horský** - Alpy, Himaláje, Kilimandžáro
+pohoria nad snežnou čiarou (sneh sa netopí)
+
+### Horský ľadovec
+Tvorí sa hromadením snehu
+*Ľadovcové dolina* (`Trog`) je tvaru **U** -> ľadovec sa hýbe
+![Horský ľadovec|500](horský-ľadovec.png)
+**Kar** - vznikol tam ľadovec
+
+## Podpovrchová voda
+Voda pod zemským povrchom
+Vypĺňa póry v zemskej kôre
+
+- **pôdna voda** - netvorí súvislú hladinu
+- **podzemná voda** - súvislá hladina nad nepriepustnou vrstvou
+
+*Krasová* podzemná voda - v priepustných vápencoch
+
+*Artézska* podzemná voda - v miestach kde sú nepriepustné horniny nakonené
+pr. Austrálska veľká artézska voda
+![](artézska-voda.png)
