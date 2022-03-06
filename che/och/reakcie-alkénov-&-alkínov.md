@@ -12,3 +12,13 @@ Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20p
 ![](hydroborácia.png)
 **Ozónolýza**
 ![](ozónolýza-reakcia-alkény.png)
+## Hydrogenácia
+*Adičná reakcia* - adícia $H_2$ -> prerušenie dvojitej/trojitej väzby
+Prebieha pomocou katalyzátorov:
+- $\text{Pd/C}$ - `paladium on carbon`
+Adícia prebieha na alkíny aj alkény
+**!!! Neredukuje arény**
+- $\text{Lindlar}$ - `Lindlarov katalyzátor`
+Adícia prebieha *len na alkíny* - **syn adícia**
+- $Li/NH_3$ alebo $Na/NH_3$ 
+Adícia prebieha *len na alkíny* - **anti adícia**
