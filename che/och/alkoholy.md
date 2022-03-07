@@ -30,3 +30,7 @@ Alkoholy sú *veľmi rozpustné vo vode*
 ![|600](hydratácia-adícia.png)
 - pomocou $\ce{Hg(OAc)2}$
 ![Oxymerkuracia je stereošpecifická a regioselektívna|700](oxymerkuracia-alkoholy.png)
+
+**Redukcia aldehydov a ketónov**:
+Prebieha pomocou *hydridového aniónu* - zdroje: $\ce{LiAlH4, NaBH4}$
+![](redukcia-ketonov-na-alkoholy.png)
