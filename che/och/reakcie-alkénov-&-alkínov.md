@@ -9,6 +9,7 @@ Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20p
 **Hydratácia**
 ![](adícia-vody-alkény.png)
 **Hydroborácia**
+*Anti*-[markovnikov](reakcie.md#Markovnikovo%20pravidlo) hydratácia
 ![](hydroborácia.png)
 **Ozónolýza**
 ![](ozónolýza-reakcia-alkény.png)
