@@ -8,10 +8,12 @@
 epigenom zabezpecuje ze budu tvorene len proteiny ktore su potrebne pre funckiu bunky
 nepotrebné gény sa *utíšujú* pomocou *metylácie a acylácie* (kodónov a histónov)
 
-telomery = koncove casti molekuly dna -> chromozomu
-pri replikacii dna sa konce skracuju kvoli nepresnemu kopirovaniu
+**telomery** = koncove casti molekuly dna -> *chromozomu*
+pri replikacii dna sa konce *skracuju* kvoli nepresnemu kopirovaniu
 Telomerázy - ttaggg sekvencie
-Sirtuíny = proteíny s úlohou 1. Udržiavať epigenóm (deacetylázy) a 2. Pomáhať pri oprave DNA
+**Sirtuíny** = proteíny s úlohou 
+1. Udržiavať epigenóm (deacetylázy)
+2. Pomáhať pri oprave DNA
 
 ## Teórie
 ### Klasická
@@ -39,6 +41,9 @@ Tento gén bol v normálnom stave neaktívny, aktivovaný bol malou dávkou tamo
 - rakovina
 - znížená plodnosť
 - náchylnosť na choroby
+- poškodené dna
+- degradácia proteinov a ich produkcie
+- zlyhávanie medzibunkovej komunikácie
 
 ## Prevencia
 Funguje na princípe “survival circuit”, ktorý sa aktivuje:
@@ -56,9 +61,9 @@ nerobiť!!!!:
 
 ## Liečenie
 Aktivácia génov (NAD -> SIR1-7) pomocou promotorov:
-resveratrol
-metformín - všeobecné zdravie (rakovina, diabetes, …)
-rapamycin - objavený na Velkonocnych ostrovoch 
-nicotinamide riboside/mononucleotide
+- resveratrol - inhibitor mtor + aktivator NAD
+- metformín - všeobecné zdravie (rakovina, diabetes, …) - 
+- rapamycin - objavený na Velkonocnych ostrovoch - inhibitor mtor
+- nicotinamide riboside/mononucleotide - aktivator NAD
 Stále prebieha výskum pre nové a lepšie látky, napr. inhibitory TOR génu, ktorý je zodpovedný za bunkové delenie
 fialova - akt. NAD; zel - akt. AMPK; mod - inh. mTOR;
