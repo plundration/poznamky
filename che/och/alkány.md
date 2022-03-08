@@ -12,3 +12,11 @@ c) terminácia
 ![|500](terminácia-halogenácia-reakcia.png)
 Net reakcia:
 ![|400](reakcia-halogenacia-alkany.png)
+
+**Sulfochlorácia**:
+$\ce{alkán + SO2 + Cl2 -> sulfonylchloridalkán}$
+![|500](sulfochloracia-alkanov.png)
+
+### Oxidačné reakcie
+**Horenie alkánov**
+$\ce{CH4 + O2 -> CO2 + H2O + E}$ *exotermická*
