@@ -2,7 +2,6 @@
 
 ## Osobná lyrika
 
-
 ## Spoločenská lyrika
 
 ## Andrej "Sládkovič" Braxatoris

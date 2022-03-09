@@ -1,4 +1,6 @@
-# Alkény a alkíny
+# Alkény
+
+## Reakcie
 Tieto reakcie platia aj pre *alkíny*, až na násobnosť väzieb
 Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20pravidlo)
 
@@ -13,7 +15,7 @@ Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20p
 ![](hydroborácia.png)
 **Ozónolýza**
 ![](ozónolýza-reakcia-alkény.png)
-## Hydrogenácia
+### Hydrogenácia
 *Adičná reakcia* - adícia $H_2$ -> prerušenie dvojitej/trojitej väzby
 Prebieha pomocou katalyzátorov:
 - $\text{Pd/C}$ - `paladium on carbon`

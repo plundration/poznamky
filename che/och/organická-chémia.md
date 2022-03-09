@@ -44,12 +44,3 @@ Obsahujú *substituenty* iných prvkov (X, O, N)
 1. **sumárny = molekulový** $C_2H_6$
 2. **štruktúrny** - všetky väzby medzi viazanými atómami
 3. **racionálny** - iba niektoré väzby
-
-6bc
-7bd
-8 - c, e
-9b
-10abc
-11
-derivaty - bdefg
-uhlovodiky - ach
