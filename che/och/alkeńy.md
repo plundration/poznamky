@@ -15,6 +15,12 @@ Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20p
 ![](hydroborácia.png)
 **Ozónolýza**
 ![](ozónolýza-reakcia-alkény.png)
+**Oxidative cleavage with KMnO4**:
+Podmienkou je *H3O+*
+![](cleavage-alkeny-kmno4.png)
+**Hydratácia s KMnO4**:
+![](hydratacia-alkenov-kmno4.png)
+
 ### Hydrogenácia
 *Adičná reakcia* - adícia $H_2$ -> prerušenie dvojitej/trojitej väzby
 Prebieha pomocou katalyzátorov:
