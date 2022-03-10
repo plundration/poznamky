@@ -21,7 +21,7 @@ pr. `dehydrogenácia, dehydratácia`
 ### Prešmykové
 Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry)
 -> preskupenie atómov v molekule
-![1,2-metyl prešmyk -> stabilizácia karbokatiónu|550](1,2-metyl-prešmyk.png)
+![1,2-metyl prešmyk -> stabilizácia karbokatiónu|500](1,2-metyl-prešmyk.png)
 
 ## Reakčné mechanizmy
 [Reakčné mechanizmy - kniha](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)/04:_The_Study_of_Chemical_Reactions/5.02_Reaction_Mechanism_Notation_and_Symbols)
@@ -36,6 +36,7 @@ Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry
 ![Distribúcia kladného náboju medzi uhlíkmi](markovnikovo-pravidlo.png)
 *Vodík* sa naväzuje na uhlík s *vicerými vodíkmi*
 Toto je vďaka [indukčnému efektu](elektrické-efekty.md#Indukčný%20efekt) a [hyperkonjugacii](elektrické-efekty.md#Hyperkonjugácia), ktoré stabilizujú karbokatióny s viacerými naviazanými skupinami
+Jeho platnosť sa *zvyšuje* pri **väčších teplotách**
 
 ### Tvorba a ničenie väzieb
 **Ničenie:**
