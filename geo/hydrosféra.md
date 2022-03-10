@@ -217,3 +217,8 @@ Vypĺňa póry v zemskej kôre
 *Artézska* podzemná voda - v miestach kde sú nepriepustné horniny nakonené
 pr. Austrálska veľká artézska voda
 ![](artézska-voda.png)
+
+*Termálna* podzemná voda > $25^oC$
+*Hypertermálna* voda > $75^oC$ 
+ 
+**Slovensko** - 1200 lokalít s termálnou vodou

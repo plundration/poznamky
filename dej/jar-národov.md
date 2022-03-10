@@ -19,12 +19,23 @@
 ## Situácia v Rakúskej monarchii
 Vypuknutie vo `Viedni, Prahe, Budapešti`
 
-**Viedeň**:
-Všeobecné ciele: prijatie ústavy
-Nakoniec *úspech*
+**Viedeň** - prijatie ústavy (nakoniec *úspech*)
+**Budapešť** - Špecifické ciele
+**Praha** - Slovania:
+- reprezentácia v Uhorskom sneme
+- územie
+- využovanie v SJ
 
-**Praha** - Špecifické ciele: Slovania
+Najradikálnejším národom boli *Maďari*
+- Lájoš Kossuth
+- Ľudovít Bartáni
+- Július Andrássy
+- Sándor Petofi
 
-**Budapešť**:
-Špecifické ciele
-Lájoš Kosúth
+**Marcové zákony** /31/ - Kossuth
+Prezentované v Budapešti 1848 -> požiadavky Maďarov:
+- redukovanie impéria na *personálnu úniu* -> **autonómnosť**
+- zrušenie poddanstva
+- zrušenie kňazského desiatku
+- zrušenie **aviticity** - cirkev nemôže dediť
+- národné vojsko Maďarska
