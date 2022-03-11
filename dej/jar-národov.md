@@ -39,3 +39,32 @@ Prezentované v Budapešti 1848 -> požiadavky Maďarov:
 - zrušenie kňazského desiatku
 - zrušenie **aviticity** - cirkev nemôže dediť
 - národné vojsko Maďarska
+
+### Slováci
+**Žiadosti slovenského národa**:
+Liptovský Mikuláš 1848 - Štúr, Hodža, Hurban
+1. národné požiadavky
+2. demokratické požiadavky
+3. sociálne požiadavky
+
+Vydaný *zatýkač na Štúra, Hodžu, Hurbana* -> utekajú do Prahy na zjazd
+
+**Slovanský zjadz v Prahe**:
+2-12. jún 1848
+Posledný deň *povstanie* - privolané vojská
+
+Š,H,H utekajú do Viedne
+
+**Slovenská národná rada**:
+16.9.1848 vo Viedni - myšlienka boja za národné požiadavky
+
+**Dobrovoľnícke výpravy**:
+jesenná - september 1848 - Myjava (porazený cisárskymi vojskami)
+zimná - dec 1848 - apr 1849 - spolu *s rakušanmi proti maďarskej revolúcii*
+letná - leto 1849 - **nič**
+
+==Význam==:
+- prvý raz so zbraňou v boji
+- povedomie a národná hrdosť
+
+*3ja slovenskí dôverníci* pre cisára - Ján Kollár
