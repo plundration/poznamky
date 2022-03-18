@@ -68,3 +68,13 @@ letná - leto 1849 - **nič**
 - povedomie a národná hrdosť
 
 *3ja slovenskí dôverníci* pre cisára - Ján Kollár
+
+## Zjednotenie Talianska
+
+**Zjednocovací proces** - do 1870
+Politicky a geograficky - *zhora aj zdola*
+
+*Najvýznamnejšia bitka* - Bitka pri Solferine (26. 5. 1859)
+Vznik červeného krížu - Jean Dunant - Nobelova cena za mier
+
+Po zjednotení zaostalí -> malá gramotnosť, nevzdelaní
