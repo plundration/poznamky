@@ -215,7 +215,7 @@ Opracovaný diamant = **briliant**
 `C20, C40, C60`
 Usporiadané do tvaru futbalových lôpt.
 Navzájom viazané *van der waalsovými silami*
-Mäkké, nerozpustné vo vode, polovodič.
+Mäkké, nerozpustné vo vode, polovodiče
 ![[fulereny.png]]
 
 #### Kyslíkaté
