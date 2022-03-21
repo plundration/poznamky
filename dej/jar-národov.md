@@ -70,9 +70,45 @@ letná - leto 1849 - **nič**
 *3ja slovenskí dôverníci* pre cisára - Ján Kollár
 
 ## Zjednotenie Talianska
+![](taliansko-zjednotenie.png)
+1848/49 -> lokálne povstania
+Vedúcou silou bolo *Sardínske kráľovstvo* (liberáli)
 
-**Zjednocovací proces** - do 1870
-Politicky a geograficky - *zhora aj zdola*
+### Zjednocovací proces
+do 1870 - politicky a geograficky *zhora aj zdola*
+
+**Giuseppe Mazzini**
+- autor 1. talianskeho národného programu
+- žiadal povstanie proti všetkým cudzím vládcom na Apeninskom polostrove
+- v roku 1831 založil spolok Mladé Taliansko
+
+**Giuseppe Garibaldi**
+- následovník Marzziniho a ideí *Mladého Talinaska*
+- snaha o zjednotenie pod demokratickou republikánskou vládou
+- neskôr sa priklonil k idei konštitučnej monarchii a umiereným názorom C. Cavoura
+
+**Camillo Cavour**
+- premiér a *minister obchodu Sardínskeho kráľovstva*
+- zaslúžil sa o mnohé reformy
+- liberálny politik a moderné politické názory
+
+**Viktor Emanuel I.**
+- kráľ Sardínie ako Viktor Emanuel II. - neskôr prvý kráľ zjednoteného Talianska ako Viktor Emanuel I.
+
+**Napoleon III.**
+- posledný francúzsky cisár, synovec Napoleona Bonaparteho
+- potenciálny najlepší spojenec
+- s Cavourom sa dohodli na spoločnom postupe
+- neskôr zradil a stal sa prekážkou
+
+*Hnutie Mladé Taliansko*
+- 1831-1848 Giuseppe Mazzini
+- revolučná organizácia
+
+*risorgimento* - ri (znova) + sorgor (vznikať)
+- myšlienka národnej jednoty
+- taliansky názov zjednocovacieho procesu
+- zbavenie sa rakúskej a francúzskej nadvlády
 
 *Najvýznamnejšia bitka* - Bitka pri Solferine (26. 5. 1859)
 Vznik červeného krížu - Jean Dunant - Nobelova cena za mier
