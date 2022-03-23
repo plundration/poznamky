@@ -105,20 +105,58 @@ Panvy, stredooceánske chvosty, chrbty
 - Prílivovo-odlivové elektrárne
 - Ťažba soli
 
-## Režim odtoku rieky
-``= všetky zmeny rieky`
+## Voda na pevnine
+
+### Povrchová voda
+**hydrografická sieť** -> *riečna sieť*, jazerá, umelé vodné nádrže a mokrade
+
+#### Rieka
+`masa vody, ktorá tečia korytom obvykle k oceánu`
+-> 3 úseky:
+- *horný tok* - vymieľa roklinu v tvare V, malá vodnatosť, veľký spád
+- *stredný tok* - miernejší spád a pomalší prúd
+rieky obteká prekážky -> tvorí **meandre**
+- *dolný tok* - takmer žiadny spád, veľký objem, materiál sa ukladá
+rieka sa stáča
+
+**prítok** - vodný tok ústiaci do hlavnej rieky
+- pravostranný
+- ľavostranný
+
+*potok* - menší prítok rieky
+*prameň* - miesto, kde vzniká rieka
+*úste* - miesto kde sa rieka vlieva do mora/jazera
+
+**estuár** - lievikovité vyústenie rieky do mora
+**riečna diva** - vzniká ukladaním materiálu na mieste kde sa rieka rozširuje
+**riečne jazerá** - mrtvé ramená
+
+`dĺžka toku` - vzdialenosť od ústia po prameň
+`spád` - výškový rozidel
+`povodie` - územie z ktorého hlavný tok s prítokmi odvádza povrchovú a podzemnú vodu
+`rozvodie` - hranica medzi povodiami (pohorie)
+
+**Tvary riečnej siete**
+- *asymetrická*
+- *stromovitá*
+- *radiálna*
+- *pravouhlá*
+
+![700](riečna-sieť.png)
+
+##### Režim odtoku rieky
+`= všetky zmeny rieky v priebehu roka`
 *Vádí* = občasný tok
 
 **Faktory:**
 - Podnebie -> množstvo zrážok, teplota
 - Reliéf - tvrdosť/mäkkosť
-Priepustnosť -> prenikanie vody do podzemia
+- Priepustnosť -> prenikanie vody do podzemia
 *Kras* - vápnce - dosť priepustný
 - Pôda - vlievanie zrážok z okolia
 - Vegetácia - stromy koreňmi zadržiavajú vodu a spevňujú pôdu
 
-### Typy
-
+**Typy**:
 - `Rovníkový` - nemenné
 Miesta bez striedania ročných období
 pr. *Kongo, Amazon*
@@ -176,13 +214,14 @@ Jazerá môžu byť:
 
 Voda v nich môže byť:
 - *slaná*
-- *sladké*
+- *sladká*
 
 > Balchašské jazero v Kazachstane
 > - západná časť = *sladká voda* (mútna)
 > - východná časť = *slaná voda* (číra)
 
 Sú zásobou *povrchovej vody* -> prevažne v Amerike a východnej Afrike
+
 **Vodné nádrže**:
 - zásoby vody
 - elektrina
