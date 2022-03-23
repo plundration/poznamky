@@ -1,4 +1,5 @@
 # Elektrické efekty
+
 ## Indukčný efekt
 `permanentný stav polarizácie časti organickej molekuly` -> posun elektrónov po $\sigma$ väzbe
 *Elektrónová hustota* v $\sigma$ väzbe medzi dvoma *rozdielnými* atómami **nie je uniformná**

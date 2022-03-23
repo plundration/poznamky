@@ -2,6 +2,7 @@
   "baseFontSize": 16,
   "cssTheme": "yinyang",
   "enabledCssSnippets": [
-    "caption"
+    "caption",
+    "width"
   ]
 }

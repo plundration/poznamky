@@ -110,6 +110,30 @@ do 1870 - politicky a geograficky *zhora aj zdola*
 - taliansky názov zjednocovacieho procesu
 - zbavenie sa rakúskej a francúzskej nadvlády
 
+*ľudové hlasovania*
+- boli uskutočnené počas zjednocovacieho procesu a bojov 
+- napr. Sicília a Neapolsko -> zjednotené Taliansko (kráľ Viktor Emanuel)
+
+**rozdiely medzi S a J**
+- sever: priemyselnejší, rozvinutejší, vzdelanejší a modernejší
+- juh: agrárnejší, zaostalý, chudobný a negramotný
+
+**3 myšlienkové prúdy** zjednotenia:
+1. *Republika*
+	- demokracia a rovnosť
+	- radikálne
+	- inšpirované Mladým Talianskom
+	- G. Mazzini a spočiatku aj G. Garibaldi
+2. *Konštitučná monarchia*
+	- obmedzenia panovníka ústavou a parlamentom
+	- umiernené
+	- Camillo Cavour, neskôr G. Garibaldi
+3. *Federácia*
+	- pod vládou pápeža - pápež Pius IX. to odmietol
+
+Zvíťazil model **konštitučnej monarchie** -> vedúca sila *Sardínske kráľovstvo*
+
+![](taliansko-zjednotenie-bitky.png)
 *Najvýznamnejšia bitka* - Bitka pri Solferine (26. 5. 1859)
 Vznik červeného krížu - Jean Dunant - Nobelova cena za mier
 
