@@ -1,11 +1,11 @@
 # Revolúcie
 **Spoločné črty:**
- 1. odstránenie absolutizmu -> konštitúcia / ústava 
- 2. zmena ekonomických systémov: feudalizmus -> kapitalizmus
- 3. občianské vojny
- 4. hybnou silou - meštianstvo (buržoázia), 3. stav -> získať podiel na politickej moci
- 5. zámienka - zvýšenie daní
- 6. Etapy:
+1. odstránenie absolutizmu -> konštitúcia / ústava 
+2. zmena ekonomických systémov: feudalizmus -> kapitalizmus
+3. občianské vojny
+4. hybnou silou - meštianstvo (buržoázia), 3. stav -> získať podiel na politickej moci
+5. zámienka - zvýšenie daní
+6. Etapy:
 	 - občianska vojna: šľachta a panovník <-> meštania a ľud
 	 - poprava panovníka
 	 - zmena zriadenia / formy a typu štátu - z abs monarchie -> ústavná republika

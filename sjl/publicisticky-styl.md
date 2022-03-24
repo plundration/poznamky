@@ -19,3 +19,15 @@ prinášať informácie, ovplyvňovať verejnú mienku, zabaviť
 - **Pseudodialogickosť**
 - **Písomnosť**
 - **Ústnosť**
+
+## Delenie
+- **spravodajské** - informujú
+- **analytické** - informujú, analyzujú a hodnotia
+- **beletristické** - informujú a pôsobia esteticky
+- **propagačné** - informujú a presviedčajú
+
+*titulok* - názov novinového článku
+má upútať, navigovať a informovať
+
+
+12 našich žiakov sa dnes zúčastnilo školského kola Chemickej Olympiády. Očakávajú

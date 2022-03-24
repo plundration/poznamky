@@ -11,7 +11,7 @@ Voda zaberá 2/3 povrchu zeme.
 
 ## Kolobeh vody
 Veľký a malý kolobeh
-![[Obeh_vody_USGS.jpg]]
+![](Obeh_vody_USGS.jpg)
 
 1. Vyparovanie
 2. Presun
@@ -21,7 +21,6 @@ Veľký a malý kolobeh
 
 Všetka energie pochádza zo **slnka** a od gravitácie.
 *Trojný bod vody* zabezpečuje, že pri prirodzených podmienkach môžu existovať všetky tri fázy.
-
 
 ## Morské prúdy
 Vznikajú pravidelným *pôsobením vetra a teplotných rozdielov*
@@ -51,7 +50,6 @@ Východogrónsky - atl
 Západny príhon - atl, ind, tich
 Západoaustrálsky - ind
 
-
 ## Vlastnosti morkej vody
 ### Teplota
 Svetový oceán je najväčší absorbent tepla, zmierňuje klímu.
@@ -73,7 +71,6 @@ Maximálna pri teplote $4^oC$
 Závisí od obsahu rozpustených org. a anorg. látok.
 Najzdravšia sú zelenomodrej
 Oceľovo-modrá = málo živín
-
 
 ## Relief dna oceánov a morí
 1. Podmorské okraje pevnín
@@ -145,7 +142,7 @@ rieka sa stáča
 ![700](riečna-sieť.png)
 
 ##### Režim odtoku rieky
-`= všetky zmeny rieky v priebehu roka`
+`všetky zmeny rieky v priebehu roka`
 *Vádí* = občasný tok
 
 **Faktory:**

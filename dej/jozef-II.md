@@ -1,4 +1,4 @@
-# Jozef II.
+# Jozef II. Habsburský
 Syn Márie Terézie, rovnako veľa aj reformoval.
 Bol kráľ, ale nebol korunovaný.
 "Sedliacky kráľ"
