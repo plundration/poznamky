@@ -13,6 +13,13 @@ A taktiež sú sopky aj na iných planétach/mesiacoch
 napr. meiac Io je volkanicky aktívne teleso, lebo ho zohrieva slapovými silami Jupiter
 
 # Anatómia
+To čo my nazývame sopka je *iba malá časť* toho čo tvorí sopku
+Skladá sa z:
+- **magmatického kozubu** - miesto kde sa hromadí magma a preniká cez kôru
+- **kužeľu** - to čo mi chápeme ako sopka -> vpodstate kopec/hora vytvorená aktivitou sopky
+- **komínu** - spája kozub s kráterom
+- **kráter** - magma vyviera vo forme lávy
+- **parazitický kráter** - vedľajší kráter, kde taktiež vyviera láva
 
 # Erupcie
 Delia sa na:

@@ -24,7 +24,7 @@ Vypuknutie vo `Viedni, Prahe, Budapešti`
 **Praha** - Slovania:
 - reprezentácia v Uhorskom sneme
 - územie
-- využovanie v SJ
+- vyučovanie v SJ
 
 Najradikálnejším národom boli *Maďari*
 - Lájoš Kossuth
@@ -85,7 +85,7 @@ do 1870 - politicky a geograficky *zhora aj zdola*
 **Giuseppe Garibaldi**
 - následovník Marzziniho a ideí *Mladého Talinaska*
 - snaha o zjednotenie pod demokratickou republikánskou vládou
-- neskôr sa priklonil k idei konštitučnej monarchii a umiereným názorom C. Cavoura
+- neskôr sa priklonil k idei konštitučnej monarchie a umiereným názorom C. Cavoura
 
 **Camillo Cavour**
 - premiér a *minister obchodu Sardínskeho kráľovstva*
