@@ -24,6 +24,12 @@ Delia sa na:
 Kilauea - Havaj - 2018
 Svätá Helena - USA - 1980
 
+**Mechanizmus**:
+V *magmatickom kozube* sa hromadí magma a zvyšuje sa tlak
+Podľa zloženia magmy sa potom môžu stať dve veci:
+- riedka a tekutejšia -> plyny môžu unikať -> pomalá erupcia
+- hustejšia a lepkavá -> plyny sú uzavreté -> explózia
+
 Materiál *vytvorený erupciou*:
 - *volkanické plyny* - para, co2, so2, h2s
 - *láva* - vytečená magma
@@ -31,12 +37,6 @@ Materiál *vytvorený erupciou*:
 
 Ak pred alebo počas erupcie pršalo alebo je okolo sopky sneh tak sa tvoria *laháre*
 sú to tzv. **bahnotoky**, ktoré dokážu zaplaviť bahnom celé mestečká, napr. v roku 79 pri Vezuve a 1985 40km od sopky v Kolumbii
-
-**Mechanizmus**:
-V *magmatickom kozube* sa hromadí magma a zvyšuje sa tlak
-Podľa zloženia magmy sa potom môžu stať dve veci:
-- riedka a tekutejšia -> plyny môžu unikať -> pomalá erupcia
-- hustejšia a lepkavá -> plyny sú uzavreté -> explózia
 
 Potom sú sopky ako Stromboli, ktorá kontinuálne eruptuje už niekoľko tisícročí
 hlavne vypúšťa plyny
