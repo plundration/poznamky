@@ -7,6 +7,7 @@ $$g=9.8m/s^2=G\cdot\frac{M_z}{R_Z^2}$$
 $$M_Z=9.8m/s^2\cdot\frac{R_Z^2}{G}$$
 ---
 $$R_{PC}=2R\cdot\tan(\alpha/2)$$
+
 ---
 $$\frac{R_{PC}^3}{T^2}=\frac{G(M_P+M_C)}{4\pi^2}$$
 $$M_P+M_C=\frac{4R_{PC}^3\pi^2}{GT^2}$$
