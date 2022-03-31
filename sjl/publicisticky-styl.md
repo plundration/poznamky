@@ -46,3 +46,10 @@ označuje sa to aj "stručne"
 píše sa v minulom čase
 
 V Petržalke je registrovaná iba polovica psov. 
+
+*Interview* - posledný spravodajský žáner
+Riadený/spravodajský rozhovor, dialogizovaná správa
+Iba ak je vopredu pripravený
+Komunikanti: spravodajca <->
+Cieľ: predstaviť, priniesť informáciu o verejnej osobe
+**Autorizácia** - overenie odpovedí autorom
