@@ -19,6 +19,7 @@ Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20p
 Podmienkou je *H3O+*
 ![](cleavage-alkeny-kmno4.png)
 **Hydratácia s KMnO4**:
+Podobná reakcia aj pre *OsO4*
 ![](hydratacia-alkenov-kmno4.png)
 
 ### Hydrogenácia
