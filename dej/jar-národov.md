@@ -138,3 +138,58 @@ Zvíťazil model **konštitučnej monarchie** -> vedúca sila *Sardínske kráľ
 Vznik červeného krížu - Jean Dunant - Nobelova cena za mier
 
 Po zjednotení zaostalí -> malá gramotnosť, nevzdelaní
+
+## Zjednotenie Nemecka
+od roku 843 (záik Franskej ríše) je Nemecko rozdrobené
+na území Východofranskej ríše bolo 26 kniežatstiev -> vznik SRR -> 1. cisár Otto I. -> 966 korunovaný -> chaos, bordel
+- prvýkrát Nemecko zjednotil Napoleón -> vytvoril Rýnsky spolok
+- druhýkrát v období Jaro národov
+
+*koncepcie*:
+- Veľkonemecká ríša (vš. krajiny hovoriace po nemecky) -> **Hitler**
+- Malonemecká ríša (zjednotenie kniežatstiev)
+
+1861 -> Prusko sa chce vyrovnať F a VB
+- na čele Otto von Bismarck - kancelár
+Willhelm I. - panovník
+zjednotenie "železom a krvou"
+- forma konštitučnej monarchie
+
+1862 - 1870 vojny Dánska:
+- s Rakúskom - Sadová, Bratislava
+- s Francúzskom - Sedan
+
+18.1 1871 Versailles -> vyhlásené Nemecké cisárstvo
+
+politika pomsty (revanšu) - medzi F a N
+
+### Bismarckova éra
+Cieľ -> reálne zjednotiť Nemecko:
+*Vnútorná politika*
+- kultúrne - aj nábožensky
+- hospodársky
+- politicky
+
+*Zahraničná politika*
+- rovnováha síl v Európe
+- koloniálna expanzia
+**"power of balance"**
+
+#### Vnútorná politika
+**Kulturkampf**:
+Boj proti katolíckej cirkvy
+Cirkev pod kontrolou štátu -> kňazi museli robiť štátne skúšky
+
+**Antisocialistický zákon** - boj proti radikálnym socialistom
+**Sociálne zákonodarstvo** - socialistické reformy, aby sa ľudia nesťažovali a mali sa dobre
+
+#### Zahraničná politika
+**Berlínska konferencia** - riešenie Balkánskej otázky
+*Osmani* kedysi ovládali Balkán ich oslabením sa vytvoril *power vacuum*
+Podpora vzniku nových štátov
+Rak-U získalo Bosnu a Hercegovinu -> 1. sv. vojna
+![](balkánsky-power-vacuum.png)
+
+**2. Berlínska konferencia**
+Rozdelenie *Afriky* medzi 14 krajín
+Otto von Bismarck 
