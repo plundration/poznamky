@@ -32,3 +32,4 @@ $$T_P=\sqrt{T_Z^2/R_{ZS}^3*R_{PS}^3}$$
 $$T_P=T_Z\sqrt{R_{PS}^3/R_{ZS}^3}\qquad T_Z=\text{1 rok}$$
 $$T_P=\sqrt{R_{PS}^3/R_{ZS}^3}$$
 $$T_P=240.43\text{ rokov}$$
+
