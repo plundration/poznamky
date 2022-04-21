@@ -1,3 +1,0 @@
-# Daily TODO
-- [ ] programovanie 
-- [ ] immune

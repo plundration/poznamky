@@ -1,0 +1,67 @@
+# todo
+- organely
+	- pod mikroskopom
+	- funkcie
+	- chloroplasty
+		- fotosyntéza
+			- c3,c4,cam
+			- 1. 
+			- 2. 
+			- rubisco
+		- zloženie
+		- kalvinov cyklus
+	- peroxizómy
+	- vakuoly
+	- mitochondrie
+	- golgiho aparat
+	- ER
+- makromolekuly
+	- lipidy a fosfolipidy
+	- proteíny
+		- denaturacia
+		- vznik
+		- štruktúra (prim, sek,...)
+	- hormóny
+		- časté hormóny v tele
+		- páry hormónov
+		- ludske hormonalne zlazy
+	- ATP, ADP a prislusne proteiny
+	- PCR
+- vírusy
+	- dna, rna, retro
+	- rna polymeraza (rna+, rna-)
+- rastliny
+	- pletivá
+		- pod mikroskopom
+		- nazvy
+		- zlozenie
+	- kvetné diagramy
+	- rozmnozovanie
+		- vetro/hmyzoopelive -> vlastnosti
+	- plod
+	- sukvetie
+	- kvety
+	- čeľade
+- genetika
+	- geneticke poruchy
+		- mutacie (genomove, genove, chromozomove)
+		- choroby
+		- dedicne choroby -> matka/otec ...
+	- puriny a pyrimidyni
+	- meioza
+	- mitoza
+	- ludske rozmnozovanie
+		- vznik pohlavnych buniek
+		- prenik spermie
+		- oplodnenie
+		- menstruacne cykly
+		- vyvin plodu
+- ekologia a evolucia
+	- emisie metanu a co2
+	- druhova bohatost
+	- biologicka zdatnost
+	- evolucia
+- choroby
+	- zdroje
+		- Malaria - Apicomplexa
+

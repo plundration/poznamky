@@ -6,6 +6,14 @@
 
 ## Nahosemenné rastliny
 ![](nahosemenne-rastliny-šuška.png)
+### Jednoduché oplodnenie
+*Iba jedna sprematická bunka* splynie s oosférou
+**Endosperm je 1n**, lebo vznikne pred oplodnením
+oosféra -> zárodok
+vajíčko -> semeno
+šupina -> krídla
+listene a vreteno -> drevnatá šiška
+![|500](nahosemenne-rastliny-oplodnenie.png)
 
 ## Krytosemenne rastliny
 -> majú *kvet* (flos):
@@ -21,7 +29,7 @@ Keď oba, tak je *obojpohlavný*
 - **jednodomá rastlina** - obojpohlavné kvety alebo oddelene samčie a samičie orgány na jednej rastline (čerešne, hrušky)
 - **dvojdomá rastlina** - na jednej rastline len samčie alebo len samičie orgány (rakytník, ginko)
 
-### Opelenie
+### Dvojité oplodnenie
 = prenos peľového zrnka z peľnice na blizku piestika (vetroopelivé, hmyzoopelivé)
 
 -> vývin peľového zrnka
@@ -29,3 +37,15 @@ Keď oba, tak je *obojpohlavný*
 -> vývin vájička
 ![](vývin-vajíčka.png)
 ![](vajíčko-krytosemenné.png)
+**Oplodnenie**:
+![](krytosemenne-rastliny-opelenie.png)
+Peľové zrnko -> peľové vrecúško
+**Vegetatívna bunka** koordinuje rast do piestiku
+**Antipódy** chemicky priťahujú VB
+-> *1. splynutie* - 1. sperm. bunka (n) + oosféra (n) = zygota (2n)
+-> *2. splynutie* - 2. sperm. bunka (n) + centrálne jadro (2n) -> endosperm (3n)
+
+zygota -> plod
+vajíčko -> semeno
+intergumenty -> osemenie
+semenník -> plod
