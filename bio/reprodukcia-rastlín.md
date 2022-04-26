@@ -49,3 +49,4 @@ zygota -> plod
 vajíčko -> semeno
 intergumenty -> osemenie
 semenník -> plod
+
