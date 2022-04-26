@@ -6,7 +6,6 @@
 **epigenom** = analogovy
 epigenom zabezpecuje ze budu tvorene len proteiny ktore su potrebne pre funckiu bunky
 nepotrebné gény sa *utíšujú* pomocou *metylácie a acylácie* (kodónov a histónov)
-
 **telomery** = koncove casti molekuly dna -> *chromozomu*
 pri replikacii dna sa konce *skracuju* kvoli nepresnemu kopirovaniu
 Telomerázy - ttaggg sekvencie
