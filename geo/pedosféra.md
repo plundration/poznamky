@@ -16,3 +16,12 @@ vzniká pôsobením **rôznych procesov/sfér**:
 2. **Podzemná voda** -> premývanie
 3. **Klíma** -> rýchlosť tvorby
 4. **Reliéf** - povrch územia (orientácia voči sv. stranám, sklon)
+
+## Pôdne typy
+Od severu na juh:
+- *Polárne zaľadnené územia*
+- *Arktické pôdy a pôdy tundier*
+- *Podzoly a podzolové pôdy*
+- *Hnedozeme a gaštanové pôdy*
+- *Pôdy púští a polopúští*
+- *Červenozeme a žltozeme*

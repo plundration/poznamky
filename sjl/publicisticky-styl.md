@@ -53,3 +53,4 @@ Iba ak je vopredu pripravený
 Komunikanti: spravodajca <->
 Cieľ: predstaviť, priniesť informáciu o verejnej osobe
 **Autorizácia** - overenie odpovedí autorom
+
