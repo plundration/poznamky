@@ -28,3 +28,29 @@ schopné prijímať živivy aj cez listy.
 na tvorbu bielkovín - čiže na rast. **Síra** je potrebná v aminokyselinách, čiže
 to isté. **Horčík** je súčasťou chlorofylu, ale treba ho aj na tvorbu bielkovín.
 **Vápnik** je dobrý na spevňovanie sklerenchýmu.
+´
+**Heterotrófne rastliny**: nevedia si vyrábať organické látky samy
+	parazitické (imelo) a saprofytické rastliny
+
+*Parazitické rastliny*:
+- úplne - prenikajú aj do lyko aj dreva
+	hydnora, raflézia, kukučina
+- neúplne - prenikajú iba do dreva´
+
+*Saprofytické rastliny*:
+hniezdovka hlistová
+
+**Mixotrófne rastliny**:
+Zmiešaný spôsob výživy -> hmyzožravé rastliny
+Potrebujú získavať *dusík z potravy*, lebo ho nemajú v pôde.
+
+Na lovenie:
+- žľaznaté emergencie/trichómy
+- mechanické pasce -> turgor
+
+**Typy symbiózy**:
+- *mykoríza* - huba a strom
+- *lichenizmus* - huba a riasa
+- *strukovité a hľuzovité* - baktérie
+- *endosymbióza* - huba a orchidei (vstavačovité)
+- existuje aj symbióza medzi rastlinou a živočíchmi -> akácia a mravce

@@ -1,1 +1,0 @@
-Po roku 1860 aj Slovákom svitlo na lepšie časy

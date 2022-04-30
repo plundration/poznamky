@@ -19,9 +19,21 @@ vzniká pôsobením **rôznych procesov/sfér**:
 
 ## Pôdne typy
 Od severu na juh:
-- *Polárne zaľadnené územia*
-- *Arktické pôdy a pôdy tundier*
-- *Podzoly a podzolové pôdy*
-- *Hnedozeme a gaštanové pôdy*
+- *Polárne zaľadnené územia* 
+- *Arktické pôdy a pôdy tundier* - oblasť severného polárneho kruhu
+	pr. Kanada, severné Rusko
+- *Podzoly a podzolové pôdy* - ihličnaté lesy -> kyslá pôda
+- *Černozeme* - najúrodnejšie, veľa humusu; stepy/lesostepy
+- *Hnedozeme a gaštanové pôdy* - vlhkejšie; stepy + listnaté/zmiešané lesy
 - *Pôdy púští a polopúští*
-- *Červenozeme a žltozeme*
+- *Červenozeme a žltozeme* - vlhké, hrubá vrstva humusu; veľmi úrodné krátko
+	medzi obratníkmi
+
+### Podľa vertikálnej členitosti
+Od najnižších
+- **Fluvizeme** - nivné pôdy, 
+- **Čiernice** - jedny z najúrodnejších pôd
+- **Černozeme** - 250 mnm
+- **Ilimerizované pôdy**
+- **Pseudogleje**
+- **Kambizem** - hnedá lesná pôda
