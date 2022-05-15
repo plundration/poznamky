@@ -1,5 +1,5 @@
 # Rozprávací slohový postup
-Vyskytuje sa v [`umeleckom`](umelecký%20štýl.md) štýle (epika, dráma), `hovorovom` (jednoduché rozprávanie), `publicistickom` (fejtón)
+Vyskytuje sa v [`umeleckom`](umelecký-štýl.md) štýle (epika, dráma), `hovorovom` (jednoduché rozprávanie), `publicistickom` (fejtón)
 
 ## Znaky
 - `súdružnosť` -> jeden súvislý celok, *jedna dejová línia*

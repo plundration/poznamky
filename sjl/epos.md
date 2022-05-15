@@ -37,5 +37,5 @@ hrdinské eposy + rytierske eposy -> najstaršie a najrozšírenejšie
 - rozprávač nevstupuje do deja, nekomentuje činy hrdinov
 - epická šírka s hlavnou dejovou líniou a odbočeniami
 - množstvo hlavných a vedľajších postáv
-- vstup do deja [[rozprávací sp#Kompozičný postup|in medias res]] 
+- vstup do deja [[rozprávací-sp#Kompozičný postup|in medias res]] 
 - rozsiahle umelecké opisy
