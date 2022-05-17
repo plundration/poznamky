@@ -36,12 +36,23 @@ Vyžadujú prítomnosť svetla -> prebieha vo *fotosystémoch na membráne tylak
 	-> sú potrebné na redukciu CO2 v sekunárnych procesoch
 	$\ce{2H+ + 2e- + NADP+ -> NADPH2 ; (NADPH + H+)}$ -> nikotínamid-adenín-dinukleotid-fosfát
 	$\ce{2H+ + 2e- + FAD -> FADH2}$ -> flavín-adenín-dinukleotid
+
+**Výstupy zo svetelnej fázy**:
+ATP, O2, *redukované koenzými* ($\ce{NADPH2, FADH2}$), voda
+-> sú potrebné na redukciu CO2
 	
 ### Sekundárne procesy
 `Syntetická fáza` - 'tmavá'
 Nevyžaduje prítomnosť svetla -> prebieha v *stróme chloroplastov*
 
 CO2 sa viaže na primárny akceptor $\text{ribulóza-1,3-bifosfát}$ pomocou enzýmu RUBiSCO
+za spotreby redukovaných koenzýmov a ATP -> redukcia CO2 na glukózu
 
 **Kalvinov cyklus**:
 *Fixácia a redukcia* CO2 na glukózu
+
+**Delenie rastlín podľa primárneho akceptora**:
+
+#### C3
+#### C4
+#### CAM

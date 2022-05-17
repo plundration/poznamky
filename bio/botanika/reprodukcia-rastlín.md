@@ -29,6 +29,15 @@ Keď oba, tak je *obojpohlavný*
 - **jednodomá rastlina** - obojpohlavné kvety alebo oddelene samčie a samičie orgány na jednej rastline (čerešne, hrušky)
 - **dvojdomá rastlina** - na jednej rastline len samčie alebo len samičie orgány (rakytník, ginko)
 
+### Súkvetie
+**Strapcovité**:
+
+**Vrcholikovité**:
+
+**Zložené**:
+
+
+
 ### Dvojité oplodnenie
 = prenos peľového zrnka z peľnice na blizku piestika (vetroopelivé, hmyzoopelivé)
 
