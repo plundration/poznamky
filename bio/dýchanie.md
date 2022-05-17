@@ -1,5 +1,4 @@
 
-![](Pasted%20image%2020220510143701.png)
 # Dýchanie
 Katabolický, disymilačný proces -> cieľ = **uvoľniť zo živín E**
 *Podmienky*:
@@ -34,9 +33,7 @@ Prebieha **anaeróbne** -> vykonávajú ju všetky organizmy
 ---
 
 ## Aeróbna dekarboxylácia pyruvátu
-Prebieha v *matrixe mitochondrií*
-
-V `pyruvátdehydrogenázovom komplexe`
+Prebieha v *matrixe mitochondrií* v `pyruvátdehydrogenázovom komplexe`
 ![Pomocou enzýmu pyruvátdehydrogenázy|450](pyruvat-dekarboxylacia.png)
 ![AcetylKoenzým A -> Koenzým A v čiernom](acetyl-coa.png)
 ![Makroergická väzba so sírou umožnuje vstup do syntetických reakcií](syntéza-pomocou-acoa.png)
@@ -56,10 +53,43 @@ Vznik *redukovaných koenzýmov* -> $\ce{FADH2, NADHH+, GTP/ATP}$
 -> Koncový dýchací reťazec
 Prebieha na **vnútornej mitochondriálnej membráne** -> vstupujú FADH2, NADH
 
+![](oxidatívna-fosforylácia.png)
+
 **2 proteínové komplexy**:
 1. *elektrón transportný reťazec* -> komplex I, II, III, IV
 	- I -> $\text{NADH-ubichinón oxidoreduktáza}$
-		presun 2e- z NADH2 na koenzým Q10 (`ubichinón`) a pumpovanie H+ von
-	- II -> $\text{}$
+		Presun 2e- z NADH2 na koenzým Q10 (`ubichinón`) a pumpovanie H+ von
+	- II -> $\text{sukcinát dehydrogenáza, FADH2-ubichinón reduktáza}$
+		Presun 2e- na Q10
+	- III -> $\text{cytochróm C reduktáza}$
+		Q10 prenesie e- na KIII - pumpovanie H+ von a presun e- na Cyt C
+	- IV -> $\text{cytochróm C oxidáza}$
+		e- sa naväzujú na O2 -> vzniká $\ce{O2^{4-}}$ naviazaný na špec. proteín
+		Naviažu sa 4H+ -> 2H2O => uvoľnenie energie -> presun 2H+ von
+		
+2. *ATP syntáza* 
+	Využíva **gradient protónov** H+, vytvorený *e- transportným reťazcom* na tvorbu ATP
+	Zloženie:
+	- **F0** - ukotvené v membráne, prepúšťa protóny -> spôsobuje *rotačný pohyb*
+	- **F1** - syntetizuje ATP pomocou zmeny konformácie spôsobenej rotorom
+		delí sa na 3 domény, ktoré:
+		1 - viažu ADP a fosfát
+		2 - syntetizujú ATP
+		3 - uvoľňujú ATP
 
-![](oxidatívna-fosforylácia.png)
+![|400](atp-synthase.png)
+![|400](atp-synthase2.png)
+![](https://upload.wikimedia.org/wikipedia/commons/6/62/ATPsyn.gif)
+
+---
+
+## Bigger picture
+![](net-gain.png)
+![](atp-table.png)
+**RQ - respiračný kvocient**
+Vyjadruje *intenzitu dýchania* - pomer produkovaného CO2 ku spotrebovanému O2
+$RQ = \frac{V(CO_2)}{V(O_2)}$
+RQ(cukry) ~ 1
+RQ(tuky) ~ 0.4 (najviac)
+RQ(bielkoviny) ~ 0.7
+RQ(org. kyseliny) ~ 4

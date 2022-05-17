@@ -31,12 +31,12 @@ Keď oba, tak je *obojpohlavný*
 
 ### Súkvetie
 **Strapcovité**:
-
+Na vrchole je 1 veľký kvet
+![](strapcovite-sukvetie.png)
 **Vrcholikovité**:
-
+![](vrcholikovite-sukvetia.png)
 **Zložené**:
-
-
+TODO
 
 ### Dvojité oplodnenie
 = prenos peľového zrnka z peľnice na blizku piestika (vetroopelivé, hmyzoopelivé)

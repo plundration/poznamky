@@ -1,0 +1,14 @@
+{
+  "snippets_file": "latex: \"$\\text{$end$}$\"",
+  "snippets": [
+    "latex: \"$\\text{$end$}$\""
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
