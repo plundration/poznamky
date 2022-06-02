@@ -184,7 +184,7 @@ Cirkev pod kontrolou štátu -> kňazi museli robiť štátne skúšky
 **Sociálne zákonodarstvo** - socialistické reformy, aby sa ľudia nesťažovali a mali sa dobre
 
 #### Zahraničná politika
-**Berlínska konferencia** - riešenie Balkánskej otázky
+**Berlínska konferencia/kongres** - riešenie Balkánskej otázky
 *Osmani* kedysi ovládali Balkán ich oslabením sa vytvoril *power vacuum*
 Podpora vzniku nových štátov
 Rak-U získalo Bosnu a Hercegovinu -> 1. sv. vojna

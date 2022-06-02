@@ -20,7 +20,7 @@ Slováci - politicky pasívny - nekandidujú do snemu
 - *SNS* - slovenská národná strana 1980s
 Politická pasivita reprezentovaná konzervatívcami
 M. Dula
-- *Liberáli* - Hlasisti, Vavro Šrobár
+	- *Liberáli* - Hlasisti, Vavro Šrobár
 - *Ľudová strana* - Andrej Hlika, Katolici
 - *Agrárna strana* - Milan Hodža
 - *Sociálno demokratická* - 

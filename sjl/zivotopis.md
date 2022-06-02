@@ -12,8 +12,4 @@ Na konci siedmeho ročníka naplánovala triedna učiteľka výlet do Prahy, na 
 
 V ôsmom ročníku, keď sa blížil monitor, som si začal uvedomovať, že život nie je len o jedle a hrách, ale aj o vedomostiach a ľuďoch. Bolo to asi kvôli tomu, že mi horelo pod zadkom, lebo som už nemohol bez snahy dostávať samé jednotky. Ale každopádne mi to pomohlo sa vrátiť na správnu cestu. Začal som si zlepšovať známky, vyhrávať olympiády a aj som schudol. V tomto čase som začal rozvíjať aj svoju záľubu prírodných vied.
 
-V druhej polovici deviateho ročníka, keď sme už posielali prihlášky na stredné školy si nejaký chlapík v Číne pochutnával na netopierovi a odvtedy museli všetci zostať doma, aby nepomreli. Ako žiaci sme vôbec neprotestovali, lebo dištančné vzdelávanie nám dalo voľnosť, ktorú dovtedy ešte väčšina detí nemala. Ale po čase to všetkých prestalo baviť a bolo jasné, že to na naše vzdelanie a zdravie nemá dobrý vplyv. Aj štúdium na strednej škole vydržalo len 2 mesiace predtým než sme všetci išli domov. Nikto nedokázal predpovedať ako dlho v tom nekonečnom cykle lockdownov (logdan) budeme.
-
-Našťastie sa svet ako tak vynoril z tej globálnej katastrofy, vrátili sme sa do normálu a ja som sa mohol vrátiť naspäť k olympiádam. Na gymnáziu som si už vybral, že sa v budúcnosti chcem venovať biochémii a aj som si našiel pár nových hobby: lezenie, programovanie a počúvanie hudby. 
-
-Moja budúcnosť je mi celkom jasná, ale nie je bez prekážok. Čakajú ma maturitné skúšky zo slovenčiny, matematiky, chémie a biológie. Nakoniec sa ale budem aj musieť rozlúčiť so svojim domovom
+V druhej polovici deviateho ročníka, keď sme už posielali prihlášky na stredné školy si nejaký chlapík v Číne pochutnával na netopierovi a odvtedy museli všetci zostať doma, aby nepomreli. 
