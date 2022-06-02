@@ -1,4 +1,4 @@
-# Fotosyntéza
+# Fotosyntéza #pisomka
 `- fotosyntetická asimilácia`
 
 Deje sa pomocou *chlorofylu* v zelených organizmoch

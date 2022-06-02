@@ -2,7 +2,7 @@
 
 ### Tundra
 Iba severná pologuľa
-Priemerná teplota je viac ako 7 mesiacov pod nuloh
+Priemerná teplota je viac ako 7 mesiacov pod nulou
 Nízka vegetácia kvôli vetru
 *Permafrost* - zem nenasiakava vodu a často je zatopená
 *Tufu/Tufury* - pôda vznikla mrazovím zvetrávaním, "kopčeky s trávou"
@@ -29,7 +29,7 @@ Vyššia diverzita
 Veľmi úrodné - černozeme a hnedozeme
 Subtropické mierne, málo zrážok
 90% biomasy = trávy (Poaceae); bez drevín
-*Pusta* - Maďarsko; *Pampa* - J.A.; *Prérie* - S.A.
+*Pusty* - Maďarsko; *Pampy* - J.A.; *Prérie* - S.A.
 **Flóra**: trávy
 **Fauna**: rovnokrídlovce, cikády, hlodavce, stádové kopytníky, hrabavé vtáky, šelmy
 
@@ -45,7 +45,8 @@ Vegetačná doba počas chladu (udržiavanie vody)
 
 ### Púšte a polopúšte
 Obratníky - suchá tropická klíma
-	`Púšte mierneho pásma` -> obklopené pohoriami (vyprší sa na náveternej strane)
+- `Púšte mierneho pásma` -> obklopené pohoriami (vyprší sa na náveternej strane)
+
 20-30% zemského povrchu
 Zrážky max 15cm za rok
 Veľké denné výkyvy teplôt
@@ -86,4 +87,4 @@ Tiež vysoká biodiverzita
 
 ### Vodné biómy
 nechcelo sa mi poznámkovať
-![|900](vodnebiomy.png)
+![|1000](vodnebiomy.png)

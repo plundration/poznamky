@@ -37,3 +37,6 @@ Od najnižších
 - **Ilimerizované pôdy**
 - **Pseudogleje**
 - **Kambizem** - hnedá lesná pôda
+
+![](Pasted%20image%2020220527093649.png)
+![](Pasted%20image%2020220527093659.png)

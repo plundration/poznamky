@@ -26,3 +26,9 @@ charakterový typ postavy:
 - *Alcest* - skeptik
 - *Tartuffe* - pokrytec
 - *Harpagnon* - lakomec
+
+## Slovenská komédia
+**Ján Chalúpka**
+
+**Ján Palárik** - Zmierenie (Oslavy pri obžinkoch)
+Dobový kontext: Slováci sa chcú zmieriť s Maďarmi, aby mali kde predávať bryndzové halušky
