@@ -1,4 +1,4 @@
-# Vodný režim rastlín
+# Vodný režim rastlín #pisomka 
 
 ## Príjem vody
 Vodné rastliny prijímajú vodu celým telom osmózou

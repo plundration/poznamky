@@ -1,4 +1,4 @@
-# Rast a vývin rastlin
+# Rast a vývin rastlin #pisomka
 **Onogenéza** - vývin jedinca od začiatku po koniec života
 **Fylogenéza** - vývin druhu od vzniku po zánik
 
@@ -29,7 +29,7 @@ Fázy ontogenézy:
 **Vnútorné**:
 - Hormóny
 	*Aktivátory*:
-	- $\textbf{Auxíny}$ - *bránia vyrastaniu bočných stoniek*
+	- $\textbf{Auxíny}$ - *bránia vyrastaniu bočných stoniek*, produkované v rastových vrcholoch
 		rýchlejší rast zatienenej strany
 	- $\textbf{Cytokiníny}$ - zrýchľovanie delenia -> klíčenie, hojenie, rast bočných koreňov
 	- $\textbf{Giberelíny}$ - ovplyvňujú celkovú výšku
@@ -50,7 +50,7 @@ Fázy ontogenézy:
 
 
 ## Rast
-Nevatné kvantitatívne zmeny
+Nevratné kvantitatívne zmeny
 Zväčšovanie hmotnosti a rozmerov
 Prebieha v *rastových vrcholoch*
 

@@ -1,4 +1,4 @@
-# Fázové premeny #fyz
+# Fázové premeny
 ## Topenie
 Premena pevnej látky na kvapalinu
 Dochádza k tomu pri *teplote topenia* (závisí od tlaku)

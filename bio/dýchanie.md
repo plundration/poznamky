@@ -1,5 +1,4 @@
-
-# Dýchanie
+# Dýchanie #pisomka 
 Katabolický, disymilačný proces -> cieľ = **uvoľniť zo živín E**
 *Podmienky*:
 1. prítomnosť $\ce{O2}$
