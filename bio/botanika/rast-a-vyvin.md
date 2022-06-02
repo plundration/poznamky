@@ -1,5 +1,5 @@
 # Rast a vývin rastlin #pisomka
-**Onogenéza** - vývin jedinca od začiatku po koniec života
+**Ontogenéza** - vývin jedinca od začiatku po koniec života
 **Fylogenéza** - vývin druhu od vzniku po zánik
 
 **Životný cyklus** - život rastliny od vzniku po vytvorenie semien a plodov
@@ -8,6 +8,7 @@ Delenie:
 	pr. rajčiak, slnečnica, púpava, ľuľok
 	podskupina - *Jednoročné ozimné* - zasiate na jeseň a prečkajú zimu; napr. pšenica, jačmeň
 - Dvojročné - 1. rok -> vyklíčenie; 2. rok -> kvitnutie
+	pr. mrkva
 - Trváce - prežívajú niekoľko rokov
 	- *Monokarpické* - tvoria plody len raz 
 		pr. agave, bambus
@@ -23,7 +24,7 @@ Fázy ontogenézy:
 - *dormantná fáza*
 	- vynútená dormancia - vonkajšie faktory
 	- hlboká dormancia - vnútorné faktory (geneticky napr. hormónami)
-		pr. dreviny mierneho pásma, väčšina semeien
+		pr. dreviny mierneho pásma, väčšina semien
 
 ## Faktory ontogenézy
 **Vnútorné**:
@@ -63,5 +64,5 @@ Prebieha v *rastových vrcholoch*
 Rast zárodku po určitom čase dormancie
 
 **Klíčivosť** - schopnosť semena vyklíčiť (v percentách)
-*Faktory*: voda, živiny, hrúbka osemenia, obsah inhibítorov, 
+*Faktory*: voda, živiny, hrúbka osemenia, obsah inhibítorov, teplo
 
