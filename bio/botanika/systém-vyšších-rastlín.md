@@ -26,7 +26,6 @@ U *machorastov* prevláda gametofyt, všade inde sporofyt
 - *Semenné rastliny* - $\textbf{Spermatophyta}$
 
 ## Výtrusné rastliny
-
 ### Rýniorasty
 **Fosílne oddelenie** - už vyhynuté
 ![Zdola: rizomoid/podzemok, sterilné telómy, fertilné telómy|300](ryniorasty.png)
@@ -46,3 +45,11 @@ Prevláda *gametofyt* -> **regresívna vývojová vetva**, primitívny znak
 *Zárodočníky* - samičie
 Na oplnodnenie je potrebná kvapka vody
 ![|500](machorasty.png)
+
+**Systém**:
+- *Rožteky*
+- *Pečeňovky* - lupeňovitá stielka
+	pr. porastnica mnohotvará; 
+- *Machy* 
+	Význam: zadržiavanie vlhkosti, tvorba biomasy, úkryt pre organizmy
+	pr. ploník (obyčajný a borievkový), rašelinik močiarný, merík vlnkatý

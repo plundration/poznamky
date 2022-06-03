@@ -31,3 +31,27 @@ $CP = PP + MP$
 
 Najvyššia pôrodnosť je v *nevyspelých krajinách*
 - detí sú potrebné na prácu
+
+**Príčiny mortality**:
+- Prestarnutá populácia
+- Nedostatok zdravotnej starostlivosti
+- Alkoholizmus, drogová závislosť
+
+## Znaky populácie
+### Biológia
+-> *Vek, Pohlavie, Rasa*
+Prevládajú ženy (51%)
+Rodí sa viac chlapcov (51.6%), ale kratšie prežijú 
+
+Delenie podľa veku -> **produktivita** (predproduktívny, produktívny, postproduktívny)
+**Populačné pyramídy**: rastúce, stacionárne, regresujúce
+![|800](populačná-pyramída-sveta.png)
+**Rasy**:
+- Mongoloídna
+- Ekvatoriálna
+- Europoidná
+
+### Kultúrne
+-> *Náboženstvo, Jazyk, *
+
+### Sociálne
