@@ -19,6 +19,9 @@ Striedajú sa generácie *sporofyt* (samotná rastlina; 2n) a *gametofyt* (peľo
 Ak sa morfologicky neodlišujú -> `izomorfná rodozmena` - najstaršia
 Dnes -> `heteromorfná rodozmena`
 
+**Prvorast**:
+Výtrus spadne na zem (n) -- klíčenie -> *prvorast* (obojpohlavný) -> zárodočníky a plemeníčky -- oplodnenie -> spermatozoid (n) + oosféra (n) -> zygota (2n) -> mladý sporofyt
+
 U *machorastov* prevláda gametofyt, všade inde sporofyt
 
 **Delenie**:
@@ -38,7 +41,7 @@ Vznikli v *prvohorách*
 
 Telo = *stielka*:
 - lupeňovitá (pečeňovky)
-- diferencovaná -> rozlí=sená na **pakorienky, pabyľku a palístky**
+- diferencovaná -> rozlíšená na **pakorienky, pabyľku a palístky**
 
 Prevláda *gametofyt* -> **regresívna vývojová vetva**, primitívny znak
 *Plemenničky* - samčie
@@ -53,3 +56,53 @@ Na oplnodnenie je potrebná kvapka vody
 - *Machy* 
 	Význam: zadržiavanie vlhkosti, tvorba biomasy, úkryt pre organizmy
 	pr. ploník (obyčajný a borievkový), rašelinik močiarný, merík vlnkatý
+
+### Plavúňorasty
+V prvohorách počas *karbónu* (už vyhynuté) boli stromovité -> **vznik uhlia**
+Súčasne sú zákonom chránené
+
+**Stavba tela**:
+- *Dvojaké listy*
+	- $\textbf{trofofyly}$ - zelené vyživovacie 
+	- $\textbf{sporofyly}$ - výtrusné listy  -> tvoria výtrusné klasy
+
+**Rozmnožovanie** a životný cyklus:
+- Heteromorfná rodozmena
+- *Gametofyt* => **prvorast** - !!! jednodomý
+- *Sporofyt* => celá rastlina
+- S > G
+
+**Systém**: (triedy)
+- $\textbf{Plavúne}$ 
+	pr. plavúň obyčajný, plavúň pučivý
+- $\textbf{Plavúňorasty}$ - majú *pajazíčky* na zachytávanie vody
+	pr. plavúnka brvitá
+
+### Prasličkorasty
+V prvohorách boli taktiež stromovité -> **tvorba uhlia**
+Dnes sú byliny
+
+![|200](praslička.png)
+
+**Stavba tela**:
+- Dutá ryhovaná stonka
+- Bunkové steny spevnené SiO2
+- Cievne zväzky v kruhu
+
+**Rozmnožovanie**:
+-> Na jar vyrastá fertilná byľ (bielohnedá) s *výtrusným klasom* (čerpá živiny z podzemku)
+-> Potom vyrastie letná byľ (zelená)
+Na šírenie výtrusov majú *haptery* -> obal výtrusu vyhodí vnútro
+
+### Sladičorasty (Papraďorasty)
+V prvohorách boli taktiež stromovité -> **tvorba uhlia**
+
+![|400](papraďorasty.png)
+
+**Stavba tela**:
+- *Listy* -> $\textbf{Trofosporofyly}$ (aj vyživovacie aj rozmnožovacie), mladé sú špirálovito zatočené
+
+**Rozmnožovanie**:
+*Gametofyt* je lupeňovitý (.5cm) -> prvorast
+
+pr. papraď samčia, orličník obyčajný, slezinník obyčajný, sladič obyčajný
