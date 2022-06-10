@@ -29,6 +29,13 @@ U *machorastov* prevláda gametofyt, všade inde sporofyt
 - *Semenné rastliny* - $\textbf{Spermatophyta}$
 
 ## Výtrusné rastliny
+**Význam**:
+- Biomasa
+	- Humus
+	- Uhlie
+- Kyslík
+- Liečivé
+
 ### Rýniorasty
 **Fosílne oddelenie** - už vyhynuté
 ![Zdola: rizomoid/podzemok, sterilné telómy, fertilné telómy|300](ryniorasty.png)
@@ -106,3 +113,61 @@ V prvohorách boli taktiež stromovité -> **tvorba uhlia**
 *Gametofyt* je lupeňovitý (.5cm) -> prvorast
 
 pr. papraď samčia, orličník obyčajný, slezinník obyčajný, sladič obyčajný
+
+## Semenné rastliny
+-> $\textbf{Spermatofyta}$
+
+**Semeno** z vnútra:
+- zárodok
+- endosperm
+- osemenie
+
+### Nahosemenné
+**Vývojový stupeň** medzi výtrusnými a krytosemennými rastlinamii - pôvod v $\textbf{rýniorastoch}$
+Iba suchozemské dreviny
+
+Semená nemajú v *pravom plode* -> **šiška, semenná šiška, semenná kôstkovica**
+Rozmnožovacie orgány vznikli *evolučnou premenou listou*
+**Heteromorfná rodozmena**, prevláda *sprofyt* -> `zastretá zmena` (veľmi redukovaný, iba pár 1n buniek)
+Sú *vetroopelivé*
+
+**Delenie**:
+- $\textbf{Kordaitorasty}$
+- $\textbf{Lyginodendrorasty}$
+- $\textbf{Borovicorasty}$
+- $\textbf{Cykasorasty}$
+
+#### Kordaitorasty
+Fosílne rastliny z prvohôr
+20-40m
+Vznik čierneho uhlia (karbon a perm)
+
+#### Lyginodendrorasty
+Fosílne stromy a kry z prvohôr
+**Vývojový stupeň** medzi výtrusnými a semennými
+
+#### Borovicorasty
+Rozkonárené stromy/kry
+Listy sú jednoduché/ihlicovité + *živicové kanáliky*
+
+**Delenie**:
+- $\textbf{Ginká}$ (Ginkopsida)
+- $\textbf{Ihličnany}$ (Pinopsida)
+	- Borovicotvaré (Pinales)
+	- Cyprusotvaré (Cupressales)
+	- Tisotvaré (Taxales)
+
+##### Ginká
+Jediný žijúci zástupca *Ginko dvojaločné*
+Dvojdomý opadavý strom, 40m
+Plod - **semenná kôstkovica**
+Má *brachyblasty*
+Doživa sa až 2000 rokov
+Prirodzene rastie len v JV Číne
+Liečivý
+
+##### Ihličnany
+
+
+### Krytosemenné
+Semená majú v *pravom plode* -> vyvinutý z kvetu

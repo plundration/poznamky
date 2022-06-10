@@ -48,10 +48,23 @@ Delenie podľa veku -> **produktivita** (predproduktívny, produktívny, postpro
 ![|800](populačná-pyramída-sveta.png)
 **Rasy**:
 - Mongoloídna
+	- mongólska
+	- indiánska
 - Ekvatoriálna
+	- africká (negroidná)
+	- austráloidná
 - Europoidná
+	- indoeurópska
+	- hamidská
+- *Mixy*
 
 ### Kultúrne
--> *Náboženstvo, Jazyk, *
+-> *Náboženstvo, Jazyk*
+
+**Jazykové rodiny**:
+- Indoeurópske
+	- Germánske
+	- Románske
+	- Slovanské
 
 ### Sociálne
