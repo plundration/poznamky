@@ -167,6 +167,61 @@ Prirodzene rastie len v JV Číne
 Liečivý
 
 ##### Ihličnany
+Vznik na konci prvohôr
+Listy ihlicovité, ihlice niekedy na *brachyblastoch*
+*Jednodomé vetroopelivé stromy,* zriedka kry
+**Plod** - drevnaté šišky, šiškové bobule, semenné bobule
+2-15 klíčnych listov, semená dozrievajú poaly (1-3 roky)
+Najmä S pologuľa
+Ťažba dreva, živice, potravinárstvo
+
+**Delenie**:
+- $\textbf{Borovicotvaré}$ (Pinales)
+	majú živicové kanáliky v dreve a kôre
+	*drevnaté šišky*
+	- `Jedľa biela`
+		intenzívna zelená farba
+		ploché ihlice vyrastajú jednotlivo
+		svetlá kôra
+		stojacie šišky
+	- `Smrek obyčajný`
+		ihlice dookola
+		ovysnuté šišky
+	- `Smrekovec opadavý`
+		Na jeseň sa sfarbí dohneda a opadajú ihlice
+		Ihlice vo zväzkoch na brachyblastoch
+	- `Duglaska tisolistá`
+	- `Borovica` (lesná, kosodrevinová, čierna, limbová, hladká)
+		Oranžová kôra
+		Zväzky dlhých ihlíc na brachyblastoch
+- $\textbf{Cyprusotvaré}$ (Cupressales)
+	Živicové kanáliky iba v kôre
+	**Plod** - *guľovitá šiška*
+	- `Sekvojovec mamutí`
+		Obrovské stromy
+		Prosperujú z požiarov
+	- `Sekvoja vždyzelená`
+	- `Cyprus vždyzelený`
+		Podobný tuji, vysoký a štíhly
+	- `Tuja západná`
+		Šupinaté ihlice
+	- `Borievka obyčajná`
+		Juniperus communis
+		Krátke šupinaté ihlice
+		Borovička a gin
+- $\textbf{Tisotvaré}$ (Taxales)
+	Celé *jedovaté okrem červených bobulí* (alkaloid $\textbf{Taxín}$)
+	**Plod** - semenná bobuľa
+	- `Tis obyčajný`
+		Málo v prírode, hlavne umelo vysadené
+- $\textbf{Cykasorasty}$ (Cycadophyta)
+	dreviny s valcovitým alebo hľuzovitým kmeňom bohatým na škrob
+	veľké (3m) perovito zložené listy
+	podobné palmám
+	**Plod** - semenná kôstkovica
+	- `Cykas japonský`
+	- `Cykas indický`
+	- `Zamiokulkas`
 
 
 ### Krytosemenné

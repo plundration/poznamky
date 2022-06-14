@@ -64,7 +64,30 @@ Delenie podľa veku -> **produktivita** (predproduktívny, produktívny, postpro
 **Jazykové rodiny**:
 - Indoeurópske
 	- Germánske
-	- Románske
+	- Románske 
 	- Slovanské
+	- Iránske
+	- Indoaríjské (India)
+- Afroázijské
+	- Semitské (arabčina)
+	- Berberské
+- Uralské
+- Japončina (izolovaný vývin)
+- Kórejčina
+- Sino-Tibetské (čínština)
+- Indiánske
+
+**Náboženstvá**:
+- Kresťanstvo
+	- Katolícke
+	- Protestantské
+	- Pravoslávne
+- Islam
+	- Sunni
+	- Shia
+- Budhizmus
+- Hinduizmus
+- Judaizmus
+- Konfucianizmus a Taoizmus
 
 ### Sociálne
