@@ -57,3 +57,29 @@ Vplývajú na neho **faktory**:
 2. *Dvojčlenné*
 	- úplne
 	- neúplné (s nevyjadreným podmetom)
+
+## Súvetia
+Spojenie aspoň dvoch viet
+
+### Jednoduché
+Obsahujú iba 2 vety
+*Vetosled je štriktný* v zlučvacom, stuňovacom a odporovacom
+
+- **Priraďovacie**
+	- Zlučovacie - *súčasne alebo bezprostredne za sebou*
+		Spojené buď spojkou alebo bez spojky
+		-> Mama varí a otec číta
+		-> Mama dovarila a nabrala polievku
+		spojky: a, i, aj, ani, a pritom, ani-ani, aj-aj, naprv-potom, sotva-potom, raz-raz
+	- Stupňovacie - druhá veta *vyjadruje vyšší stupeň* prvej vety
+		-> Nielen plakal, ale aj reval
+		spojky: ba, ba ani, dokonca, nielenže-ale aj, nielen-ale aj
+	- Odporovacie - keď druhá veta *odporuje* prvej
+		-> Zazvonil, ale nevošiel.
+		--> **čiarka pred A** ak sa dá nahradiť *ale* - Mraky sú, a neprší.
+		spojky: ale, no, len, ibaže, však, avšak, a predsa, síce-no, a
+	- Vylučovacie - obsahy sa *navzájom vylučujú*
+		*Vždy platí len jedna*
+		spojky: alebo, či, alebo-alebo, buď-alebo, či-či
+- **Podraďovacie**
+	 aaaaazazazaaaazaaaaaaaazaaaaaazazaaaazss
