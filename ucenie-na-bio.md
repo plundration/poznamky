@@ -43,6 +43,7 @@
 	- kvety
 	- čeľade
 - genetika
+	- **replikacia dna (polymeraza, vidlice, introny, exony, ...)**
 	- geneticke poruchy
 		- mutacie (genomove, genove, chromozomove)
 		- choroby

@@ -1,0 +1,3 @@
+# Termochémia
+
+**Rozsah reakcie:**
