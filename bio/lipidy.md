@@ -6,16 +6,18 @@
 ## Delenie
 ### Lipidy na báze mastných kyselín
 - **mastné kyseliny**
-	pr. kyselina palmitová
+![kyselina palmitová](kyselina_palmitova.png)
 - **mastné alkoholy**
-	pr. cetylalkohol
+![cetylalkohol|300](cetylalkohol.png)
 - **estery mastných kyselín**
-	pr. cetylpalmitát
-- **ikozanoidy** - odvodenia kyseliny arachidónovej
+![cetylpalmitát](cetylpalmitát.png)
+- **ikozanoidy**
+	Signalizačné látky tvorené oxidáciou kyseliny arachidónovej
 	- *prostaglandíny*
 	- *leukotriény*
 	- *tromboxány*
-	> vsetky tri
+![](ikozanoidy.png)
+![|600](ikozanoidy_synteza.png)
 
 ### Glycerolipidy
 -> mono/di/triacylglycerol
@@ -28,7 +30,7 @@
 	- fosffatidylcholíny - najviac zastúpený v membráne
 	- fosfatidylinozitoly -> `KOTVA PRE PROTEÍNY V MEMBRÁNE`
 	- s viacerými molekulami glycerolu
-> obrazky
+> obrázky
 - **éterové GPL**
 
 ### Sfingolipidy
@@ -103,16 +105,16 @@ Dá sa využiť na *glukoneogenézu* (syntézu glukózu, čo nie je pre živoč�
 Dvojité väzby *prekážajú pri viacerých krokoch* -> presunutie
 Pri niektorých sú aj konjugované
 
-#### Alfa-oxidácia
+### Alfa-oxidácia
 Problém s metylovými skupinami
 ![](alfa-oxidácia_kyseliny_fytanovej.png)
 
 >
 
-#### Omega-oxidácia
+### Omega-oxidácia
 **Glukoneogenéza** prebieha v pečeňových bunkách a čiastočne aj 
-### Ketogenéza
 
+### Ketogenéza
 >
 
 ## O mastných kyselinách
