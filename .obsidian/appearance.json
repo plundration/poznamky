@@ -1,8 +1,10 @@
 {
-  "baseFontSize": 13,
+  "baseFontSize": 26,
   "cssTheme": "yinyang",
   "enabledCssSnippets": [
     "caption",
-    "width"
-  ]
+    "width",
+    "latex"
+  ],
+  "baseFontSizeAction": true
 }

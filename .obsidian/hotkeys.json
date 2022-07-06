@@ -78,14 +78,7 @@
       "key": "ArrowRight"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
-    }
-  ],
+  "editor:toggle-highlight": [],
   "table-editor-obsidian:next-cell": [
     {
       "modifiers": [

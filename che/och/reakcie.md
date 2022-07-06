@@ -55,3 +55,6 @@ Rozbitie väzby je účinkom žiarenia
 1. +M efekt -> voľné páry (rezonancia a oktetové pravidlo)
 2. +I efekt -> Markovnikovo pravidlo
 3. R efekt -> rezonancia
+
+## Reaktivita
+Základom reaktivity je väčšinou *elektronegativita*

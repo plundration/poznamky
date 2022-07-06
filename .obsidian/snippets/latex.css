@@ -1,0 +1,11 @@
+mjx-math {
+  font-size: 112% !important;
+}
+.math-block > mjx-container[jax="CHTML"]  {
+  font-size: 120% !important;
+  text-align: left !important; 
+  padding: 7px !important;
+}
+mjx-math:empty {
+  display: none;
+}

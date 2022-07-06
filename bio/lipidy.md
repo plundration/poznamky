@@ -21,19 +21,23 @@
 
 ### Glycerolipidy
 -> mono/di/triacylglycerol
-> triacylglycerol
+![](triacylglycerol.png)
 
 ### Glycerofosfolipidy
 - **fosfatidáty**
+	![|450](fosfatidaty_substituenty.png)
 	- fosfatidylseríny 
 	- fosfatidyletanolamíny
 	- fosffatidylcholíny - najviac zastúpený v membráne
 	- fosfatidylinozitoly -> `KOTVA PRE PROTEÍNY V MEMBRÁNE`
 	- s viacerými molekulami glycerolu
-> obrázky
 - **éterové GPL**
 
 ### Sfingolipidy
+Látky veľmi dôležité v *transporte signálov v axónoch* a v *rozpoznávaní buniek*
+Sú to deriváty $\textbf{sfingozínu}$:
+![](sfingolipidy.png)
+
 - **sfingoidné bázy**
 	pr. sfingozín
 - **ceramidy**
@@ -42,20 +46,26 @@
 	pr. sfingomyeliín
 	sfingomyelín spolupracuje s cholesterolom na vezikulárnom transporte
 - **glykosfingolipidy**
-	- *neutrálne*
-	- *kyslé*
+	- *neutrálne* - cerebrozidy
+	- *kyslé* - gangliozidy
 
 ### Sterolové lipidy
+Deriváty $\textbf{sterolu}$, sú dôležité súčasti *bunkovej membrány*
+![sterol s typickými 6-6-6-5 cyklami|300](sterol.png)
+
 - **steroly** a ich estery
 	pr. cholesterol
+![](cholesterol.png)
 - **steroidy** a ich konjugáty
 	pr. kortizol -> proti zápalu (kortikoidy)
 ![Kortizol](kortizol.png)
 - **sekosteroidy**
 	pr. vitamín D3 -> absorbcia $\ce{Ca^2+}$
 ![Vitamín D3](vitamin-d.png)	
-- **žlčové kyseliny** - dôležité na trávenie 
-	pr. kyselin
+- **žlčové kyseliny** 
+	Dôležité pre trávenie *lipidov* (tvoria micely) a *bunkovú signalizáciu*
+	Tvoria sa v pečeni
+![](žlčové_kysliny.png)
 
 ### Prenolové lipidy
 - **izoprenoidy**
@@ -87,7 +97,7 @@ pr. aflatoxín B1 (plesne)
 Hlavne využívané *triacylglyceroly*
 
 ![hydrolýza triacylglycerolov](hydrolýza-lipidov.png)
-### Beta-oxidácia mastných kyselín
+### Beta-oxidácia MK
 **Mitochondriálna**:
 Prebieha pomocou *takmer jediného proteínu* ($\textbf{Mitochondriálny trifunkčný protein}$)
 Ďalej pokračuje $\textbf{Ac-CoA}$ do *Krebsovho cyklu* + glycerol ešte do **glykolýzy**
