@@ -29,6 +29,10 @@ Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry
 **Nukleofil:** musí mať voľný $e^-$ pár
 **Elektrofil:** musí mať prázdy orbitál
 
+### Elektrofily a nukleofily
+![|600](nukleofily_elektrofily.jpeg)
+
+
 ### Zapisovanie
 ![Šípky reakčných mechanizmov|1000](reak%C4%8Dn%C3%A9%20%C5%A1%C3%ADpky.png)
 

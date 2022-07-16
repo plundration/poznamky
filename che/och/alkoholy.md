@@ -12,6 +12,10 @@ Alkoholy sú *veľmi rozpustné vo vode*
 **Acido-bazickosť**:
 [Článok//todo](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)/13:_Structure_and_Synthesis_of_Alcohols/13.05:_Acidity_of_Alcohols_and_Phenols)
 
+
+
+
+
 ## Delenie
 **Podľa substituovanosti naviazaného uhlíka:**
 - *metylový*
@@ -34,3 +38,9 @@ Alkoholy sú *veľmi rozpustné vo vode*
 **Redukcia aldehydov a ketónov**:
 Prebieha pomocou *hydridového aniónu* - zdroje: $\ce{LiAlH4, NaBH4}$
 ![](redukcia-ketonov-na-alkoholy.png)
+
+
+## Reakcie
+> reakcia s chloridom toluensulfonovym
+
+> acidifikácia pomocou H+

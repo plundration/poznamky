@@ -9,3 +9,6 @@ výroba iných org. látok a ako rozpúšťadlo
 **Toluén**:
 kvapalná látka
 rozpúšťadlo, hlavný reaktant
+
+## Fenoly 
+![](fenoly_kyslosť.png)
