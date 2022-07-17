@@ -39,3 +39,11 @@ Existuje vo viacerých formách, hlavne *n-cykly* a v limite *reťazce*
 *Najreaktívnejší = biely fosfor*, pyroforický (samovznietivý), jedovatý, podlieha oxidácií:
 $\ce{P4 ->[O2] P4O6}$ oxid fosforitý v dimérnej forme $\ce{->[O2] P4O10}$ oxid fosforečný v dimérnej forme
 $\ce{P4O10 + 6H2O -> 4H3PO4}$ (hygroskopický, sušenie látok)
+
+## Efektívny náboj
+Príťažlíva sila pôsobiaca na valenčný elektrón 
+$$Z_{\text{eff}}=Z-S \qquad \text{Z = protónové číslo, S = počet vnútorných elektrónov}$$
+![](effective_nuclear_charge.png)
+
+*Stúpa vrámci periódy doprava*, kvôli stúpajúcemu protónovému číslu
+-> veľkosť elektrónového obalu **klesá vrámci periódy**
