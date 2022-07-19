@@ -14,6 +14,7 @@ Uplatňuje sa v *konjugovaných systémoch* -> dvojité väzby (planárne = prek
 **+M** - zvyšuje e- hustotu -> *viazaná jednoduchou. väzbou* a poskytuje voľný e- pár
 
 ![|1000](mezomerný-efekt.png)
+
 ## Hyperkonjugácia
 *Stabilizačná interakcia* medzi $\sigma$ **väzbou** a prázdnym/polovične naplneným $\pi$ **orbitálom**
 Dochádza k *delokalizácii elektrónov*
