@@ -5,7 +5,7 @@
 - Radikálové (.)
 
 ## Delenie
-### Substitučné
+### [Substitučné](substitúcie.md)
 Dochádza k *nahradeniu* jedného alebo viacerých atómov vodíka v uhľovodíku
 ![Nukleofilná substitúcia](nukleofilna-substitucia.png)
 
@@ -18,27 +18,23 @@ pr. `hydrogenácia, hydratácia`
 Dochádza k *odštiepeniu* atómov -> **zvyšovanie násobnosti väzby**
 pr. `dehydrogenácia, dehydratácia`
 
-### Prešmykové
+### [Prešmykové](prešmykové-reakcie.md)
 Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry)
 -> preskupenie atómov v molekule
 ![1,2-metyl prešmyk -> stabilizácia karbokatiónu|500](1,2-metyl-prešmyk.png)
 
 ## Reakčné mechanizmy
-[Reakčné mechanizmy - kniha](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)/04:_The_Study_of_Chemical_Reactions/5.02_Reaction_Mechanism_Notation_and_Symbols)
-
-**Nukleofil:** musí mať voľný $e^-$ pár
-**Elektrofil:** musí mať prázdy orbitál
-
-### Elektrofily a nukleofily
-![|600](nukleofily_elektrofily.jpeg)
-
+### [Elektrofily a nukleofily](nukleofily-a-elektrofily.md)
+`Nukleofil`: musí mať voľný $e^-$ pár
+`Elektrofil`: musí mať prázdy orbitál
+![|400](nukleofily_elektrofily.jpeg)
 
 ### Zapisovanie
 ![Šípky reakčných mechanizmov|1000](reak%C4%8Dn%C3%A9%20%C5%A1%C3%ADpky.png)
 
 ### Markovnikovo pravidlo
 ![Distribúcia kladného náboju medzi uhlíkmi](markovnikovo-pravidlo.png)
-*Vodík* sa naväzuje na uhlík s *vicerými vodíkmi*
+*Vodíkový katión* sa naväzuje na uhlík s *vicerými vodíkmi*
 Toto je vďaka [indukčnému efektu](elektrické-efekty.md#Indukčný%20efekt) a [hyperkonjugacii](elektrické-efekty.md#Hyperkonjugácia), ktoré stabilizujú karbokatióny s viacerými naviazanými skupinami
 Jeho platnosť sa *zvyšuje* pri **väčších teplotách**
 
@@ -59,6 +55,3 @@ Rozbitie väzby je účinkom žiarenia
 1. +M efekt -> voľné páry (rezonancia a oktetové pravidlo)
 2. +I efekt -> Markovnikovo pravidlo
 3. R efekt -> rezonancia
-
-## Reaktivita
-Základom reaktivity je väčšinou *elektronegativita*

@@ -7,6 +7,12 @@ $s-\sigma \ > \ p-\pi \ > \ d-\delta$
 ![500](sigma_bonds.png)
 ![400](d_orbital_bonds.png)
 
+### Elektronegativita
+Je to výsledok *tvorby [MO](orbitály.md#Molekulové%20orbitály)* medzi jadrami -> látky s *nižšími orbitálmi* sú **elektronegatívnejšie**
+![Väzbové páry majú väčší O charakter než N, antiväzbové naopak](NO-MO.png)
+
+![Pri veľkých rozdieloch v elektronegativite (energii) nevznikajú väzby](NaCl-soľ-MO.png)
+
 ### Štruktúrny vzorec
 **Určenie väzieb**:
 1. Určenie usporiadania atómov 
