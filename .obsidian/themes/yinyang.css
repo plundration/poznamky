@@ -807,12 +807,12 @@ settings:
   --s-header-4-pre: 1.28em;
   --s-header-5-pre: 1.18em;
   --s-header-6-pre: 1.08em;
-  --s-header-1-ed: 1.58rem;
-  --s-header-2-ed: 1.48rem;
-  --s-header-3-ed: 1.38rem;
-  --s-header-4-ed: 1.28rem;
-  --s-header-5-ed: 1.18rem;
-  --s-header-6-ed: 1.08rem;
+  --s-header-1-ed: 1.78rem;
+  --s-header-2-ed: 1.68rem;
+  --s-header-3-ed: 1.58rem;
+  --s-header-4-ed: 1.48rem;
+  --s-header-5-ed: 1.38rem;
+  --s-header-6-ed: 1.28rem;
 
   --f-header-1-pre: var(--default-font);
   --f-header-2-pre: var(--default-font);
@@ -1964,7 +1964,7 @@ HEADINGS
 .cm-s-obsidian .cm-header.cm-header-6 {
   font-family: var(--header-font-ed);
   color: inherit;
-  font-size: inherit;
+  font-size: inherit !important;
   font-weight: inherit;
   font-style: inherit;
   line-height: inherit;
@@ -1993,7 +1993,7 @@ body.is-mobile .HyperMD-header-2,
 .markdown-preview-section h2 {
   line-height: 1.2em;
   font-weight: 700;
-  font-size: var(--s-header-2-pre);
+  font-size: var(--s-header-2-pre) !important;
   color: var(--text-normal);
 }
 
@@ -2108,32 +2108,38 @@ SPECIFIC HEADINGS
 }
 
 .spec-size-head body.is-mobile .HyperMD-header-1,
-.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-1 {
+.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-1, 
+.cm-s-obsidian .cm-header-1 {
   font-size: var(--s-header-1-ed);
 }
 
 .spec-size-head body.is-mobile .HyperMD-header-2,
-.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-2 {
+.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-2,
+.cm-s-obsidian .cm-header-2 {
   font-size: var(--s-header-2-ed);
 }
 
 .spec-size-head body.is-mobile .HyperMD-header-3,
-.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-3 {
+.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-3,
+.cm-s-obsidian .cm-header-3 {
   font-size: var(--s-header-3-ed);
 }
 
 .spec-size-head body.is-mobile .HyperMD-header-4,
-.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-4 {
+.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-4, 
+.cm-s-obsidian .cm-header-4 {
   font-size: var(--s-header-4-ed);
 }
 
 .spec-size-head body.is-mobile .HyperMD-header-5,
-.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-5 {
+.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-5,
+.cm-s-obsidian .cm-header-5 {
   font-size: var(--s-header-5-ed);
 }
 
 .spec-size-head body.is-mobile .HyperMD-header-6,
-.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-6 {
+.spec-size-head .CodeMirror .CodeMirror-line.HyperMD-header-6,
+.cm-s-obsidian .cm-header-6 {
   font-size: var(--s-header-6-ed);
 }
 

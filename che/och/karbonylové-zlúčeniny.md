@@ -1,13 +1,9 @@
 # Karbonylové zlúčeniny
 -> $\ce{R-COH (aldehydy), R-CO-R (ketóny)}$
 
-Sú možné *nukleofilné substitúcie* pomocou katalýzy (napr. $\ce{TsOH}$)
-![|200](ketony_Sn.jpeg)
-
 **Keto-enol**:
 Vodíkové väzby pomáhaju stabilite enol formy pri 1,3-keto (enol) derivátoch
 Kyseliny dokážu katalyzovať *premenu ketónu na enol* -> zrýchlenie reakcie s enolom
-> keto enol
 
 ## Nukleofilné adície
 Nukleofil sa naväzuje na C atóm cez $\pi^*$ orbitál
@@ -81,4 +77,3 @@ Voda je *aj nukleofil* a tak vie reagovať s karbonylmi (**hlavne aldehydmi** kv
 
 Nie je potreba *kyslej katalýzy* pri adícii **kyanidu** -> bezpečnejšie
 ![](adícia_kyanidu_pomocou_siričitanu.png)
-
