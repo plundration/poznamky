@@ -76,3 +76,5 @@ Atóm dusíka má *čiastočný kladný náboj* kvôli delokalizácii a je v $sp
 2. Každý atóm má *konjugovaný* $p$ orbitál -> $sp^2$
 3. Má $4n+2 \ \pi$ elektrónov (**Huckel**) -> 2, 6, 10, 13,...
 4. Je *rovinná*
+
+![](aromatické-cykly.png)
